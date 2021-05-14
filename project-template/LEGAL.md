@@ -1,12 +1,11 @@
 # Open Source
 
-The following is legal information for all consumers and contributors of Appalachia Interactive open source projects.
+*The most recent version of this document can be found [here](https://github.com/AppalachiaInteractive/com.appalachia.legal/blob/main/project-template/LEGAL.md).*
 
-These projects can be found in their source code form on Github. Some of them can be found in a packaged form on OpenUPM.
+> The following is legal information for all consumers and contributors of Appalachia Interactive open source projects.  
+> These projects can be found in their source code form on Github. Some of them can be found in a packaged form on OpenUPM.  
 
 ## Legal Information
-
-The most recent version of this document can be found [here](https://github.com/AppalachiaInteractive/com.appalachia.legal/blob/main/project-template/LEGAL.md).
 
 This document will cover several topics:
 
