@@ -1,9 +1,13 @@
 # Open Source
 
-*The most recent version of this document can be found [here](https://github.com/AppalachiaInteractive/com.appalachia.legal/blob/main/project-template/LEGAL.md).*
+> *The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/open-source).*
 
-> The following is legal information for all consumers and contributors of Appalachia Interactive open source projects.  
-> These projects can be found in their source code form on Github. Some of them can be found in a packaged form on OpenUPM.  
+These terms govern your access to, use of, and contribution to Appalachia Interactive’s various open-source projects.  
+
+These projects are free to use.  They can be found in their source code form on Github. Some of them can be found in a packaged form on OpenUPM.  
+
+If you have additional questions or require more information about our Open Source policy, do not hesitate to contact us at `privacy@AppalachiaInteractive.com`.
+
 
 ## Legal Information
 
@@ -31,7 +35,7 @@ All other contributions are Copyright (c) `2020` their respective contributors. 
 
 #### Unity Technologies
 
-These materials are not sponsored by or affiliated with `Unity Technologies` or its affiliates. 
+These materials are not sponsored by or affiliated with `Unity Technologies` or its affiliates.  
 `Unity` and the `Unity` logo are trademarks or registered trademarks of `Unity Technologies` or its affiliates in the U.S. and elsewhere.
 
 ### Licensing
@@ -40,7 +44,7 @@ The license for this project is included in the [LICENSE.md](./LICENSE.md) file.
 
 In some cases, a [NOTICE.md](./NOTICE.md) file will be included, further describing the specifics of project licensing.
 
-It is possible that this project has preserved a previous license in either a subdirectory, such as [src/LICENSE.md](./src/LICENSE.md), or in a file 
+It is possible that this project has preserved a previous license in either a subdirectory, such as [src/LICENSE.md](./src/LICENSE.md), or in a file .
 
 ### Third Party Notices
 
