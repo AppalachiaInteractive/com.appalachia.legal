@@ -1,18 +1,50 @@
 ## Privacy Policy
 
-*The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/privacy-policy).*
+*The most recent version of this document can be found [here](https://appalachiainteractive.com/legal/privacy-policy).*
 
-This document contains types of information that is collected and recorded by Appalachia Interactive, accessible from [`https://appalachiainteractive.com`](https://appalachiainteractive.com), and how we use that information.  
+This document contains types of information that is collected and recorded by Appalachia Interactive, accessible from [https://appalachiainteractive.com](https://appalachiainteractive.com), and how we use that information.  
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at `privacy@AppalachiaInteractive.com`.  
-
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Appalachia Interactive. This policy is not applicable to any information collected offline or via channels other than this website.  
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at `privacy@appalachiainteractive.com`.  
 
 ### Consent
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.  Don't worry, there's nothing scary in here.
 
-### Information we collect
+### What this policy covers
+
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Appalachia Interactive. This policy is not applicable to any information collected offline or via channels other than this website.  
+
+### What this policy does *not* cover
+
+#### Third Parties
+
+Appalachia Interactive's Privacy Policy does not apply to other websites - even if they are linked to, or their content is embedded, here. Thus, we are advising you to consult the respective Privacy Policies of these third-party servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.  Where possible, we have limited your exposure to this kind of data collection.
+
+If you click a link and it takes you to an external website, this Privacy Policy does not apply there.
+
+#### Advertisers
+
+Appalachia Interactive does not show ads, and so your data is never sent to a third party advertiser.  *Whew!*
+
+#### A note for Wordpress.com users
+
+The Appalachia Interactive website is built on, and hosted by, Wordpress.com.  If you are a Wordpress.com user and you visit this site while logged in, be aware that you Wordpress.com may collect data that is unknown to us, and not described in or covered by this Privacy Policy.  Please review their Privacy Policy at [automattic.com](https://automattic.com/privacy/).
+
+### What we do
+
+We collect some information when you visit our website.  The reasons why, and what we collect, are detailed below.
+
+#### Why we collect information
+
+We use the information we collect in various ways, including to:
+
+- Understand and analyze the traffic and usage patterns of our website.
+- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes.
+- Send you emails, if you have requested so or initiated communication.
+- Find and prevent fraud...hopefully.
+- Optimize performance, because we are nerds who like to optimize and we need performance data to do that.
+
+#### What we collect
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
@@ -29,28 +61,19 @@ We will also collect technical information about your site visits:
 - referring/exit pages
 - other non-identifying information.
 
-### How we use your information
-
-We use the information we collect in various ways, including to:
-
-- Understand and analyze the traffic and usage pattersn of our website.
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes.
-- Send you emails, if you have requested so or initiated communication.
-- Find and prevent fraud.
-
-### Log Files
+#### A note about log files
 
 Appalachia Interactive follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
-### Advertising Privacy Policies
+### What we don't do
 
-Appalachia interactive does not show ads, and so your data is never sent to a third party advertiser.
+#### Selling Of Information
 
-### Third Party Privacy Policies
+Nope.  We do not sell data generated by your use of this website.
 
-Appalachia Interactive's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+#### Sharing of Personal Information
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+We do not share any indentifiable personal data generated by your use of this website.  We only share data with partners in order to provide the services of this website.  These include Wordpress.com and Google Analytics.
 
 ### CCPA Privacy Rights (Do Not Sell My Personal Information)
 
@@ -62,7 +85,7 @@ Request that a business delete any personal data about the consumer that a busin
 
 Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at `privacy@AppalachiaInteractive.com`.
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at `privacy@appalachiainteractive.com`.  We take this responsibility very seriously and will do everything we can to sort everything out for you.
 
 ### GDPR Data Protection Rights
 
@@ -80,8 +103,8 @@ The right to object to processing – You have the right to object to our proces
 
 The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at `privacy@AppalachiaInteractive.com`.
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at `privacy@appalachiainteractive.com`.  We take this responsibility very seriously and will do everything we can to sort everything out for you.
 
 ### Children's Information
 
-Appalachia Interactive does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.  Contact us at `privacy@AppalachiaInteractive.com`.
+Appalachia Interactive does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.  Contact us at `privacy@appalachiainteractive.com`.  We take this responsibility *extremely* seriously and will do everything we can to sort everything out for you.

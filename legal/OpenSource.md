@@ -1,6 +1,6 @@
 ## Open Source
 
-*The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/open-source).*
+*The most recent version of this document can be found [here](https://appalachiainteractive.com/legal/open-source).*
 
 These terms govern your access to, use of, and contribution to Appalachia Interactive’s various open-source projects.  
 
@@ -18,7 +18,7 @@ This document will cover several topics:
 - [Third Party Notices](#third-party-notices)
 - [Directory-Based Hierarchical Licensing](#directory-based-hierarchical-licensing)
 
-If you are the copyright, trademark, servicemark, or intellectual-property holder for something included in this project, and you do not feel that its use is adhering to your licensing terms, please immediately contact `admin (at) appalachiainteractive.com` so the issue can be addressed.
+If you are the copyright, trademark, servicemark, or intellectual-property holder for something included in this project, and you do not feel that its use is adhering to your licensing terms, please immediately contact `privacy@appalachiainteractive.com` so the issue can be addressed.
 
 ### Copyright
 
