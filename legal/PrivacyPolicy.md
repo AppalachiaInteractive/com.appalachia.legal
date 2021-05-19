@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-> *The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/privacy-policy).*
+*The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/privacy-policy).*
 
 This document contains types of information that is collected and recorded by Appalachia Interactive, accessible from [`https://appalachiainteractive.com`](https://appalachiainteractive.com), and how we use that information.  
 

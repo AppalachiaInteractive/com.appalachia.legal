@@ -1,6 +1,6 @@
 ## Open Source
 
-> *The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/open-source).*
+*The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/open-source).*
 
 These terms govern your access to, use of, and contribution to Appalachia Interactive’s various open-source projects.  
 
