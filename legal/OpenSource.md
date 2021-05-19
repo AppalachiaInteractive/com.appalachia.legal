@@ -1,4 +1,4 @@
-# Open Source
+## Open Source
 
 > *The most recent version of this document can be found [`here`](https://appalachiainteractive.com/legal/open-source).*
 
@@ -8,8 +8,7 @@ These projects are free to use.  They can be found in their source code form on 
 
 If you have additional questions or require more information about our Open Source policy, do not hesitate to contact us at `privacy@AppalachiaInteractive.com`.
 
-
-## Legal Information
+### Overview
 
 This document will cover several topics:
 
@@ -76,14 +75,13 @@ Therefore a system to interpret their application has been defined, namely `Dire
     - Subdirectories of directories with names beginning with the character `.` (`period`).
     - Files with names beginning with the character `.` (`period`).
   - Examples of applicable `NOTICES`:
-      - `directorya/subdirectory/LICENSE.md`
-      - `LICENSE.txt`
-      - `directorya/COPYRIGHT`
+    - `directorya/subdirectory/LICENSE.md`
+    - `LICENSE.txt`
+    - `directorya/COPYRIGHT`
   - Examples of non-applicable NOTICES:
-      - `.directorya/subdirectory/LICENSE.md`
-      - `.LICENSE.txt`
-      - `.directorya/COPYRIGHT`
-    
+    - `.directorya/subdirectory/LICENSE.md`
+    - `.LICENSE.txt`
+    - `.directorya/COPYRIGHT`
 
 - `NOTICES` that are applicable based on the previous scheme, shall be interpreted as applicable in the manner that follows:
   - `NOTICES` in a directory will apply to all files in that directory, unless their content states otherwise.
