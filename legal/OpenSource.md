@@ -1,4 +1,4 @@
-## Open Source
+# Open Source
 
 *The most recent version of this document can be found [here](https://appalachiainteractive.com/legal/open-source).*
 
@@ -8,7 +8,7 @@ These projects are free to use.  They can be found in their source code form on 
 
 If you have additional questions or require more information about our Open Source policy, do not hesitate to contact us at `privacy@AppalachiaInteractive.com`.
 
-### Overview
+## Overview
 
 This document will cover several topics:
 
@@ -20,24 +20,24 @@ This document will cover several topics:
 
 If you are the copyright, trademark, servicemark, or intellectual-property holder for something included in this project, and you do not feel that its use is adhering to your licensing terms, please immediately contact `privacy@appalachiainteractive.com` so the issue can be addressed.
 
-### Copyright
+## Copyright
 
 All contributions on behalf of `Appalachia Interactive`, or via `com.appalachia projects` are Copyright (c) `2021` `Appalachia Interactive`. All rights reserved.
 
 All other contributions are Copyright (c) `2020` their respective contributors. All rights reserved.
 
-### Trademarks and Servicemarks
+## Trademarks and Servicemarks
 
-#### Appalachia Interactive
+## Appalachia Interactive
 
 `Appalachia`, `Appa`, the `Appalachia Interactive` logo, the `Appalachia Interactive Mountain`, logo, and the `Appalachia Interactive Squirrel` logo are trademarks or registered trademarks of `Appalachia Interactive` or its affiliates in the U.S. and elsewhere.
 
-#### Unity Technologies
+## Unity Technologies
 
 These materials are not sponsored by or affiliated with `Unity Technologies` or its affiliates.  
 `Unity` and the `Unity` logo are trademarks or registered trademarks of `Unity Technologies` or its affiliates in the U.S. and elsewhere.
 
-### Licensing
+## Licensing
 
 The license for this project is included in the [LICENSE.md](./LICENSE.md) file.
 
@@ -45,7 +45,7 @@ In some cases, a [NOTICE.md](./NOTICE.md) file will be included, further describ
 
 It is possible that this project has preserved a previous license in either a subdirectory, such as [src/LICENSE.md](./src/LICENSE.md), or in a file .
 
-### Third Party Notices
+## Third Party Notices
 
 This project contains third-party software components governed by their own license and copyright notices.  
 
@@ -53,7 +53,7 @@ Please read further about [Directory-Based Hierarchical Licensing](#directory-ba
 
 In some cases, a [NOTICE.md](./NOTICE.md) file will be included, further describing the specifics of project licensing.
 
-### Directory-Based Hierarchical Licensing
+## Directory-Based Hierarchical Licensing
 
 This project and its respective files and directories contains many license, copyright, trademark, and other legal notices (from here on referred to as `NOTICES`).
 
