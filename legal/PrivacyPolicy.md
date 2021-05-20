@@ -67,7 +67,7 @@ Appalachia Interactive follows a standard procedure of using log files. These fi
 
 ### Analytics
 
-Anonymized site data is sent to Google Analytics.  This enables us to compare our application performance benchmarks to other similar websites.  We also allow Google technical support representatives and account specialists to access our analytics data when they are providing services to us.  You can read more about how Google Analytics' protects the data they consume [here](https://support.google.com/analytics/answer/6004245?hl=en&utm_id=ad).
+Anonymized site data is sent to Google Analytics.  This enables us to compare our application performance benchmarks to other similar websites.  We also allow Google technical support representatives and account specialists to access our analytics data when they are providing services to us.  You can read more about how Google Analytics' protects the data they consume [here](https://support.google.com/analytics/answer/6004245?hl=en&utm_id=ad).  In a nutshell (and this is not legal advice), they will only share your data onward with our consent - which we will not give.  Beyond that, they will use your data when providing us technical support or when required by law to provide it.
 
 ## What we don't do
 
