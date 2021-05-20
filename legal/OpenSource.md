@@ -28,11 +28,11 @@ All other contributions are Copyright (c) `2020` their respective contributors. 
 
 ## Trademarks and Servicemarks
 
-## Appalachia Interactive
+### Appalachia Interactive
 
 `Appalachia`, `Appa`, the `Appalachia Interactive` logo, the `Appalachia Interactive Mountain`, logo, and the `Appalachia Interactive Squirrel` logo are trademarks or registered trademarks of `Appalachia Interactive` or its affiliates in the U.S. and elsewhere.
 
-## Unity Technologies
+### Unity Technologies
 
 These materials are not sponsored by or affiliated with `Unity Technologies` or its affiliates.  
 `Unity` and the `Unity` logo are trademarks or registered trademarks of `Unity Technologies` or its affiliates in the U.S. and elsewhere.
@@ -45,7 +45,7 @@ In some cases, a [NOTICE.md](./NOTICE.md) file will be included, further describ
 
 It is possible that this project has preserved a previous license in either a subdirectory, such as [src/LICENSE.md](./src/LICENSE.md), or in a file .
 
-## Third Party Notices
+### Third Party Notices
 
 This project contains third-party software components governed by their own license and copyright notices.  
 
@@ -53,7 +53,7 @@ Please read further about [Directory-Based Hierarchical Licensing](#directory-ba
 
 In some cases, a [NOTICE.md](./NOTICE.md) file will be included, further describing the specifics of project licensing.
 
-## Directory-Based Hierarchical Licensing
+### Directory-Based Hierarchical Licensing
 
 This project and its respective files and directories contains many license, copyright, trademark, and other legal notices (from here on referred to as `NOTICES`).
 
