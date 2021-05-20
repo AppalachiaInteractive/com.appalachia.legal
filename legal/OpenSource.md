@@ -1,14 +1,18 @@
 # Open Source
 
-*The most recent version of this document can be found [here](https://appalachiainteractive.com/legal/open-source).*
+## Overview
 
 These terms govern your access to, use of, and contribution to Appalachia Interactive’s various open-source projects.  
 
 These projects are free to use.  They can be found in their source code form on Github. Some of them can be found in a packaged form on OpenUPM.  
 
-If you have additional questions or require more information about our Open Source policy, do not hesitate to contact us at `privacy@AppalachiaInteractive.com`.
+*The most recent version of this document can be found [here](https://appalachiainteractive.com/legal/open-source).*
 
-## Overview
+*The history of this document can be found [here](https://github.com/AppalachiaInteractive/com.appalachia.org/commits/main/legal/OpenSource.md).
+
+If after reading you have additional questions or require more information about our Open Source polcies, do not hesitate to contact us at `privacy@appalachiainteractive.com`.  
+
+## Contents
 
 This document will cover several topics:
 

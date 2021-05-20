@@ -1,14 +1,18 @@
 # Privacy Policy
 
-*The most recent version of this document can be found [here](https://appalachiainteractive.com/legal/privacy-policy).*
+## Overview
 
 This document contains types of information that is collected and recorded by Appalachia Interactive, accessible from [https://appalachiainteractive.com](https://appalachiainteractive.com), and how we use that information.  
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at `privacy@appalachiainteractive.com`.  
+*The most recent version of this document can be found [here](https://appalachiainteractive.com/legal/privacy-policy).*
+
+*The history of this document can be found [here](https://github.com/AppalachiaInteractive/com.appalachia.org/commits/main/legal/PrivacyPolicy.md).
+
+If after reading you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at `privacy@appalachiainteractive.com`.  
 
 ## Consent
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.  Don't worry, there's nothing scary in here.
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.  Don't worry, there's nothing scary in here.  If you do not agree with the terms, please exit our website now.  You may contact us at [privacy@appalachiainteractive.com](mailto:privacy@appalachiainteractive.com) to remove any data collected during your visit.
 
 ## What this policy covers
 
