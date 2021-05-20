@@ -7,9 +7,9 @@ This page contains links to important legal information for Appalachia Interacti
 ### Open Source
 
 [Open Source Use and Contributions](https://appalachiainteractive.com/legal/open-source)  
-*These terms govern your access to, use of, and contribution to Appalachia Interactive’s various open-source projects.*  
+*These policies describe and govern access to, use of, and contribution to Appalachia Interactive’s various open-source projects.*  
 
 ### Privacy Policy
 
 [Privacy Policy](https://appalachiainteractive.com/legal/privacy-policy)  
-*These terms govern your access to, use of, and contribution to Appalachia Interactive’s various open-source projects.*  
+*This policy is meant to help you understand what information we collect, why we collect it, and how you can access or and delete your information.*
