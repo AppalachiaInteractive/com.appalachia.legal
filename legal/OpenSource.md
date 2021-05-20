@@ -10,7 +10,7 @@ These projects are free to use.  They can be found in their source code form on 
 
 *The history of this document can be found [here](https://github.com/AppalachiaInteractive/com.appalachia.org/commits/main/legal/OpenSource.md).
 
-If after reading you have additional questions or require more information about our Open Source polcies, do not hesitate to contact us at `privacy@appalachiainteractive.com`.  
+If after reading you have additional questions or require more information about our Open Source polcies, do not hesitate to contact us at [privacy@appalachiainteractive.com](mailto:privacy@appalachiainteractive.com).  
 
 ## Contents
 
@@ -22,7 +22,7 @@ This document will cover several topics:
 - [Third Party Notices](#third-party-notices)
 - [Directory-Based Hierarchical Licensing](#directory-based-hierarchical-licensing)
 
-If you are the copyright, trademark, servicemark, or intellectual-property holder for something included in this project, and you do not feel that its use is adhering to your licensing terms, please immediately contact `privacy@appalachiainteractive.com` so the issue can be addressed.
+If you are the copyright, trademark, servicemark, or intellectual-property holder for something included in this project, and you do not feel that its use is adhering to your licensing terms, please immediately contact [privacy@appalachiainteractive.com](mailto:privacy@appalachiainteractive.com) so the issue can be addressed.
 
 ## Copyright
 

@@ -8,7 +8,7 @@ This document contains types of information that is collected and recorded by Ap
 
 *The history of this document can be found [here](https://github.com/AppalachiaInteractive/com.appalachia.org/commits/main/legal/PrivacyPolicy.md).
 
-If after reading you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at `privacy@appalachiainteractive.com`.  
+If after reading you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at [privacy@appalachiainteractive.com](mailto:privacy@appalachiainteractive.com).  
 
 ## Consent
 
@@ -93,7 +93,7 @@ Request that a business delete any personal data about the consumer that a busin
 
 Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at `privacy@appalachiainteractive.com`.  We take this responsibility very seriously and will do everything we can to sort everything out for you.
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at [privacy@appalachiainteractive.com](mailto:privacy@appalachiainteractive.com).  We take this responsibility very seriously and will do everything we can to sort everything out for you.
 
 ## GDPR Data Protection Rights
 
@@ -111,8 +111,8 @@ The right to object to processing – You have the right to object to our proces
 
 The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at `privacy@appalachiainteractive.com`.  We take this responsibility very seriously and will do everything we can to sort everything out for you.
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at [privacy@appalachiainteractive.com](mailto:privacy@appalachiainteractive.com).  We take this responsibility very seriously and will do everything we can to sort everything out for you.
 
 ## Children's Information
 
-Appalachia Interactive does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.  Contact us at `privacy@appalachiainteractive.com`.  We take this responsibility *extremely* seriously and will do everything we can to sort everything out for you.
+Appalachia Interactive does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.  Contact us at [privacy@appalachiainteractive.com](mailto:privacy@appalachiainteractive.com).  We take this responsibility *extremely* seriously and will do everything we can to sort everything out for you.
