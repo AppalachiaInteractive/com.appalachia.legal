@@ -4,22 +4,28 @@
 >
 > *- Author or speaker*
 
-## Why it matters
+## Why it matters to us
 
-Description of how we feel, what matters to us, and why we think this is important.
+Description of how we feel, what matters to us, and why we think this is so important.
 
 ## Who we support
 
 Individually, we are financially contributing to the following organizations:
 
-- [Organization A](https://orga.org) - Org A Summary.
+- ### [Organization A](https://orga.org)
 
-- [Organization B](https://orgb.org) - Org B Summary.
+  Org A Summary.
 
-- [Organization C](https://orgc.org) - Org C Summary.
+- ### [Organization B](https://orgb.org)
+
+  Org B Summary.
+
+- ### [Organization C](https://orgc.org)
+
+  Org C Summary.
 
 ---
 
-### The Future
+## The Future
 
 *As Appalachia Interactive grows into profitability, we intend to financially support these organizations, and more, at the studio level.  Please let us know of any organizations needing our support.  Reach us at [giving@appapachiainteractive.com](mailto:giving@appalachiainteractive.com).*
