@@ -1,4 +1,4 @@
-# Native American Causes
+# Native American nations and people
 
 > Before any final solution to American history can occur, a reconciliation must be effected between the spiritual owner of the land — American Indians — and the political owner of the land — American Whites. Guilt and accusations cannot continue to revolve in a vacuum without some effort at reaching a solution.
 >
@@ -17,6 +17,10 @@ We acknowledge that debt.  Our intent is to not simply repay it, but to be a sig
 **While *Keepers of Creation* is our flagship product, we intend for Native American causes to receive the biggest investment across all of our causes.  We intend to steadily grow our support of these communities, to include native artists and designers, students, tribes and nations, activist efforts and more.**
 
 To start with, individually, we are financially contributing to the following organizations:
+
+### [Lenape Nation of Pennsylvania](https://www.lenape-nation.org)
+
+The Lenape Nation of Pennsylvania is a 501(c)(3) non-profit organization dedicated to increasing awareness of Lenape history and culture. Created to join together the members of the Lenape Nation and anyone else interested in continuing the development of the language and culture of the Lenape people, the Lenape Nation of Pennsylvania is active in the revival of tradition and community. We encourage partnerships among people and organizations in order to foster cultural, historical, and environmental education and preservation.
 
 ### [Indian Land Tenure Foundation](https://iltf.org)
 

@@ -1,4 +1,4 @@
-# Animal Causes
+# Animal Rights
 
 > Until we have the courage to recognize cruelty for what it is — whether its victim is human or animal — we cannot exepct things to be much better in this world.
 >
