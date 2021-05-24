@@ -1,10 +1,6 @@
 # The Causes We Support
 
-> You often say, “I would give, but only to the deserving.”
->
->The trees in your orchard say not so, nor the flocks in your pasture.
->
->They give that they may live, for to withhold is to perish.
+> The trees in your orchard give that they may live, for to withhold is to perish.
 >
 >Surely he who is worthy to receive his days and his nights, is worthy of all else from you.
 >
