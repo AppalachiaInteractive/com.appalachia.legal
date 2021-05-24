@@ -1,0 +1,27 @@
+# The Causes We Support
+
+> You often say, “I would give, but only to the deserving.”
+>
+>The trees in your orchard say not so, nor the flocks in your pasture.
+>
+>They give that they may live, for to withhold is to perish.
+>
+>Surely he who is worthy to receive his days and his nights, is worthy of all else from you.
+>
+> And he who has deserved to drink from the ocean of life deserves to fill his cup from your little stream...
+>
+> For in truth it is life that gives unto life — while you, who deem yourself a giver, are but a witness.
+>
+> *- Khalil Gibran*
+
+## Today
+
+- [Native Peoples](https://appalachiainteractive.com/causes/native-peoples)
+
+- [Environmental Conservation](https://appalachiainteractive.com/causes/environment)
+
+- [Animal Rights](https://appalachiainteractive.com/causes/animals)
+
+## The Future
+
+As Appalachia Interactive grows into profitability, we intend to steadily increase financial support for these causes, and more, at the studio level.  Please let us know of any organizations needing our support.  Reach us at [giving@appapachiainteractive.com](mailto:giving@appalachiainteractive.com).
