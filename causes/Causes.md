@@ -10,6 +10,8 @@
 >
 > *- Khalil Gibran*
 
+
+We want to leave the world a better place than we found it.  Here's how we're trying to do that:
 ## Today
 
 - [Native Peoples](https://appalachiainteractive.com/causes/native-peoples)
