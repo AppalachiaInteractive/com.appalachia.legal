@@ -18,17 +18,17 @@ We acknowledge that debt.  Our intent is to not simply repay it, but to be a sig
 
 To start with, individually, we are financially contributing to the following organizations:
 
-- ### [Indian Land Tenure Foundation](https://iltf.org)
+### [Indian Land Tenure Foundation](https://iltf.org)
 
-  The Indian Land Tenure Foundation (ILTF) is a national, community-based organization serving American Indian nations and people in the recovery and control of their rightful homelands. We work to promote education, increase cultural awareness, create economic opportunity, and reform the legal and administrative systems that prevent Indian people from owning and controlling reservation lands.
+The Indian Land Tenure Foundation (ILTF) is a national, community-based organization serving American Indian nations and people in the recovery and control of their rightful homelands. We work to promote education, increase cultural awareness, create economic opportunity, and reform the legal and administrative systems that prevent Indian people from owning and controlling reservation lands.
 
-- ### [Lessons Of Our Land](https://www.lessonsofourland.org)
+### [Lessons Of Our Land](https://www.lessonsofourland.org)
 
-  Lessons of Our Land teaches the Native American story of this land from historical to modern times. The nonprofit Indian Land Tenure Foundation (ILTF) developed the curriculum to provide both Native and non-Native students with broader insight and understanding of land, cultures, inherent rights and tribal sovereignty. The larger goal is to have children and adults identify with the land they live on and be better prepared to solve the difficult issues that impact communities on or near reservations today.
+Lessons of Our Land teaches the Native American story of this land from historical to modern times. The nonprofit Indian Land Tenure Foundation (ILTF) developed the curriculum to provide both Native and non-Native students with broader insight and understanding of land, cultures, inherent rights and tribal sovereignty. The larger goal is to have children and adults identify with the land they live on and be better prepared to solve the difficult issues that impact communities on or near reservations today.
 
-- ### [Tribal Extension](https://tribalextension.org/)
+### [Tribal Extension](https://tribalextension.org/)
 
-  The Federally Recognized Tribal Extension Program supports Native American farmers, ranchers and youth through community outreach and practical programming across Indian Country.
+The Federally Recognized Tribal Extension Program supports Native American farmers, ranchers and youth through community outreach and practical programming across Indian Country.
 
 ---
 

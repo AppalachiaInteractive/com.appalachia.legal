@@ -12,17 +12,17 @@ Description of how we feel, what matters to us, and why we think this is so impo
 
 Individually, we are financially contributing to the following organizations:
 
-- ### [Organization A](https://orga.org)
+### [Organization A](https://orga.org)
 
-  Org A Summary.
+Org A Summary.
 
-- ### [Organization B](https://orgb.org)
+### [Organization B](https://orgb.org)
 
-  Org B Summary.
+Org B Summary.
 
-- ### [Organization C](https://orgc.org)
+### [Organization C](https://orgc.org)
 
-  Org C Summary.
+Org C Summary.
 
 ---
 
