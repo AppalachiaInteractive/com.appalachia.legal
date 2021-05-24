@@ -14,11 +14,11 @@
 We want to leave the world a better place than we found it.  Here's how we're trying to do that:
 ## Today
 
-- [Native Peoples](https://appalachiainteractive.com/causes/native-peoples)
+- ### [Native Peoples](https://appalachiainteractive.com/causes/native-peoples)
 
-- [Environmental Conservation](https://appalachiainteractive.com/causes/environment)
+- ### [Environmental Conservation](https://appalachiainteractive.com/causes/environment)
 
-- [Animal Rights](https://appalachiainteractive.com/causes/animals)
+- ### [Animal Rights](https://appalachiainteractive.com/causes/animals)
 
 ## The Future
 
