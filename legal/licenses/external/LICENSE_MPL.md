@@ -355,7 +355,7 @@ If You choose to distribute Source Code Form that is Incompatible With
 Secondary Licenses under the terms of this version of the License, the
 notice described in Exhibit B of this License must be attached.
 
-Exhibit A - Source Code Form License Notice
+Exhibit A — Source Code Form License Notice
 -------------------------------------------
 
   This Source Code Form is subject to the terms of the Mozilla Public
@@ -369,7 +369,7 @@ for such a notice.
 
 You may add additional accurate notices of copyright ownership.
 
-Exhibit B - "Incompatible With Secondary Licenses" Notice
+Exhibit B — "Incompatible With Secondary Licenses" Notice
 ---------------------------------------------------------
 
   This Source Code Form is "Incompatible With Secondary Licenses", as

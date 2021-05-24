@@ -22,7 +22,7 @@ This Privacy Policy applies only to our online activities and is valid for visit
 
 ### Third Parties
 
-Appalachia Interactive's Privacy Policy does not apply to other websites - even if they are linked to, or their content is embedded, here. Thus, we are advising you to consult the respective Privacy Policies of these third-party servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.  Where possible, we have limited your exposure to this kind of data collection.
+Appalachia Interactive's Privacy Policy does not apply to other websites — even if they are linked to, or their content is embedded, here. Thus, we are advising you to consult the respective Privacy Policies of these third-party servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.  Where possible, we have limited your exposure to this kind of data collection.
 
 If you click a link and it takes you to an external website, this Privacy Policy does not apply there.
 
@@ -71,7 +71,7 @@ Appalachia Interactive follows a standard procedure of using log files. These fi
 
 ### Analytics
 
-Anonymized site data is sent to Google Analytics.  This enables us to compare our application performance benchmarks to other similar websites.  We also allow Google technical support representatives and account specialists to access our analytics data when they are providing services to us.  You can read more about how Google Analytics' protects the data they consume [here](https://support.google.com/analytics/answer/6004245?hl=en&utm_id=ad).  In a nutshell (and this is not legal advice), they will only share your data onward with our consent - which we will not give.  Beyond that, they will use your data when providing us technical support or when required by law to provide it.
+Anonymized site data is sent to Google Analytics.  This enables us to compare our application performance benchmarks to other similar websites.  We also allow Google technical support representatives and account specialists to access our analytics data when they are providing services to us.  You can read more about how Google Analytics' protects the data they consume [here](https://support.google.com/analytics/answer/6004245?hl=en&utm_id=ad).  In a nutshell (and this is not legal advice), they will only share your data onward with our consent — which we will not give.  Beyond that, they will use your data when providing us technical support or when required by law to provide it.
 
 ## What we don't do
 

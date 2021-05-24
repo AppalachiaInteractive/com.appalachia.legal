@@ -8,7 +8,7 @@
 
 We are passionate lovers of nature, and supportors of environmental and conservation efforts.
 
-But beyond just environmental concern, we believe that the history of this American land - the genocide and expulsion of native peoples - has put those of us inhabiting this land into an even greater debt.  
+But beyond just environmental concern, we believe that the history of this American land — the genocide and expulsion of native peoples — has put those of us inhabiting this land into an even greater debt.  
 
 This land was taken illegally and violently.  Now, we who inhabit it must care for it and find ways to make amends to the ancestors of those who suffered.  You can read more about how Appalachia Interactive is trying to pay back its debt to native peoples [here](https://appalachiainteractive.com/causes/native-peoples).
 
