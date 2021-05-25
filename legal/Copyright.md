@@ -1,4 +1,4 @@
-# Copyright and Trademark information
+### Copyright and Trademark information
 
 APPALACHIA INTERACTIVE, the APPALACHIA INTERACTIVE Squirrel Logo design, the APPALACHIA INTERACTIVE Squirrel Icon design, the APPALACHIA INTERACTIVE Squirrel Block Logo design, and the the APPALACHIA INTERACTIVE Squirrel Narrow Logo design are trademarks, exclusive trademarks or registered trademarks of Appalachia Interactive in the U.S. and elsewhere.
 
