@@ -1,4 +1,4 @@
-# Appalachia Interactive Logos and Usage
+# Logos, Designs And Usage
 
 Thanks for your interest in our brand's assets!  We'd love for you to use them!
 
@@ -35,17 +35,17 @@ Finally, right?
     <tr>
         <td><code>Icon</code></td>
         <td>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_gold.png" style="max-width:256px" alt="">
+            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_gold.png" style="width:256px max-width:256px" alt="">
         </td>
         <td>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_black.png" style="max-width:128px" alt="">
+            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_black.png" style="width:128px; max-width:128px" alt="">
             <br/>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_white.png" style="max-width:128px" alt="">
+            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_white.png" style="width:128px; max-width:128px" alt="">
             </td>
         <td>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/icons/check-circle-regular.png" style="max-width:12px; padding: 0px 1px; margin: 0px;" alt="">
+            <img src="https://appalachiainteractive.com/wp-content/uploads/icons/check-circle-regular.png" style="width:12px; max-width:12px; padding: 0px 1px; margin: 0px;" alt="">
             <b>SHOULD</b> use in social-style buttons to link to us.<br/>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/icons/exclamation-circle-solid.png" style="max-width:12px; padding: 0px 1px; margin: 0px;" alt="">
+            <img src="https://appalachiainteractive.com/wp-content/uploads/icons/exclamation-circle-solid.png" style="width:12px; max-width:12px; padding: 0px 1px; margin: 0px;" alt="">
             <b>CAN</b> use in space-limited settings where even the <code>Mark</code> is hard to see.
         </td>
     </tr>
