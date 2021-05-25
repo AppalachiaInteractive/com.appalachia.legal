@@ -35,6 +35,10 @@ Please avoid naming your projects anything that implies Appalachia Interactive's
 
 If you still have questions, or you want to be *really* sure you're in the clear, jump to the bottom to check our full legal terms.
 
+### Other symbols
+
+See all the cool animal tracks around here?  We made them, and we're making them freely available in PNG, SVG, and normal map form [here](https://github.com/AppalachiaInteractive/animal_tracks).  Enjoy!
+
 ## Download
 
 By downloading our assets, you agree to our terms.  Click [here](https://appalachiainteractive.com/wp-content/uploads/logos/logos.zip) to download all of the resources shown below.
