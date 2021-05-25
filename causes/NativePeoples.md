@@ -1,4 +1,4 @@
-# Native American nations and people
+# Native American Peoples
 
 > Before any final solution to American history can occur, a reconciliation must be effected between the spiritual owner of the land — American Indians — and the political owner of the land — American Whites. Guilt and accusations cannot continue to revolve in a vacuum without some effort at reaching a solution.
 >
