@@ -8,10 +8,8 @@ Before we get to the good stuff, here's some guidelines for how to use our asset
 
 ### Colors
 
-<img src="https://appalachiainteractive.com/wp-content/uploads/brand/palette.png" style="width:100%; max-height:8px; border:1px solid #fff;"/>
-We love our colors.  So we hope you'll use the versions of our designs that incorporate them.  
-<br>
- However, if our colored designs clash with your work, you may use the monochromatic black or white versions of our designs.
+<img src="https://appalachiainteractive.com/wp-content/uploads/brand/palette.png" style="width:100%; max-height:8px; border:1px solid #fff;"/>  
+We love our colors.  So we hope you'll use the versions of our designs that incorporate them.  However, if our colored designs clash with your work, you may use the monochromatic black or white versions of our designs.
 
 #### Using the monochromatic designs
 
