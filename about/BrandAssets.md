@@ -6,51 +6,37 @@ Before we get to the good stuff, here's some guidelines for how to use our asset
 
 ## Usage Guidelines
 
+### Colors
+
+<img src="https://appalachiainteractive.com/wp-content/uploads/brand/palette.png" style="width:100%; max-height:8px; border:1px solid #fff;"/>
+We love our colors.  So we hope you'll use the versions of our designs that incorporate them.  
+<br>
+ However, if our colored designs clash with your work, you may use the monochromatic black or white versions of our designs.
+
+#### Using the monochromatic designs
+
+ The monochromatic versions of our designs come with a transparent background.   Please be considerate of how you overlay our designs.  For example:
+
+- The white version should only be used over a dark background.
+- The black version should only be used over a light background.
+
+ If you are not able to seat our designs in a way that makes them clear and well-defined, please contact us.  We are very committed to ensuring our brand is represented well in all mediums.
+
 ### Please contact us
 
 - If you want to use artwork not included in this repository.
 - If you want to use these images in a video or mainstream media.
 - If you want to use these images in news media.
+- If you are unable to leverage our existing artwork due to a technical or design issue.
 
 ### Naming projects and products
 
-- Please avoid naming your projects anything that implies Appalachia Interactive's endorsement. This also applies to domain names.
+Please avoid naming your projects anything that implies Appalachia Interactive's endorsement. This also applies to domain names.
 
 ### Legal
 
-- If you still have questions, or you want to be *really* sure you're in the clear, jump to the bottom to check our full legal terms.
-
-## The Assets
-
-Finally, right?
-
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Asset</th>
-        <th>Variations</th>
-        <th>Usage</th>
-    </tr>
-    <hr/>
-    <tr>
-        <td><code>Icon</code></td>
-        <td>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_gold.png" style="width:256px max-width:256px;" alt="">
-        </td>
-        <td>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_black.png" style="width:128px; max-width:128px;" alt="">
-            <br/>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/logos/1x/squirrel_icon_white.png" style="width:128px; max-width:128px;" alt="">
-            </td>
-        <td>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/icons/check-circle-regular.png" style="width:12px; max-width:12px; padding: 0px 1px; margin: 0px;" alt="">
-            <b>SHOULD</b> use in social-style buttons to link to us.<br/>
-            <img src="https://appalachiainteractive.com/wp-content/uploads/icons/exclamation-circle-solid.png" style="width:12px; max-width:12px; padding: 0px 1px; margin: 0px;" alt="">
-            <b>CAN</b> use in space-limited settings where even the <code>Mark</code> is hard to see.
-        </td>
-    </tr>
-</table>
+If you still have questions, or you want to be *really* sure you're in the clear, jump to the bottom to check our full legal terms.
 
 ## Download
 
-Click [here](https://appalachiainteractive.com/wp-content/uploads/logos/logos.zip) to download all of the resources shown above.
+By downloading our assets, you agree to our terms.  Click [here](https://appalachiainteractive.com/wp-content/uploads/logos/logos.zip) to download all of the resources shown below.
