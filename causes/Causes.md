@@ -14,6 +14,8 @@ We want to leave the world a better place than we found it.  Here's how we're tr
 
 ## Today
 
+We've split the causes that we're supporting today up by category.  You can follow the links below to see what we're supporting in each category.
+
 ### [Native Peoples](https://appalachiainteractive.com/causes/native-peoples)
 
 ### [Environmental Conservation](https://appalachiainteractive.com/causes/environment)
@@ -24,6 +26,8 @@ We want to leave the world a better place than we found it.  Here's how we're tr
 
 As Appalachia Interactive grows into profitability, we intend to steadily increase financial support for these causes, and more, at the studio level.  
 
-It's still too early, with too much unknown, for us to give specifics about our giving goals.  But we hope that in reading these pages, you will get a sense of who we are, and how committed we are to sharing what we have to make the world better.
+It's still too early for us to give specifics about our giving goals, but we are committed to contributing a portion of our net profit to these causes.  The more success we attain, the more generous we will be.  Further, with more resources to give, we intend to allow any future employees to help drive the direction of these contributions to causes that matter to them personally.
+
+We hope that in reading these pages, you will get a sense of who we are, and how committed we are to sharing what we have to make the world better.
 
 Please let us know of any organizations needing our support.  Reach us at [giving@appapachiainteractive.com](mailto:giving@appalachiainteractive.com).
