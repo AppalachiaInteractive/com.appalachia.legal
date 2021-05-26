@@ -1,4 +1,4 @@
-## FACTSHEET
+## Factsheet
 
 ### Press Contact
 

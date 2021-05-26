@@ -1,4 +1,4 @@
-## TIMELINE
+## Timeline
 
 ### 2022~
 Keepers of Creation alpha release.
