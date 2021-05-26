@@ -12,15 +12,19 @@ Appalachia Interactive is not, and does not aim to be, a traditional video game 
 
 Send us a note at [inquiries@appalachiainteractive.com](mailto:inquiries@appalachiainteractive.com) if you want to engage with what we're doing in any way.
 
+## Commitment
+
+We want to create works that deeply engage our audience.  Money is not the sole focus of our studio.  There are no ads, no micro-transactions, no pay-to-win, no subscriptions.  We're awake at night thinking about how to make our work more meaningful — not how to part our audience with their money.  Our marketing strategy is to make a product so good that you will share it with those around you.
+
+## Accessibility
+
+We don't cut corners on accessibility.  If you aren't able to play our games, please reach out to us at [accessibility@appalachiainteractive.com](mailto:accessibility@appalachiainteractive.com) and we will do everything we can to accomodate you.  You can read more about our accessibility efforts [here](https://appalachiainteractive.com/accessibility).
+
 ## Responsibility
 
 We don't ignore our ethical, moral, and social responsibilities.  We take it seriously when we represent something in our work — a living being, a place, a culture.  We recognize that the elements of our world that make their way into our stories, are owed something by us.
 
 If you want to learn about how we are repaying this debt now, and how we plan to in the future, check out our [causes](https://appalachiainteractive.com/causes).
-
-## Accessibility
-
-We dont't cut corners on accessibility.  If you aren't able to play our games, please reach out to us at [accessibility@appalachiainteractive.com](mailto:accessibility@appalachiainteractive.com) and we will do everything we can to accomodate you.  You can read more about our accessibility efforts [here](https://appalachiainteractive.com/accessibility).
 
 ## Respect
 
@@ -55,7 +59,3 @@ From the Seneca word `ohiːyo'`, meaning *"`good river`"*, *"`great river`"*, or
 `Apalachee` is a **`Muskogean`** language, related to other languages like **`Choctaw`** and **`Creek`**.  The `Appalachian` place-name was recorded during the Narváez Expedition's encounter in 1528 with the **`Tocobaga`**, who spoke of a country named `Apalachen` far to the north.
 
 These Native American languages, a critical part of the history of our land, are dying.  Please consider researching the native peoples from your area.  They may have a language preservation program that is in need of your assistance.
-
-## Commitment
-
-We want to create works that deeply engages our audience.  Money is not the sole focus of our studio.  There are no ads, no micro-transactions, no pay-to-win, no subscriptions.  We're awake at night thinking about how to make our work more meaningful — not how to part our audience with their money.
