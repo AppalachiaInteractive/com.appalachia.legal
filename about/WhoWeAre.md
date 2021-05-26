@@ -50,7 +50,7 @@ From the **`Lenape/Unami`** `welhìk` (*"`good`"*) + `hane` (*"`river`"* (in com
 
 #### Ohio
 
-From the Seneca word `ohiːyo'`, meaning *"`good river`"*, *"`great river`"*, or *"`large creek`"*.
+From the **`Seneca`** word `ohiːyo'`, meaning *"`good river`"*, *"`great river`"*, or *"`large creek`"*.
 
 ### Appalachia
 
