@@ -22,6 +22,10 @@ To start with, individually, we are financially contributing to the following or
 
 The Lenape Nation of Pennsylvania is a 501(c)(3) non-profit organization dedicated to increasing awareness of Lenape history and culture. Created to join together the members of the Lenape Nation and anyone else interested in continuing the development of the language and culture of the Lenape people, the Lenape Nation of Pennsylvania is active in the revival of tradition and community. We encourage partnerships among people and organizations in order to foster cultural, historical, and environmental education and preservation.
 
+### [Center for Native American Youth](https://www.cnay.org)
+
+The Center for Native American Youth (CNAY) at the Aspen Institute is a national education and advocacy organization that works alongside Native youth—ages 24 and under—on reservations, in rural villages and urban spaces across the country to improve their health, safety, and overall well- being. All Native youth deserve to lead full and healthy lives, have equal access to opportunity, draw strength from Native culture, and inspire one another. At CNAY, this is achieved through empowerment and culturally-competent methodologies that include leadership, youth-led policy agenda, and youth-led narrative.
+
 ### [Indian Land Tenure Foundation](https://iltf.org)
 
 The Indian Land Tenure Foundation (ILTF) is a national, community-based organization serving American Indian nations and people in the recovery and control of their rightful homelands. We work to promote education, increase cultural awareness, create economic opportunity, and reform the legal and administrative systems that prevent Indian people from owning and controlling reservation lands.
