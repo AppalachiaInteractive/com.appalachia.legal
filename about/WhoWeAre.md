@@ -1,6 +1,4 @@
-# Appalachia Interactive
-
-Hi.  We're Appalachia Interactive.
+# Hi.  We're Appalachia Interactive.
 
 ## Who we are
 
