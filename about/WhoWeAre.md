@@ -1,4 +1,4 @@
-# Hi.  We're Appalachia Interactive.
+# We're Appalachia Interactive
 
 ## Who we are
 
@@ -7,5 +7,3 @@ We're a small, independent video game studio based in Pittsburgh, Pennsylvania �
 We’re currently working on our first release — "Keepers of Creation".  
 
 ## What matters to us
-
-Here's a bit about what matters to us.
