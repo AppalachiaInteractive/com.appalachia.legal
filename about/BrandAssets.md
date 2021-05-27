@@ -19,7 +19,7 @@ We love our colors.  So we hope you'll use the versions of our designs that inco
 - The white version should only be used over a dark background.
 - The black version should only be used over a light background.
 
- If you are not able to seat our designs in a way that makes them clear and well-defined, please contact us.  We are very committed to ensuring our brand is represented well in all mediums.
+ If you are not able to seat our designs in a way that makes them clear and well-defined, please [contact us](mailto:brand@appalachiainteractive.com).  We are very committed to ensuring our brand is represented well in all mediums.
 
 ### Please contact us
 
@@ -27,6 +27,8 @@ We love our colors.  So we hope you'll use the versions of our designs that inco
 - If you want to use these images in a video or mainstream media.
 - If you want to use these images in news media.
 - If you are unable to leverage our existing artwork due to a technical or design issue.
+
+You can [contact us here](mailto:admin@appalachiainteractive.com).
 
 ### Naming projects and products
 

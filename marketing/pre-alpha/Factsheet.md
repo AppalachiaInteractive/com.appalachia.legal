@@ -2,7 +2,7 @@
 
 ### Press Contact
 
-[inquiries@appalachiainteractive.com](mailto:inquiries@appalachiainteractive.com)
+[press@appalachiainteractive.com](mailto:press@appalachiainteractive.com)
 
 ### Social
 
