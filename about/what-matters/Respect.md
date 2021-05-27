@@ -2,7 +2,7 @@
 
 We do our best to offer our respect to those who lived on this land before us, and to repay them for what was taken.  You can read more about that [here](https://appalachiainteractive.com/causes/native-peoples/).
 
-Pittsburgh sits on land previously occupied for thousands of years by native peoples, in a region the **`Seneca`** referred to as `Dionde:gâ`.  Our studio sits on the land of the Lenape, Seneca, Shawnee, Wyandot, Mohawk, and others​.  Their history can be glimpsed by taking a look at the names of our rivers, towns, and geological features.  
+Pittsburgh sits on land previously occupied for thousands of years by native peoples, in a region the **`Seneca`** referred to as `Dionde:gâ`.  Our studio sits on the land of the **`Lenape`**, **`Seneca`**, **`Shawnee`**, **`Wyandot`**, **`Mohawk`**, and others​.  Their history can be glimpsed by taking a look at the names of our rivers, towns, and geological features.  
 
 Let's revisit the description of our location above, with special attention to the language contributions of native peoples:
 
@@ -36,7 +36,7 @@ The three rivers of Pittsburgh are still the life-blood of the Western Pennsylva
 
 These Native American languages, a critical part of the history of our land, are dying.  Please consider researching the native peoples from your area.  They may have a language preservation or language revitalization program that is in need of your assistance.  
 
-Here's a great example from the **`Delaware Tribe of Indians`**: the [**`Lenape`** Talking Dictionary](https://www.talk-lenape.org/).
+Here's a great example from the **`Delaware Tribe of Indians`**: the [`Lenape` Talking Dictionary](https://www.talk-lenape.org/).
 
 #### Most importantly
 
