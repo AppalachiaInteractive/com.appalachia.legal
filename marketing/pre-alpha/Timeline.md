@@ -1,7 +1,7 @@
 ## Timeline
 
 ### 2022~
-Keepers of Creation alpha release.
+Keepers Of Creation alpha release.
 
 ### 2018
-Development begins on Keepers of Creation.
+Development begins on Keepers Of Creation.

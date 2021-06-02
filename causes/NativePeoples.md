@@ -14,7 +14,7 @@ We acknowledge that debt.  Our intent is to not simply repay it, but to be a sig
 
 ## Who we support
 
-**While *Keepers of Creation* is our flagship product, we intend for Native American causes to receive the biggest investment across all of our causes.  We intend to steadily grow our support of these communities, to include native artists and designers, students, tribes and nations, activist efforts and more.**
+**While *Keepers Of Creation* is our flagship product, we intend for Native American causes to receive the biggest investment across all of our causes.  We intend to steadily grow our support of these communities, to include native artists and designers, students, tribes and nations, activist efforts and more.**
 
 To start with, individually, we are financially contributing to the following organizations:
 
