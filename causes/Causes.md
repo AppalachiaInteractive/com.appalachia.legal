@@ -20,7 +20,7 @@ We've split the causes that we're supporting today up by category.  You can foll
 
 ### [Environmental Conservation](https://appalachiainteractive.com/causes/environment)
 
-### [Animal Rights](https://appalachiainteractive.com/causes/animals)
+### [Animal Rights](https://appalachiainteractive.com/causes/animal-rights)
 
 ## The Future
 
