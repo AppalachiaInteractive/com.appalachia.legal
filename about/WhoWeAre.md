@@ -2,7 +2,7 @@
 
 ## Who we are
 
-We're a small, independent video game studio based in Pittsburgh, Pennsylvania — near the confluence of the Monongahela, Allegheny, and Ohio rivers, nestled in the Appalachian Plateau, just west of the Allegheny Mountains, on the western side of the Appalachian Mountains.
+We're a small, independent video game studio based in Pittsburgh, Pennsylvania — near the confluence of the Monongahela, Allegheny, and Ohio rivers, nestled in the plateau on the western side of the Appalachian Mountains.
 
 We’re currently working on our first release — "Keepers Of Creation".  
 
