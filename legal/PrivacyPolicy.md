@@ -32,7 +32,7 @@ Appalachia Interactive does not show ads, and so your data is never sent to a th
 
 ### A note for Wordpress.com users
 
-The Appalachia Interactive website is built on, and hosted by, Wordpress.com.  If you are a Wordpress.com user and you visit this site while logged in, be aware that you Wordpress.com may collect data that is unknown to us, and not described in or covered by this Privacy Policy.  Please review their Privacy Policy at [automattic.com](https://automattic.com/privacy/).
+The Appalachia Interactive website is built on, and hosted by, Wordpress.com.  If you are a Wordpress.com user and you visit this site while logged in, be aware that Wordpress.com may collect data that is unknown to us, and not described in or covered by this Privacy Policy.  Please review their Privacy Policy at [automattic.com](https://automattic.com/privacy/).
 
 ## What we do
 
