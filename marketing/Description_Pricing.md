@@ -1,0 +1,1 @@
+*Keepers Of Creation will always be offered as choose-your-own-price (from $0.00 to full retail price) for all members of internationally-, nationally-, state- and province-recognized indigenous nations from around the world.*

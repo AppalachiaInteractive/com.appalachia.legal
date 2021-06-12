@@ -1,0 +1,1 @@
+Alone in the woods, players are invited to explore the old-growth rocky pine forests, jagged shale barrens, and lush cove forests while being challenged to survive using the strategies of those who lived there, and to learn to live in a land with a mind of its own.
