@@ -1,0 +1,1 @@
+Players seeking a relaxing experience can peacefully wander, swim, or paddle through the mesmerizing soundscape and beautiful geography of the land.  A dynamic 24-hour day/night cycle constantly repaints the world in a new light.

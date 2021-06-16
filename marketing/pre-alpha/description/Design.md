@@ -1,1 +1,1 @@
-Designed with a meticulous attention to detail, and in cooperation with indigenous artisans and artists.  Complex simulations of human, animal, and natural dynamics are woven together into a rich and layered environment, immersing you in a beautiful and fascinating world that breathes with life.
+Designed with a meticulous attention to detail, complex simulations of human, animal, and natural dynamics and physics are woven together into a rich and layered environment.  Immerse yourself in a beautiful and fascinating world that breathes with life.
