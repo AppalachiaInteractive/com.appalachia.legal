@@ -38,6 +38,10 @@ Lessons of Our Land teaches the Native American story of this land from historic
 
 The Federally Recognized Tribal Extension Program supports Native American farmers, ranchers and youth through community outreach and practical programming across Indian Country.
 
+### [Native Governance Center](https://nativegov.org/)
+
+Native Governance Center is a Native-led nonprofit organization that serves Native nations in Mni Sota Makoce, North Dakota, and South Dakota. We support Native leaders as they work to rebuild their nations through our leadership development and Tribal governance support programs. We believe that strengthening governance is a direct pathway toward improving quality of life for Native people.
+
 ---
 
 ## The Future
