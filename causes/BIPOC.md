@@ -6,7 +6,7 @@
 
 ## Why it matters to us
 
-We were educated on the idea of the great American "melting pot" — all of the world's people welcome to join the post-racial utopia of the United States.  WHen we look at the anti-minority and anti-immigrant sentiment in American today, it is easy to see that the utopia never existed.  
+We were educated on the idea of the great American "melting pot" — all of the world's people welcome to join the post-racial utopia of the United States.  When we look at the anti-minority and anti-immigrant sentiment in American today, it is easy to see that the utopia never existed.  
 
 Millions of Black, Indigenous, and People of Color have shared common history in the United States — inequality, forced assimilation, slavery, and genocide.  The result of these has been a prosperous and comfotable society for a middle and uppoer-class, predominantly white American society.  
 
