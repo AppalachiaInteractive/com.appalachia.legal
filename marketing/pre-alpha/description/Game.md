@@ -1,1 +1,1 @@
-Alone in the woods, players can explore the old-growth rocky pine forests, jagged shale barrens, and lush cove forests.  They'll be challenged to discover the survival strategies of the indigenous peoples that lived here.  Could *you* survive in a land with a mind of its own?
+Alone in the woods, players can explore the old-growth rocky pine forests, jagged shale barrens, and lush cove forests.  They'll be challenged to discover the survival strategies of the Indigenous peoples that lived here.  Could *you* survive in a land with a mind of its own?

@@ -1,4 +1,4 @@
-# Native American Peoples
+# Native Peoples
 
 > Before any final solution to American history can occur, a reconciliation must be effected between the spiritual owner of the land — American Indians — and the political owner of the land — American Whites. Guilt and accusations cannot continue to revolve in a vacuum without some effort at reaching a solution.
 >
@@ -6,15 +6,15 @@
 
 ## Why it matters to us
 
-We believe that the native peoples of America are owed for the loss of land, life and future that resulted from the European settlement of the Americas.  We have benefitted from this theft, and we intend to do our part to repay that debt.
+We believe that Native peoples are owed for the loss of land, life and future that resulted from the European settlement of the Americas.  We have benefitted from this theft, and we intend to do our part to repay that debt.
 
-Further, we have a deep appreciation and interest in native culture and lifestyles.  When we tell stories that drawn on native cultures and histories, we only increase that debt.
+Further, we have a deep appreciation and interest in Native culture and lifestyles.  When we tell stories that drawn on Native cultures and histories, we only increase that debt.
 
-We acknowledge that debt.  Our intent is to not simply repay it, but to be a significant net-positive for as many native communities as we can be.
+We acknowledge that debt.  Our intent is to not simply repay it, but to be a significant net-positive for as many Native communities as we can be.
 
 ## Who we support
 
-**While *Keepers Of Creation* is our flagship product, we intend for Native American causes to receive the biggest investment across all of our causes.  We intend to steadily grow our support of these communities, to include native artists and designers, students, tribes and nations, activist efforts and more.**
+**While *Keepers Of Creation* is our flagship product, we intend for Native causes to receive the biggest investment across all of our causes.  We intend to steadily grow our support of these communities, to include Native artists and designers, students, nations, activist efforts and more.**
 
 To start with, individually, we are financially contributing to the following organizations:
 

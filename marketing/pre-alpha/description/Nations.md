@@ -11,5 +11,5 @@ Skarù:ręˀ (Tuscarora)
 Susquehannock
 ᎠᏂᏴᏫᏯᎢ (Cherokee)
 Muskogee (Creek)
-Chikashshanompa' (Chicksaw)
+Chikashshanompa' (Chickasaw)
 Chahta Anumpa (Choctaw)
