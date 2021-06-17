@@ -1,5 +1,7 @@
 Pittsburgh sits on land previously occupied for thousands of years by Native peoples, in a region the **`Onödowáʼga:`** referred to as `Dionde:gâ`.  Their history can be glimpsed by taking a look at the names of our rivers, towns, and geological features.
 
+In addition to the nations listed above, other nations called the area home as they were displaced from their ancestral lands.  These include the **`Lenni Lenape`** (*Delaware*), **`Onödowáʼga:`** (*Seneca*), **`Wyandot`** (*Huron*), **`Kanienʼkehá꞉ka`** (*Mohawk*), **`Eriechronon`** (*Erie*), and others.
+
 We do our best to offer our respect to those who lived on this land before us, and to repay them for what was taken.  You can read more about that [here](https://appalachiainteractive.com/causes/native-peoples/).
 
 Let's revisit the description of our location above, with special attention to the languages of Native peoples:

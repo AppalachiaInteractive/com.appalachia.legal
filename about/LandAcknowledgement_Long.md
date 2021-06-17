@@ -1,1 +1,1 @@
-Our studio sits on the land of the **`𐓏𐒰𐓓𐒰𐓓𐒷`** (*Osage*), **`Shaawanwaki`** (*Shawnee*), **`Lenni Lenape`** (*Delaware*), **`Onödowáʼga:`** (*Seneca*), **`Wyandot`** (*Huron*), **`Kanienʼkehá꞉ka`** (*Mohawk*), and others.
+Our studio sits on the land of the **`𐓏𐒰𐓓𐒰𐓓𐒷`** (*Osage*), **`Shaawanwaki`** (*Shawnee*), **`Susquehannock`** (*Conestoga*), and others.
