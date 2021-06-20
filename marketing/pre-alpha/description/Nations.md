@@ -1,20 +1,32 @@
 
-Susquehannock (Conestoga)
-Eriechronon (Erie)
-𐓏𐒰𐓓𐒰𐓓𐒷 (Osage)
-Shaawanwaki (Shawnee)
-Lenni Lenape (Delaware)
-Onödowáʼga: (Seneca)
+Haudenosaunee Confederacy
+    Onödowáʼga: (Seneca)
+    Kanienʼkehá꞉ka (Mohawk)
+    Onöñda’gaga’ (Onondaga)
+    Onyota'a:ka (Oneida)
+    Gayogo̱hó꞉nǫʼ (Cayuga)
+    Skarù:ręˀ (Tuscarora)
+
+Muhhekunneuw (Mohicans)
 Wyandot (Huron)
-Kanienʼkehá꞉ka (Mohawk)
-Onöñda’gaga’ (Onondaga)
-Onyota'a:ka (Oneida)
-Gayogo̱hó꞉nǫʼ (Cayuga)
-Skarù:ręˀ (Tuscarora)
-ᎠᏂᏴᏫᏯᎢ (Cherokee)
-Chikashshanompa' (Chickasaw)
-Muskogee (Creek)
-Chahta Anumpa (Choctaw)
-Kauwets'a:ka (Meherrin)
-Myaamia (Miami)
+Lenni Lenape (Delaware)
 Nentego (Nanticoke)
+
+Susquehannock (Conestoga)*
+Eriechronon (Erie)*
+
+Shaawanwaki (Shawnee)
+
+Kaskaskia (descendents part of Peoria Tribe of Indians of Oklahoma)
+Myaamia (Miami)
+
+Kauwets'a:ka (Meherrin)
+
+ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ (Cherokee)
+Monacan
+𐓏𐒰𐓓𐒰𐓓𐒷 (Osage)
+Muskogee
+Iswa (Catawba)
+
+Chikashshanompa' (Chickasaw)
+Chahta Anumpa (Choctaw)

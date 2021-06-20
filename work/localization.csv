@@ -1,0 +1,113 @@
+title,body,labels,status,milestones
+[20pt] Localization Framework,Create a localization design & framework to enable translating KOC into multiple Native languages,task,open,version 0.5
+[8pt] Game Script Content Manager,Create and manage a comprehensive game script for translation purposes,task,open,version 0.5
+[8pt] Localization Direction,Offer direction to localization task assignees and clarify any pending questions,task,open,version 0.5
+[8pt] Translation Project Management,Ultimately drive the completion of the localization effort and communicate about the status clearly and proactively,task,open,version 0.5
+[2pt] Catawba - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Cayuga - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Cherokee - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Chickasaw - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Choctaw - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Delaware - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Huron - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Meherrin - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Miami - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Mohawk - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Mohicans - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Monacan - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Muskogee - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Nanticoke - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Oneida - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Onondaga - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Osage - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Peoria - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Seneca - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Shawnee - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] Tuscarora - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] French - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] Italian - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] Spanish - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] German - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] Spanish (Latin America) - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] Portuguese - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] Catawba - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Cayuga - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Cherokee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Chickasaw - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Choctaw - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Delaware - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Huron - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Meherrin - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Miami - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Mohawk - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Mohicans - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Monacan - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Muskogee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Nanticoke - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Oneida - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Onondaga - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Osage - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Peoria - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Seneca - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Shawnee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Tuscarora - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] French - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Italian - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Spanish - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] German - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Spanish (Latin America) - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[3pt] Portuguese - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[2pt] Catawba - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Cayuga - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Cherokee - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Chickasaw - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Choctaw - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Delaware - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Huron - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Meherrin - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Miami - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Mohawk - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Mohicans - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Monacan - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Muskogee - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Nanticoke - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Oneida - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Onondaga - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Osage - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Peoria - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Seneca - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Shawnee - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Tuscarora - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] French - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Italian - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Spanish - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] German - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Spanish (Latin America) - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[2pt] Portuguese - Translation Integration,Integrate the translation into the localization framework,task,open,version 0.8
+[1pt] Catawba - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Cayuga - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Cherokee - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Chickasaw - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Choctaw - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Delaware - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Huron - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Meherrin - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Miami - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Mohawk - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Mohicans - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Monacan - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Muskogee - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Nanticoke - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Oneida - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Onondaga - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Osage - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Peoria - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Seneca - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Shawnee - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Tuscarora - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] French - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Italian - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Spanish - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] German - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Spanish (Latin America) - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9
+[1pt] Portuguese - Translation Review,Quality review the translation in-game for the relevant language.,task,open,version 0.9

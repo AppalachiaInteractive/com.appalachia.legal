@@ -1,0 +1,982 @@
+title,body,labels,status,milestones
+3,Trees (Adult) - Ash-Black,Make a 3D model of a tree - Ash-Black,create model,open,version 0.1
+3,Trees (Adult) - Ash-White,Make a 3D model of a tree - Ash-White,create model,open,version 0.1
+3,Trees (Adult) - Beech,Make a 3D model of a tree - Beech,create model,open,version 0.1
+3,Trees (Adult) - Birch-Black,Make a 3D model of a tree - Birch-Black,create model,open,version 0.1
+3,Trees (Adult) - Birch-Paper,Make a 3D model of a tree - Birch-Paper,create model,open,version 0.1
+3,Trees (Adult) - Birch-Yellow,Make a 3D model of a tree - Birch-Yellow,create model,open,version 0.1
+3,Trees (Adult) - Buckeye-Yellow,Make a 3D model of a tree - Buckeye-Yellow,create model,open,version 0.1
+3,Trees (Adult) - Cedar-Eastern-Red-Thuja,Make a 3D model of a tree - Cedar-Eastern-Red-Thuja,create model,open,version 0.1
+3,Trees (Adult) - Chestnut,Make a 3D model of a tree - Chestnut,create model,open,version 0.1
+3,Trees (Adult) - Cucumbertree,Make a 3D model of a tree - Cucumbertree,create model,open,version 0.1
+3,Trees (Adult) - Dogwood-Flowering,Make a 3D model of a tree - Dogwood-Flowering,create model,open,version 0.1
+3,Trees (Adult) - Elm,Make a 3D model of a tree - Elm,create model,open,version 0.1
+3,Trees (Adult) - Hemlock-Eastern,Make a 3D model of a tree - Hemlock-Eastern,create model,open,version 0.1
+3,Trees (Adult) - Hickory-Pecan,Make a 3D model of a tree - Hickory-Pecan,create model,open,version 0.1
+3,Trees (Adult) - Hickory-Shagbark,Make a 3D model of a tree - Hickory-Shagbark,create model,open,version 0.1
+3,Trees (Adult) - Juniper-Red-Cedar,Make a 3D model of a tree - Juniper-Red-Cedar,create model,open,version 0.1
+3,Trees (Adult) - Linden,Make a 3D model of a tree - Linden,create model,open,version 0.1
+3,Trees (Adult) - Locus-Black,Make a 3D model of a tree - Locus-Black,create model,open,version 0.1
+3,Trees (Adult) - Locust-Honey,Make a 3D model of a tree - Locust-Honey,create model,open,version 0.1
+3,Trees (Adult) - Locust-Yellow-Osage-Orange,Make a 3D model of a tree - Locust-Yellow (Osage Orange),create model,open,version 0.1
+3,Trees (Adult) - Maple-Moosewood,Make a 3D model of a tree - Maple-Moosewood,create model,open,version 0.1
+3,Trees (Adult) - Maple-Red,Make a 3D model of a tree - Maple-Red,create model,open,version 0.1
+3,Trees (Adult) - Maple-Silver,Make a 3D model of a tree - Maple-Silver,create model,open,version 0.1
+3,Trees (Adult) - Maple-Sugar,Make a 3D model of a tree - Maple-Sugar,create model,open,version 0.1
+3,Trees (Adult) - Oak-Blackjack,Make a 3D model of a tree - Oak-Blackjack,create model,open,version 0.1
+3,Trees (Adult) - Oak-Red,Make a 3D model of a tree - Oak-Red,create model,open,version 0.1
+3,Trees (Adult) - Oak-White,Make a 3D model of a tree - Oak-White,create model,open,version 0.1
+3,Trees (Adult) - Pine-Pitch,Make a 3D model of a tree - Pine-Pitch,create model,open,version 0.1
+3,Trees (Adult) - Pine-Shortleaf,Make a 3D model of a tree - Pine-Shortleaf,create model,open,version 0.1
+3,Trees (Adult) - Pine-Table-Mountain,Make a 3D model of a tree - Pine-Table-Mountain,create model,open,version 0.1
+3,Trees (Adult) - Pine-Virginia,Make a 3D model of a tree - Pine-Virginia,create model,open,version 0.1
+3,Trees (Adult) - Pine-White,Make a 3D model of a tree - Pine-White,create model,open,version 0.1
+3,Trees (Adult) - Sassafras,Make a 3D model of a tree - Sassafras,create model,open,version 0.1
+3,Trees (Adult) - Serviceberry,Make a 3D model of a tree - Serviceberry,create model,open,version 0.1
+3,Trees (Adult) - Spruce-Black,Make a 3D model of a tree - Spruce-Black,create model,open,version 0.1
+3,Trees (Adult) - Sumac,Make a 3D model of a tree - Sumac,create model,open,version 0.1
+3,Trees (Adult) - Sweet-Gum,Make a 3D model of a tree - Sweet-Gum,create model,open,version 0.1
+3,Trees (Adult) - Sycamore,Make a 3D model of a tree - Sycamore,create model,open,version 0.1
+3,Trees (Adult) - Tamarack,Make a 3D model of a tree - Tamarack,create model,open,version 0.1
+3,Trees (Adult) - Tuliptree,Make a 3D model of a tree - Tuliptree,create model,open,version 0.1
+3,Trees (Adult) - Walnut,Make a 3D model of a tree - Walnut,create model,open,version 0.1
+3,Trees (Adult) - Willow,Make a 3D model of a tree - Willow,create model,open,version 0.1
+3,Trees (Various Ages) - Ash-Black,Convert adult tree model into age variations - Ash-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Ash-White,Convert adult tree model into age variations - Ash-White,create model,open,version 0.1
+3,Trees (Various Ages) - Beech,Convert adult tree model into age variations - Beech,create model,open,version 0.1
+3,Trees (Various Ages) - Birch-Black,Convert adult tree model into age variations - Birch-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Birch-Paper,Convert adult tree model into age variations - Birch-Paper,create model,open,version 0.1
+3,Trees (Various Ages) - Birch-Yellow,Convert adult tree model into age variations - Birch-Yellow,create model,open,version 0.1
+3,Trees (Various Ages) - Buckeye-Yellow,Convert adult tree model into age variations - Buckeye-Yellow,create model,open,version 0.1
+3,Trees (Various Ages) - Cedar-Eastern-Red-Thuja,Convert adult tree model into age variations - Cedar-Eastern-Red-Thuja,create model,open,version 0.1
+3,Trees (Various Ages) - Chestnut,Convert adult tree model into age variations - Chestnut,create model,open,version 0.1
+3,Trees (Various Ages) - Cucumbertree,Convert adult tree model into age variations - Cucumbertree,create model,open,version 0.1
+3,Trees (Various Ages) - Dogwood-Flowering,Convert adult tree model into age variations - Dogwood-Flowering,create model,open,version 0.1
+3,Trees (Various Ages) - Elm,Convert adult tree model into age variations - Elm,create model,open,version 0.1
+3,Trees (Various Ages) - Hemlock-Eastern,Convert adult tree model into age variations - Hemlock-Eastern,create model,open,version 0.1
+3,Trees (Various Ages) - Hickory-Pecan,Convert adult tree model into age variations - Hickory-Pecan,create model,open,version 0.1
+3,Trees (Various Ages) - Hickory-Shagbark,Convert adult tree model into age variations - Hickory-Shagbark,create model,open,version 0.1
+3,Trees (Various Ages) - Juniper-Red-Cedar,Convert adult tree model into age variations - Juniper-Red-Cedar,create model,open,version 0.1
+3,Trees (Various Ages) - Linden,Convert adult tree model into age variations - Linden,create model,open,version 0.1
+3,Trees (Various Ages) - Locus-Black,Convert adult tree model into age variations - Locus-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Locust-Honey,Convert adult tree model into age variations - Locust-Honey,create model,open,version 0.1
+3,Trees (Various Ages) - Locust-Yellow-Osage-Orange,Convert adult tree model into age variations - Locust-Yellow (Osage Orange),create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Moosewood,Convert adult tree model into age variations - Maple-Moosewood,create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Red,Convert adult tree model into age variations - Maple-Red,create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Silver,Convert adult tree model into age variations - Maple-Silver,create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Sugar,Convert adult tree model into age variations - Maple-Sugar,create model,open,version 0.1
+3,Trees (Various Ages) - Oak-Blackjack,Convert adult tree model into age variations - Oak-Blackjack,create model,open,version 0.1
+3,Trees (Various Ages) - Oak-Red,Convert adult tree model into age variations - Oak-Red,create model,open,version 0.1
+3,Trees (Various Ages) - Oak-White,Convert adult tree model into age variations - Oak-White,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Pitch,Convert adult tree model into age variations - Pine-Pitch,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Shortleaf,Convert adult tree model into age variations - Pine-Shortleaf,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Table-Mountain,Convert adult tree model into age variations - Pine-Table-Mountain,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Virginia,Convert adult tree model into age variations - Pine-Virginia,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-White,Convert adult tree model into age variations - Pine-White,create model,open,version 0.1
+3,Trees (Various Ages) - Sassafras,Convert adult tree model into age variations - Sassafras,create model,open,version 0.1
+3,Trees (Various Ages) - Serviceberry,Convert adult tree model into age variations - Serviceberry,create model,open,version 0.1
+3,Trees (Various Ages) - Spruce-Black,Convert adult tree model into age variations - Spruce-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Sumac,Convert adult tree model into age variations - Sumac,create model,open,version 0.1
+3,Trees (Various Ages) - Sweet-Gum,Convert adult tree model into age variations - Sweet-Gum,create model,open,version 0.1
+3,Trees (Various Ages) - Sycamore,Convert adult tree model into age variations - Sycamore,create model,open,version 0.1
+3,Trees (Various Ages) - Tamarack,Convert adult tree model into age variations - Tamarack,create model,open,version 0.1
+3,Trees (Various Ages) - Tuliptree,Convert adult tree model into age variations - Tuliptree,create model,open,version 0.1
+3,Trees (Various Ages) - Walnut,Convert adult tree model into age variations - Walnut,create model,open,version 0.1
+3,Trees (Various Ages) - Willow,Convert adult tree model into age variations - Willow,create model,open,version 0.1.
+3,Trees (Various Ages) - Ash-Black,Convert tree variants into stump & fallen variant - Ash-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Ash-White,Convert tree variants into stump & fallen variant - Ash-White,create model,open,version 0.1
+3,Trees (Various Ages) - Beech,Convert tree variants into stump & fallen variant - Beech,create model,open,version 0.1
+3,Trees (Various Ages) - Birch-Black,Convert tree variants into stump & fallen variant - Birch-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Birch-Paper,Convert tree variants into stump & fallen variant - Birch-Paper,create model,open,version 0.1
+3,Trees (Various Ages) - Birch-Yellow,Convert tree variants into stump & fallen variant - Birch-Yellow,create model,open,version 0.1
+3,Trees (Various Ages) - Buckeye-Yellow,Convert tree variants into stump & fallen variant - Buckeye-Yellow,create model,open,version 0.1
+3,Trees (Various Ages) - Cedar-Eastern-Red-Thuja,Convert tree variants into stump & fallen variant - Cedar-Eastern-Red-Thuja,create model,open,version 0.1
+3,Trees (Various Ages) - Chestnut,Convert tree variants into stump & fallen variant - Chestnut,create model,open,version 0.1
+3,Trees (Various Ages) - Cucumbertree,Convert tree variants into stump & fallen variant - Cucumbertree,create model,open,version 0.1
+3,Trees (Various Ages) - Dogwood-Flowering,Convert tree variants into stump & fallen variant - Dogwood-Flowering,create model,open,version 0.1
+3,Trees (Various Ages) - Elm,Convert tree variants into stump & fallen variant - Elm,create model,open,version 0.1
+3,Trees (Various Ages) - Hemlock-Eastern,Convert tree variants into stump & fallen variant - Hemlock-Eastern,create model,open,version 0.1
+3,Trees (Various Ages) - Hickory-Pecan,Convert tree variants into stump & fallen variant - Hickory-Pecan,create model,open,version 0.1
+3,Trees (Various Ages) - Hickory-Shagbark,Convert tree variants into stump & fallen variant - Hickory-Shagbark,create model,open,version 0.1
+3,Trees (Various Ages) - Juniper-Red-Cedar,Convert tree variants into stump & fallen variant - Juniper-Red-Cedar,create model,open,version 0.1
+3,Trees (Various Ages) - Linden,Convert tree variants into stump & fallen variant - Linden,create model,open,version 0.1
+3,Trees (Various Ages) - Locus-Black,Convert tree variants into stump & fallen variant - Locus-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Locust-Honey,Convert tree variants into stump & fallen variant - Locust-Honey,create model,open,version 0.1
+3,Trees (Various Ages) - Locust-Yellow-Osage-Orange,Convert tree variants into stump & fallen variant - Locust-Yellow (Osage Orange),create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Moosewood,Convert tree variants into stump & fallen variant - Maple-Moosewood,create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Red,Convert tree variants into stump & fallen variant - Maple-Red,create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Silver,Convert tree variants into stump & fallen variant - Maple-Silver,create model,open,version 0.1
+3,Trees (Various Ages) - Maple-Sugar,Convert tree variants into stump & fallen variant - Maple-Sugar,create model,open,version 0.1
+3,Trees (Various Ages) - Oak-Blackjack,Convert tree variants into stump & fallen variant - Oak-Blackjack,create model,open,version 0.1
+3,Trees (Various Ages) - Oak-Red,Convert tree variants into stump & fallen variant - Oak-Red,create model,open,version 0.1
+3,Trees (Various Ages) - Oak-White,Convert tree variants into stump & fallen variant - Oak-White,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Pitch,Convert tree variants into stump & fallen variant - Pine-Pitch,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Shortleaf,Convert tree variants into stump & fallen variant - Pine-Shortleaf,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Table-Mountain,Convert tree variants into stump & fallen variant - Pine-Table-Mountain,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-Virginia,Convert tree variants into stump & fallen variant - Pine-Virginia,create model,open,version 0.1
+3,Trees (Various Ages) - Pine-White,Convert tree variants into stump & fallen variant - Pine-White,create model,open,version 0.1
+3,Trees (Various Ages) - Sassafras,Convert tree variants into stump & fallen variant - Sassafras,create model,open,version 0.1
+3,Trees (Various Ages) - Serviceberry,Convert tree variants into stump & fallen variant - Serviceberry,create model,open,version 0.1
+3,Trees (Various Ages) - Spruce-Black,Convert tree variants into stump & fallen variant - Spruce-Black,create model,open,version 0.1
+3,Trees (Various Ages) - Sumac,Convert tree variants into stump & fallen variant - Sumac,create model,open,version 0.1
+3,Trees (Various Ages) - Sweet-Gum,Convert tree variants into stump & fallen variant - Sweet-Gum,create model,open,version 0.1
+3,Trees (Various Ages) - Sycamore,Convert tree variants into stump & fallen variant - Sycamore,create model,open,version 0.1
+3,Trees (Various Ages) - Tamarack,Convert tree variants into stump & fallen variant - Tamarack,create model,open,version 0.1
+3,Trees (Various Ages) - Tuliptree,Convert tree variants into stump & fallen variant - Tuliptree,create model,open,version 0.1
+3,Trees (Various Ages) - Walnut,Convert tree variants into stump & fallen variant - Walnut,create model,open,version 0.1
+3,Trees (Various Ages) - Willow,Convert tree variants into stump & fallen variant - Willow,create model,open,version 0.1
+3,Bird - American Crow,Create a 3D model of a American Crow,create model,open,version 0.1
+5,Bird - American Kestral,Create a 3D model of a American Kestral,create model,open,version 0.1
+8,Bird - Bald Eagle,Create a 3D model of a Bald Eagle,create model,open,version 0.1
+3,Bird - Baltimore Oriole,Create a 3D model of a Baltimore Oriole,create model,open,version 0.1
+3,Bird - Barn Owl,Create a 3D model of a Barn Owl,create model,open,version 0.1
+3,Bird - Blue Jay,Create a 3D model of a Blue Jay,create model,open,version 0.1
+3,Bird - Blue Winged Teal,Create a 3D model of a Blue Winged Teal,create model,open,version 0.1
+3,Bird - Canada Goose,Create a 3D model of a Canada Goose,create model,open,version 0.1
+3,Bird - Common Raven,Create a 3D model of a Common Raven,create model,open,version 0.1
+3,Bird - Green Winged Teal,Create a 3D model of a Green Winged Teal,create model,open,version 0.1
+3,Bird - Mourning Dove,Create a 3D model of a Mourning Dove,create model,open,version 0.1
+3,Bird - Northern Cardinal,Create a 3D model of a Northern Cardinal,create model,open,version 0.1
+3,Bird - Northern Flicker,Create a 3D model of a Northern Flicker,create model,open,version 0.1
+5,Bird - Red Shouldered Hawk,Create a 3D model of a Red Shouldered Hawk,create model,open,version 0.1
+5,Bird - Red Tailed Hawk,Create a 3D model of a Red Tailed Hawk,create model,open,version 0.1
+5,Bird - Ruffed Grouse,Create a 3D model of a Ruffed Grouse,create model,open,version 0.1
+3,Bird - Trumpeter Swan,Create a 3D model of a Trumpeter Swan,create model,open,version 0.1
+8,Bird - Wild Turkey,Create a 3D model of a Wild Turkey,create model,open,version 0.1
+3,Fish - Bass,Create a 3D model of a Bass,create model,open,version 0.1
+3,Fish - Perch,Create a 3D model of a Perch,create model,open,version 0.1
+3,Fish - Pike,Create a 3D model of a Pike,create model,open,version 0.1
+3,Fish - Trout,Create a 3D model of a Trout,create model,open,version 0.1
+3,Animal - Badger,Create a 3D model of a Badger,create model,open,version 0.1
+3,Animal - Beaver,Create a 3D model of a Beaver,create model,open,version 0.1
+8,Animal - Bison,Create a 3D model of a Bison,create model,open,version 0.1
+5,Animal - Black Bear,Create a 3D model of a Black Bear,create model,open,version 0.1
+3,Animal - Bobcat,Create a 3D model of a Bobcat,create model,open,version 0.1
+5,Animal - Brown Bear,Create a 3D model of a Brown Bear,create model,open,version 0.1
+8,Animal - Cougar,Create a 3D model of a Cougar,create model,open,version 0.1
+8,Animal - Coyote,Create a 3D model of a Coyote,create model,open,version 0.1
+5,Animal - Deer,Create a 3D model of a Deer,create model,open,version 0.1
+5,Animal - Elk,Create a 3D model of a Elk,create model,open,version 0.1
+3,Animal - Fox,Create a 3D model of a Fox,create model,open,version 0.1
+5,Animal - Moose,Create a 3D model of a Moose,create model,open,version 0.1
+3,Animal - Opossum,Create a 3D model of a Opossum,create model,open,version 0.1
+3,Animal - Otter,Create a 3D model of a Otter,create model,open,version 0.1
+5,Animal - Porcupine,Create a 3D model of a Porcupine,create model,open,version 0.1
+3,Animal - Rabbit,Create a 3D model of a Rabbit,create model,open,version 0.1
+3,Animal - Raccoon,Create a 3D model of a Raccoon,create model,open,version 0.1
+3,Animal - Skunk,Create a 3D model of a Skunk,create model,open,version 0.1
+3,Animal - Squirrel,Create a 3D model of a Squirrel,create model,open,version 0.1
+8,Animal - Wolf,Create a 3D model of a Wolf,create model,open,version 0.1
+3,Animal - Wolverine,Create a 3D model of a Wolverine,create model,open,version 0.1
+3,Animal Pelt - Badger,Create a 3D model of a Badger pelt,create model,open,version 0.1
+3,Animal Pelt - Beaver,Create a 3D model of a Beaver pelt,create model,open,version 0.1
+3,Animal Pelt - Bison,Create a 3D model of a Bison pelt,create model,open,version 0.1
+3,Animal Pelt - Black Bear,Create a 3D model of a Black Bear pelt,create model,open,version 0.1
+3,Animal Pelt - Bobcat,Create a 3D model of a Bobcat pelt,create model,open,version 0.1
+3,Animal Pelt - Brown Bear,Create a 3D model of a Brown Bear pelt,create model,open,version 0.1
+3,Animal Pelt - Cougar,Create a 3D model of a Cougar pelt,create model,open,version 0.1
+3,Animal Pelt - Coyote,Create a 3D model of a Coyote pelt,create model,open,version 0.1
+3,Animal Pelt - Deer,Create a 3D model of a Deer pelt,create model,open,version 0.1
+3,Animal Pelt - Elk,Create a 3D model of a Elk pelt,create model,open,version 0.1
+3,Animal Pelt - Fox,Create a 3D model of a Fox pelt,create model,open,version 0.1
+3,Animal Pelt - Moose,Create a 3D model of a Moose pelt,create model,open,version 0.1
+3,Animal Pelt - Opossum,Create a 3D model of a Opossum pelt,create model,open,version 0.1
+3,Animal Pelt - Otter,Create a 3D model of a Otter pelt,create model,open,version 0.1
+3,Animal Pelt - Porcupine,Create a 3D model of a Porcupine pelt,create model,open,version 0.1
+3,Animal Pelt - Rabbit,Create a 3D model of a Rabbit pelt,create model,open,version 0.1
+3,Animal Pelt - Raccoon,Create a 3D model of a Raccoon pelt,create model,open,version 0.1
+3,Animal Pelt - Skunk,Create a 3D model of a Skunk pelt,create model,open,version 0.1
+3,Animal Pelt - Squirrel,Create a 3D model of a Squirrel pelt,create model,open,version 0.1
+3,Animal Pelt - Wolf,Create a 3D model of a Wolf pelt,create model,open,version 0.1
+3,Animal Pelt - Wolverine,Create a 3D model of a Wolverine pelt,create model,open,version 0.1
+3,Animal Rawhide - Bison,Create a 3D model of a rawhide from a Bison,create model,open,version 0.1
+3,Animal Rawhide - Deer,Create a 3D model of a rawhide from a Deer,create model,open,version 0.1
+3,Animal Rawhide - Elk,Create a 3D model of a rawhide from a Elk,create model,open,version 0.1
+3,Animal Rawhide - Moose,Create a 3D model of a rawhide from a Moose,create model,open,version 0.1
+3,Animal Rawhide - Small Game,Create a 3D model of a rawhide from small game,create model,open,version 0.1
+3,Animal Rawhide - Strips,Create a 3D model of a rawhide strips or laces,create model,open,version 0.1
+3,Food - Raw - Sunflower,Create a 3D model of a raw Sunflower Seed,create model,open,version 0.1
+3,Food - Raw - Grapes Bunch,Create a 3D model of a raw Grapes Bunch,create model,open,version 0.1
+3,Food - Raw - Pawpaw,Create a 3D model of a raw Pawpaw,create model,open,version 0.1
+3,Food - Raw - Beet,Create a 3D model of a raw Beet,create model,open,version 0.1
+3,Food - Raw - Corn Cob,Create a 3D model of a raw Corn Cob,create model,open,version 0.1
+3,Food - Raw - Cucumber,Create a 3D model of a raw Cucumber,create model,open,version 0.1
+3,Food - Raw - Garlic,Create a 3D model of a raw Garlic,create model,open,version 0.1
+3,Food - Raw - Onion,Create a 3D model of a raw Onion,create model,open,version 0.1
+3,Food - Raw - Pumpkin,Create a 3D model of a raw Pumpkin,create model,open,version 0.1
+3,Food - Raw - Squash,Create a 3D model of a raw Squash,create model,open,version 0.1
+3,Food - Raw - Sweet Potato,Create a 3D model of a raw Sweet Potato,create model,open,version 0.1
+3,Food - Cooked - Beet,Create a 3D model of a cooked Beet,create model,open,version 0.1
+3,Food - Cooked - Corn Cob,Create a 3D model of a cooked Corn Cob,create model,open,version 0.1
+3,Food - Cooked - Cucumber,Create a 3D model of a cooked Cucumber,create model,open,version 0.1
+3,Food - Cooked - Garlic,Create a 3D model of a cooked Garlic,create model,open,version 0.1
+3,Food - Cooked - Onion,Create a 3D model of a cooked Onion,create model,open,version 0.1
+3,Food - Cooked - Pumpkin,Create a 3D model of a cooked Pumpkin,create model,open,version 0.1
+3,Food - Cooked - Squash,Create a 3D model of a cooked Squash,create model,open,version 0.1
+3,Food - Cooked - Sweet Potato,Create a 3D model of a cooked Sweet Potato,create model,open,version 0.1
+3,Food - Raw - Bean (Black),Create a 3D model of a raw Bean (Black),create model,open,version 0.1
+3,Food - Raw - Bean (Brown),Create a 3D model of a raw Bean (Brown),create model,open,version 0.1
+3,Food - Raw - Bean (Pod),Create a 3D model of a raw Bean (Pod),create model,open,version 0.1
+3,Food - Raw - Bean (Red),Create a 3D model of a raw Bean (Red),create model,open,version 0.1
+3,Food - Raw - Blackberry,Create a 3D model of a raw Blackberry,create model,open,version 0.1
+3,Food - Raw - Blueberry,Create a 3D model of a raw Blueberry,create model,open,version 0.1
+3,Food - Raw - Cherry,Create a 3D model of a raw Cherry,create model,open,version 0.1
+3,Food - Raw - Cranberry,Create a 3D model of a raw Cranberry,create model,open,version 0.1
+3,Food - Raw - Pea,Create a 3D model of a raw Pea,create model,open,version 0.1
+3,Food - Raw - Raspberry,Create a 3D model of a raw Raspberry,create model,open,version 0.1
+3,Food - Raw - Rice,Create a 3D model of a raw Rice,create model,open,version 0.1
+3,Food - Raw - Strawberry,Create a 3D model of a raw Strawberry,create model,open,version 0.1
+3,Food - Raw - Sunflower Seed,Create a 3D model of a raw Sunflower Seed,create model,open,version 0.1
+3,Food - Piles - Bean (Black),Create a 3D model of a raw Bean (Black) pile,create model,open,version 0.1
+3,Food - Piles - Bean (Brown),Create a 3D model of a raw Bean (Brown) pile,create model,open,version 0.1
+3,Food - Piles - Bean (Pod),Create a 3D model of a raw Bean (Pod) pile,create model,open,version 0.1
+3,Food - Piles - Bean (Red),Create a 3D model of a raw Bean (Red) pile,create model,open,version 0.1
+3,Food - Piles - Blackberry,Create a 3D model of a raw Blackberry pile,create model,open,version 0.1
+3,Food - Piles - Blueberry,Create a 3D model of a raw Blueberry pile,create model,open,version 0.1
+3,Food - Piles - Cherry,Create a 3D model of a raw Cherry pile,create model,open,version 0.1
+3,Food - Piles - Cranberry,Create a 3D model of a raw Cranberry pile,create model,open,version 0.1
+3,Food - Piles - Pea,Create a 3D model of a raw Pea pile,create model,open,version 0.1
+3,Food - Piles - Raspberry,Create a 3D model of a raw Raspberry pile,create model,open,version 0.1
+3,Food - Piles - Rice,Create a 3D model of a raw Rice pile,create model,open,version 0.1
+3,Food - Piles - Strawberry,Create a 3D model of a raw Strawberry pile,create model,open,version 0.1
+3,Food - Piles - Sunflower Seed,Create a 3D model of a raw Sunflower Seed pile,create model,open,version 0.1
+3,Food - Cooked - Beans (Black),Create a 3D model of a cooked Bean (Black) dish,create model,open,version 0.1
+3,Food - Cooked - Beans (Brown),Create a 3D model of a cooked Bean (Brown) dish,create model,open,version 0.1
+3,Food - Cooked - Beans (Pod),Create a 3D model of a cooked Bean (Pod) dish,create model,open,version 0.1
+3,Food - Cooked - Beans (Red),Create a 3D model of a cooked Bean (Red) dish,create model,open,version 0.1
+3,Food - Cooked - Beans (Mixed),Create a 3D model of a cooked Bean (Red) dish,create model,open,version 0.1
+3,Food - Cooked - Blackberry,Create a 3D model of a cooked Blackberry dish,create model,open,version 0.1
+3,Food - Cooked - Mixed Berries,Create a 3D model of a cooked Blackberry dish,create model,open,version 0.1
+3,Food - Cooked - Blueberry,Create a 3D model of a cooked Blueberry dish,create model,open,version 0.1
+3,Food - Cooked - Cherry,Create a 3D model of a cooked Cherry dish,create model,open,version 0.1
+3,Food - Cooked - Cranberry,Create a 3D model of a cooked Cranberry dish,create model,open,version 0.1
+3,Food - Cooked - Pea,Create a 3D model of a cooked Pea dish,create model,open,version 0.1
+3,Food - Cooked - Raspberry,Create a 3D model of a cooked Raspberry dish,create model,open,version 0.1
+3,Food - Cooked - Strawberry,Create a 3D model of a cooked Strawberry dish,create model,open,version 0.1
+3,Food - Cooked - Rice,Create a 3D model of a cooked Rice dish,create model,open,version 0.1
+3,Food - In Shell - Chestnut,Create a 3D model of a raw Chestnut,create model,open,version 0.1
+3,Food - In Shell - Hazelnut,Create a 3D model of a raw Hazelnut,create model,open,version 0.1
+3,Food - In Shell - Peanut,Create a 3D model of a raw Peanut,create model,open,version 0.1
+3,Food - In Shell - Pumpkin Seed,Create a 3D model of a raw Pumpkin Seed,create model,open,version 0.1
+3,Food - In Shell - Sunflower Seed,Create a 3D model of a raw Sunflower Seed,create model,open,version 0.1
+3,Food - In Shell - Walnut,Create a 3D model of a raw Walnut,create model,open,version 0.1
+3,Food - Unshelled - Chestnut,Create a 3D model of a raw Chestnut (unshelled),create model,open,version 0.1
+3,Food - Unshelled - Hazelnut,Create a 3D model of a raw Hazelnut (unshelled),create model,open,version 0.1
+3,Food - Unshelled - Peanut,Create a 3D model of a raw Peanut (unshelled),create model,open,version 0.1
+3,Food - Unshelled - Pumpkin Seed,Create a 3D model of a raw Pumpkin Seed (unshelled),create model,open,version 0.1
+3,Food - Unshelled - Sunflower Seed,Create a 3D model of a raw Sunflower Seed (unshelled),create model,open,version 0.1
+3,Food - Unshelled - Walnut,Create a 3D model of a raw Walnut (unshelled),create model,open,version 0.1
+20,Main Character,Create a 3D model of the main character,create model,open,version 0.1
+
+8,Clothing - Breechcloth,Create a 3D model of the main character,create model,open,version 0.1
+8,Clothing - Footware,Create a 3D model of the main character,create model,open,version 0.1
+3,Clothing - Footware Variations,Create a 3D model of the main character,create model,open,version 0.1
+8,Clothing - Leggings,Create a 3D model of the main character,create model,open,version 0.1
+3,Clothing - Leggings Variations,Create a 3D model of the main character,create model,open,version 0.1
+8,Clothing - Kilt,Create a 3D model of the main character,create model,open,version 0.1
+3,Clothing - Kilt Variations,Create a 3D model of the main character,create model,open,version 0.1
+8,Clothing - Shirt,Create a 3D model of the main character,create model,open,version 0.1
+3,Clothing - Shirt Variations,Create a 3D model of the main character,create model,open,version 0.1
+2,Clothing - Rawhide Wraps,Create a 3D model of the main character,create model,open,version 0.1
+30,Clothing - Other Clothing,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - 2 Braids,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - 3 Braids,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - Long with braids,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - Long,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - Roach braided,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - Roach Short,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - Roach,Create a 3D model of the main character,create model,open,version 0.1
+5,Hair - Scalplock Braid,Create a 3D model of the main character,create model,open,version 0.1
+8,Jewlery - Cuffs,Create a 3D model of the main character,create model,open,version 0.1
+8,Jewlery - Earrings,Create a 3D model of the main character,create model,open,version 0.1
+8,Jewlery - Medallions,Create a 3D model of the main character,create model,open,version 0.1
+8,Jewlery - Necklaces,Create a 3D model of the main character,create model,open,version 0.1
+3,Jewelry Pieces - Ornaments,Create a 3D model of adornments for tools & jewelry,create model,open,version 0.1
+3,Jewelry Pieces - Beads,Create a 3D model of Beads to make jewelry with,create model,open,version 0.1
+3,Jewelry Pieces - Bones,Create a 3D model of Bones to make jewelry with,create model,open,version 0.1
+3,Jewelry Pieces - Copper,Create a 3D model of Copper to make jewelry with,create model,open,version 0.1
+3,Jewelry Pieces - Wood,Create a 3D model of Wood to make jewelry with,create model,open,version 0.1
+3,Jewelry Pieces - Feather,Create a 3D model of feathers to make jewelry with,create model,open,version 0.1
+3,Jewelry Pieces - Claw,Create a 3D model of a claw to make jewelry with,create model,open,version 0.1
+3,Jewelry Pieces - Teeth,Create a 3D model of Animal Teeth to make jewelry with,create model,open,version 0.1
+3,Bird Feathers - American Crow,Create a 3D model of a American Crow,create model,open,version 0.1
+5,Bird Feathers - American Kestral,Create a 3D model of a American Kestral,create model,open,version 0.1
+8,Bird Feathers - Bald Eagle,Create a 3D model of a Bald Eagle,create model,open,version 0.1
+3,Bird Feathers - Baltimore Oriole,Create a 3D model of a Baltimore Oriole,create model,open,version 0.1
+3,Bird Feathers - Barn Owl,Create a 3D model of a Barn Owl,create model,open,version 0.1
+3,Bird Feathers - Blue Jay,Create a 3D model of a Blue Jay,create model,open,version 0.1
+3,Bird Feathers - Blue Winged Teal,Create a 3D model of a Blue Winged Teal,create model,open,version 0.1
+3,Bird Feathers - Canada Goose,Create a 3D model of a Canada Goose,create model,open,version 0.1
+3,Bird Feathers - Common Raven,Create a 3D model of a Common Raven,create model,open,version 0.1
+3,Bird Feathers - Green Winged Teal,Create a 3D model of a Green Winged Teal,create model,open,version 0.1
+3,Bird Feathers - Mourning Dove,Create a 3D model of a Mourning Dove,create model,open,version 0.1
+3,Bird Feathers - Northern Cardinal,Create a 3D model of a Northern Cardinal,create model,open,version 0.1
+3,Bird Feathers - Northern Flicker,Create a 3D model of a Northern Flicker,create model,open,version 0.1
+5,Bird Feathers - Red Shouldered Hawk,Create a 3D model of a Red Shouldered Hawk,create model,open,version 0.1
+5,Bird Feathers - Red Tailed Hawk,Create a 3D model of a Red Tailed Hawk,create model,open,version 0.1
+5,Bird Feathers - Ruffed Grouse,Create a 3D model of a Ruffed Grouse,create model,open,version 0.1
+3,Bird Feathers - Trumpeter Swan,Create a 3D model of a Trumpeter Swan,create model,open,version 0.1
+8,Bird Feathers - Wild Turkey,Create a 3D model of a Wild Turkey,create model,open,version 0.1
+
+Technology - Arrows
+Technology - Atlatl
+Technology - Bags
+Technology - Blowpipe
+Technology - Bows
+Technology - Dugout Boat
+Technology - Clubs
+Technology - Feathers
+Technology - Hatchet
+Technology - Knives
+Technology - Other Tools
+Technology - Quivers
+Technology - Raw Materials
+Technology - Sheaths
+Technology - Spears
+
+Environment,Ferns,20
+Environment,Harvestable,30
+Environment,Mushrooms,20
+Environment,Plants,30
+Environment,Rocks,30
+Environment,Stumps & Roots,30
+
+
+Administration,General Administrative,30
+Analytics,Crash Analytics,Analytics Design,2
+Analytics,Crash Analytics,Analytics Platform Integration,2
+Analytics,Crash Analytics,Programming Framework Integration,3
+Analytics,Game AI,Analytics Design,5
+Analytics,Game AI,Analytics Platform Integration,3
+Analytics,Game AI,Programming Framework Integration,3
+Analytics,Game Analytics,Analytics Design,5
+Analytics,Game Analytics,Analytics Platform Integration,3
+Analytics,Game Analytics,Programming Framework Integration,3
+Analytics,General,Data Architecture,10
+Analytics,General,Ongoing Data Analysis,20
+Analytics,General,Platform Setup,10
+Analytics,General,Programming Framework,10
+Analytics,Performance,Analytics Design,5
+Analytics,Performance,Analytics Platform Integration,3
+Analytics,Performance,Programming Framework Integration,3
+Analytics,Player Analytics,Analytics Design,5
+Analytics,Player Analytics,Analytics Platform Integration,3
+Analytics,Player Analytics,Programming Framework Integration,3
+Animation,Animal,Badger,Animation,3
+Animation,Animal,Badger,Rigging,1
+Animation,Animal,Beaver,Animation,5
+Animation,Animal,Beaver,Rigging,1
+Animation,Animal,Birds,Animation,5
+Animation,Animal,Birds,Rigging,5
+Animation,Animal,Bison,Animation,5
+Animation,Animal,Bison,Rigging,1
+Animation,Animal,Black,Bear,Animation,5
+Animation,Animal,Black,Bear,Rigging,1
+Animation,Animal,Bobcat,Animation,5
+Animation,Animal,Bobcat,Rigging,1
+Animation,Animal,Brown,Bear,Animation,5
+Animation,Animal,Brown,Bear,Rigging,1
+Animation,Animal,Cougar,Animation,5
+Animation,Animal,Cougar,Rigging,1
+Animation,Animal,Coyote,Animation,5
+Animation,Animal,Coyote,Rigging,1
+Animation,Animal,Deer,Animation,5
+Animation,Animal,Deer,Rigging,1
+Animation,Animal,Duck,Animation,3
+Animation,Animal,Duck,Rigging,2
+Animation,Animal,Eagle - Hawk - Falcon,Animation,5
+Animation,Animal,Eagle - Hawk - Falcon,Rigging,5
+Animation,Animal,Elk,Animation,5
+Animation,Animal,Elk,Rigging,1
+Animation,Animal,Fish,Animation,5
+Animation,Animal,Fish,Rigging,2
+Animation,Animal,Fox,Animation,5
+Animation,Animal,Fox,Rigging,1
+Animation,Animal,Moose,Animation,5
+Animation,Animal,Moose,Rigging,1
+Animation,Animal,Opossum,Animation,3
+Animation,Animal,Opossum,Rigging,1
+Animation,Animal,Otter,Animation,5
+Animation,Animal,Otter,Rigging,1
+Animation,Animal,Porcupine,Animation,5
+Animation,Animal,Porcupine,Rigging,1
+Animation,Animal,Rabbit,Animation,3
+Animation,Animal,Rabbit,Rigging,1
+Animation,Animal,Raccoon,Animation,5
+Animation,Animal,Raccoon,Rigging,1
+Animation,Animal,Skunk,Animation,5
+Animation,Animal,Skunk,Rigging,1
+Animation,Animal,Squirrel,Animation,3
+Animation,Animal,Squirrel,Rigging,1
+Animation,Animal,Turkey,Animation,5
+Animation,Animal,Turkey,Rigging,1
+Animation,Animal,Wolf,Animation,5
+Animation,Animal,Wolf,Rigging,1
+Animation,Animal,Wolverine,Animation,5
+Animation,Animal,Wolverine,Rigging,1
+Animation,Camera,Animation,10
+Animation,Camera,Rigging,10
+Animation,Character,Animation,Boating,10
+Animation,Character,Animation,Combat,20
+Animation,Character,Animation,Crafting,20
+Animation,Character,Animation,General,20
+Animation,Character,Animation,Health,20
+Animation,Character,Animation,Movement,20
+Animation,Character,Animation,Tools,20
+Animation,Character,Rigging,13
+Animation,Environment,Animation,20
+Animation,Gameplay,Animation,60
+Animation,Gameplay,Rigging,20
+Animation,General,Cinematics,20
+Animation,General,Scripted Events,20
+Animation,Motion Capture,Data Processing,20
+Animation,Motion Capture,Data Sourcing,5
+Animation,Motion Capture,Editing,20
+Animation,Scripting & Tools,Animation,40
+Animation,Scripting & Tools,Rigging,10
+
+Art,Cinematics,Additional Models,10
+Art,Cinematics,Camera,10
+Art,Cinematics,Direction,5
+Art,Cinematics,Lighting,5
+Art,Cinematics,Scripting,5
+Art,Graphic Design,20
+Art,Lighting,Direction,10
+Art,Lighting,Lightmapping and Baking,20
+Art,Lighting,Optimizations,20
+Art,Lighting,Pre-computed Realtime Global Illumination,20
+Art,Lighting,Time Of Day,20
+10,Marketing,Promotional Image 2D Compositing,
+10,Marketing,Promotional Image Scene Setup,
+Art,SFX Art
+Art,SFX Models
+Art,Technical Art
+Art,Technical Art
+Art,Technical Art
+Art,Texture 
+Art,Texture Art
+Art,Texture Art
+Art,Texture Art
+Art,Texture Art
+Art,Texture Art
+Art,Texture Art
+Art,Texture Art
+Art,Textures,Environment,Harvestable,10
+Art,Textures,Environment,Plants,10
+Art,Textures,Environment,Rocks & Other,20
+Art,Textures,Environment,Trees,20
+Art,UI,HUD,10
+Art,UI,In-Game,10
+Art,UI,Main Menu,10
+Art,Visual Effects,20
+Audio,Audio Editing,40
+Audio,Audio QC Development Testing,40
+Audio,Audio Technician,40
+Audio,Direction,40
+Audio,Foley,40
+Audio,SFX Design,Animals,40
+Audio,SFX Design,Character,20
+Audio,SFX Design,General,80
+Audio,Synchronization,20
+Audio,Voice,Audio Editing,8
+Audio,Voice,Casting,3
+Audio,Voice,Dialect Coach,5
+Audio,Voice,Production,8
+Audio,Voice,Recording Engineer,8
+Audio,Voice,Voice Direction,3
+Audio,Voice,Voice Talent,8
+Brand Management,Brand Art Direction
+Brand Management,Brand Content Manager
+Brand Management,Brand Contest Direction
+Brand Management,Brand Creative Direction
+Brand Management,Brand Direction
+Brand Management,Brand Game Direction
+Brand Management,Brand Historian
+Brand Management,Brand HR Partner
+Brand Management,Brand Product Manager
+Brand Management,Brand Production Direction
+Brand Management,Brand Products Direction
+Brand Management,Brand Project Management
+Brand Management,Brand Technology Direction
+Brand Management,Senior Producer
+Communication,Public Relations,General,20
+Communications,Public Relations,Canada,5
+Communications,Public Relations,First Nations,8
+Communications,Public Relations,Mexico,5
+Communications,Public Relations,Native American Nations,8
+Communications,Public Relations,Native Mexicans,8
+Communications,Public Relations,US,8
+Concept Art,Animals,20
+Concept Art,Character,5
+Concept Art,Clothing,15
+Concept Art,Direction,5
+Concept Art,Environment,Harvestable,3
+Concept Art,Environment,Plants,3
+Concept Art,Environment,Rocks & Other,3
+Concept Art,Environment,Trees,3
+Concept Art,Shelter,15
+Concept Art,Tools,30
+Concept Art,Weapons,30
+Design,Game Design
+Design,Game Design
+Design,Game Design
+Design,Game Design
+Design,Game Design
+Design,Game Design
+Design,Graphics
+Design,Lead Game Design
+Design,Lead Level Design
+Design,Level Design
+Design,Level Design
+Design,Level Design
+Design,Level Design
+Design,Level Design
+Design,Level Design
+Design,Level Design Technical Direction
+Design,Level Design,Art,30
+Design,Level Design,In-Engine,30
+Design,Level Design,Lead Level Design
+Design,Level Design,Lead Technical Direction Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Level Design
+Design,Level Design,Technical Direction Level Design
+Design,Level Design,Technical Direction Level Design
+Design,UI Art
+Development,Additional Level Design Direction
+Development,Animation Direction
+Development,Animation Technical Direction
+Development,Animation Technical Direction - Cinematics
+Development,Animation Technical Direction - Gameplay
+Development,Art Direction
+Development,Art Direction
+Development,Art Direction
+Development,Art Direction
+Development,Assistant Animation Direction - Cinematics
+Development,Assistant Animation Direction - Gameplay
+Development,Assistant Animation Direction - Scripted Events
+Development,Assistant Animation Technical Direction
+Development,Assistant Animation Technical Direction - Gameplay
+Development,Assistant Art Direction
+Development,Assistant Art Direction
+Development,Assistant Cinematics Direction
+Development,Assistant Game Direction
+Development,Assistant Graphics Technical Direction
+Development,Assistant Graphics Technical Direction
+Development,Assistant Level Design Direction
+Development,Assistant Level Design Direction - Mission
+Development,Assistant Narrative Direction
+Development,Assistant World Design Technical Direction
+Development,Assistant World Design Technical Direction
+Development,Assistant World Direction
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer
+Development,Associate Producer - World
+Development,Associate Producer Co-Dev
+Development,Audio Direction
+Development,Audio Technical Direction & Mixer
+Development,Character & Animation Direction
+Development,Character Animation Technical Direction
+Development,Character Technical Direction
+Development,Cinematics Direction
+Development,Game Direction
+Development,Game Direction
+Development,Game Direction
+Development,Game Direction Co-Dev
+Development,Graphics Technical Direction
+Development,Graphics Technical Direction
+Development,Graphics Technical Direction
+Development,Graphics Technical Direction
+Development,Lead Audio
+Development,Lead Game Design
+Development,Lead Game Design
+Development,Lead Gameplay Programming
+Development,Lead Gameplay Programming
+Development,Lead Level Design
+Development,Lead Programming
+Development,Lead Technical Direction
+Development,Lead Technology Programming
+Development,Level Design Direction
+Development,Level Design Direction - Mission
+Development,Level Design Technical Direction
+Development,Level Design Technical Direction
+Development,Level Design Technical Direction
+Development,Level Design Technical Direction
+Development,Narrative Direction
+Development,Narrative Direction
+Development,Presentation Direction
+Development,Presentation Technical Direction
+Development,Producer
+Development,Producer
+Development,Production Coordinator
+Development,Production Coordinator
+Development,Production Coordinator & Historical Researcher
+Development,Production Intern
+Development,Production Manager
+Development,Production Manager
+Development,Production Manager
+Development,Production Manager
+Development,Production Manager - Animation
+Development,Production Manager - Audio
+Development,Production Manager - Cinematics & Characters
+Development,Production Manager - Menus - Interfaces & FX
+Development,Production Manager - Motion Capture
+Development,Production Manager - Scripted Events
+Development,Production Manager - World
+Development,Production Manager - World
+Development,Production Manager - World
+Development,Production Manager - World
+Development,Production Manager Co-Dev
+Development,Production Manager Crowd - Navigation & AI
+Development,Production Manager Missions
+Development,Production Manager Presentation & Audio
+Development,Production Manager Quality Control
+Development,Production Manager World
+Development,Production Manager World
+Development,Project Coordinator
+Development,Project Management - Localization
+Development,Project Management,Associate Producer
+Development,Project Management,Producer
+Development,Project Management,Production Coordinator
+Development,Project Management,Studio Manager
+Development,QC Coordinator Development Testing
+Development,Story by
+Development,Story by
+Development,Story by
+Development,Story by
+Development,Studio Technical Direction
+Development,Technical Architect
+Development,Technical Architect
+Development,Technical Code Direction
+Development,Technical Data Direction
+Development,Technical Direction
+Development,World Design Direction
+Development,World Production Manager
+Development,Worlds Direction
+Development,Worlds Lead
+Direction,Creative Direction,40
+Direction,Game Direction,40
+Direction,Animation Direction,20
+Direction,Art Direction,20
+Direction,Development Direction,40
+Direction,Outsourcing Direction,20
+Direction,Technical Direction,Animation
+Facebuilder/Mocam Team/Reflex,
+Facebuilder/Mocam Team/Reflex,Animation Technical Direction
+Facebuilder/Mocam Team/Reflex,Mocam Creator
+Facebuilder/Mocam Team/Reflex,Programming
+Facebuilder/Mocam Team/Reflex,Programming
+Facebuilder/Mocam Team/Reflex,Reflex Concept Design
+Facebuilder/Mocam Team/Reflex,Tools Product Specialist
+Finance,Finance
+Finance,Finance
+Finance,Finance
+Finance,Finance
+Finance,Finance
+Finance,Finance
+Finance,Finance
+Finance,Finance
+Finance,Finance Direction
+Finance,Finance Direction 
+Finance,Financial Support 
+Finance,Financial Support 
+Finance,Financial Support 
+Game and Level Design,Additional Mission Direction
+Game and Level Design,Assistant Level Design Direction
+Game and Level Design,Assistant Level Design Direction
+Game and Level Design,Game Design
+Game and Level Design,Game Design
+Game and Level Design,Game Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission Design
+Game and Level Design,Mission QC Development Testing
+Game and Level Design,Mission QC Development Testing
+Game and Level Design,Mission QC Development Testing
+Game and Level Design,Mission QC Development Testing
+Game and Level Design,Mission Technical Direction
+Game and Level Design,World Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Level Design
+Game and Level Design,World Technical Direction
+Game and Level Design,World Technical Direction
+Game and Level Design,World Technical Direction
+Game Design,Additional Senior Writer
+Game Design,Additional Writing
+Game Design,Additional Writing
+Game Design,Additional Writing
+Game Design,Additional Writing
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design
+Game Design,Game Design Assistant
+Game Design,Game Design,20
+Game Design,Gameplay Programming
+Game Design,Level Design,20
+Game Design,Mission Design,20
+Game Design,Mission QC Development Testing,8
+Game Design,Scriptwriter,8
+Game Design,World Level Design,10
+General,Administration
+General,Administration
+General,Administration
+General,Analytic
+General,Analytic
+General,Analytic
+General,Analytic Direction
+General,Communications
+General,Communications Direction
+General,Cost Control
+General,Cost Control
+General,Cost Control
+General,Executive Assistant
+General,Executive Direction - Human Resources and Communications
+General,Executive Direction - Operations
+General,Facilities
+General,Facilities
+General,Facilities
+General,Facilities
+General,Finance
+General,Finance
+General,Finance Direction
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources
+General,Human Resources Direction
+General,IT
+General,IT
+General,IT
+General,IT - Facilities & Procurement Direction
+General,Localization Direction
+General,Managing Direction
+General,Office Administrator
+General,Procurement
+General,Procurement
+General,Studio Manager
+General,Studio Managing Direction
+General,Studio Production Manager
+General,Work Environment
+Localization,Booking & Outreach,20
+Localization,Game Script Content Manager,8
+Localization,Localization Direction,8
+Localization,Project Management,5
+Localization,Translation & Adaptation,Catawba,3
+Localization,Translation & Adaptation,Cayuga,3
+Localization,Translation & Adaptation,Cherokee,3
+Localization,Translation & Adaptation,Chickasaw,3
+Localization,Translation & Adaptation,Choctaw,3
+Localization,Translation & Adaptation,Delaware,3
+Localization,Translation & Adaptation,Huron,3
+Localization,Translation & Adaptation,Meherrin,3
+Localization,Translation & Adaptation,Miami,3
+Localization,Translation & Adaptation,Mohawk,3
+Localization,Translation & Adaptation,Mohicans,3
+Localization,Translation & Adaptation,Monacan,3
+Localization,Translation & Adaptation,Muskogee,3
+Localization,Translation & Adaptation,Nanticoke,3
+Localization,Translation & Adaptation,Oneida,3
+Localization,Translation & Adaptation,Onondaga,3
+Localization,Translation & Adaptation,Osage,3
+Localization,Translation & Adaptation,Peoria,3
+Localization,Translation & Adaptation,Seneca,3
+Localization,Translation & Adaptation,Shawnee,3
+Localization,Translation & Adaptation,Tuscarora,3
+Localization,Translation Integration,10
+Localization,Translation Review,10
+Marketing,2D / 3D Art
+Marketing,2D/3D Art
+Marketing,Acount Manager - Sales
+Marketing,Acount Manager - Sales
+Marketing,Acount Manager - Sales
+Marketing,Associate Brand Manager - Brand Management
+Marketing,Associate Direction - Digital Marketing
+Marketing,Associate Direction - Promotions
+Marketing,Associate Direction - Public Relations
+Marketing,Associate Events Manager
+Marketing,Associate Live Brand Manager - Live Brand Management
+Marketing,Associate Manager - Digital Marketing
+Marketing,Associate Manager - Digital Marketing
+Marketing,Associate Web Producer - Digital Marketing
+Marketing,Brand Direction
+Marketing,Brand Direction
+Marketing,Brand Manager - Brand Management
+Marketing,Brand Manager - Brand Management
+Marketing,Communications
+Marketing,Communications
+Marketing,Communications
+Marketing,Communications
+Marketing,Communications Direction
+Marketing,Communications Manager - Public Relations
+Marketing,Communications Specialist - Public Relations
+Marketing,Content Marketing Manager - Digital Marketing
+Marketing,Digital Marketing Coordinator
+Marketing,Digital Marketing,20
+Marketing,Direction - Brand Management
+Marketing,Direction - Digital Marketing
+Marketing,Direction - Live Brand Management
+Marketing,Direction - Promotions
+Marketing,Direction - Public Relations
+Marketing,Direction - Sales
+Marketing,Direction - Sales Planning and Integration
+Marketing,Editor - Public Relations
+Marketing,EMEA Assistant Brand Manager
+Marketing,EMEA Assistant Brand Manager
+Marketing,EMEA Assistant Brand Manager
+Marketing,EMEA Brand Direction
+Marketing,EMEA Brand Manager Senior
+Marketing,EMEA Brand Manager Senior
+Marketing,EMEA Chief Marketing & Sales Officer
+Marketing,EMEA Communication Tools Purchasing & Manufacturing Coordinator
+Marketing,EMEA Communication Tools Purchasing & Manufacturing Manager
+Marketing,EMEA Digital Influence & Social Media Manager
+Marketing,EMEA Digital Marketing Manager
+Marketing,EMEA Digital Marketing Manager Assistant
+Marketing,EMEA Executive Direction
+Marketing,EMEA Group Brand Manager
+Marketing,EMEA Junior Trade Marketing Coordinator
+Marketing,EMEA Junior Trade Marketing Coordinator
+Marketing,EMEA Live Brand Manager
+Marketing,EMEA Manufacturing Planning Team
+Marketing,EMEA Manufacturing Planning Team
+Marketing,EMEA Media & Analytics Manager
+Marketing,EMEA Media & Engagement Group Manager
+Marketing,EMEA Paparparts Specialist
+Marketing,EMEA Paperparts & Graphic Studio Manager
+Marketing,EMEA Retail Sales Direction
+Marketing,EMEA Social Media Manager
+Marketing,EMEA Trade Marketing Group Manager
+Marketing,EMEA Web Integrator
+Marketing,EMEA Web Integrator
+Marketing,EMEA Webmaster
+Marketing,Events Specialist
+Marketing,International Product Manager
+Marketing,Manager - Public Relations
+Marketing,Manager - Public Relations
+Marketing,Managing Direction
+Marketing,Media Management,20
+Marketing,President & CEO
+Marketing,Product Manager
+Marketing,Product Manager
+Marketing,Product Manager
+Marketing,Product Manager
+Marketing,Projecy Manager - Brand Management
+Marketing,Promotions,20
+Marketing,Sales Planning and Integration Manager - Sales
+Marketing,Sales Planning and Integration Manager - Sales
+Marketing,Senior Account Manager - Sales
+Marketing,Senior Account Manager - Sales
+Marketing,Senior Account Manager - Sales
+Marketing,Senior Account Manager - Sales
+Marketing,Senior Brand Manager - Brand Management
+Marketing,Senior Direction - Brand Management
+Marketing,Senior Direction - Sales
+Marketing,Senior Live Brand Manager - Live Brand Management
+Marketing,Senior Manager - Digital Marketing
+Marketing,Senior Manager - Promotions
+Marketing,Senior Manager - Promotions
+Marketing,Senior Manager - Public Relations
+Marketing,Web Content,20
+Marketing,Web Development,20
+Music,Soundtrack,Composition,20
+Music,Soundtrack,Conducting,5
+Music,Soundtrack,Contracting,1
+Music,Soundtrack,Licensing,5
+Music,Soundtrack,Mastering,5
+Music,Soundtrack,Mixing,5
+Music,Soundtrack,Music Librarian,1
+Music,Soundtrack,Orchestration,8
+Music,Soundtrack,Performance,20
+Music,Soundtrack,Production,13
+Music,Soundtrack,Publishing,5
+Music,Soundtrack,Recording,13
+Music,Trailer,Composition,8
+Music,Trailer,Conducting,1
+Music,Trailer,Contracting,1
+Music,Trailer,Licensing,1
+Music,Trailer,Mastering,1
+Music,Trailer,Mixing,1
+Music,Trailer,Music Librarian,1
+Music,Trailer,Orchestration,2
+Music,Trailer,Performance,5
+Music,Trailer,Production,2
+Music,Trailer,Recording,2
+Music,Trailer,Voice Direction,3
+Music,Trailer,Voice Talent,3
+Production,Compliance,General,10
+Production,Compliance,Microsoft,10
+Production,Compliance,Sony,10
+Production,Finance,Control & Analysis,20
+Production,Launch,Community,20
+Production,Online Stores,Application Specialist,8
+Production,Online Stores,Key Distribution,8
+Production,Online Stores,Tools Programming,8
+Production,Community Manager,100
+Production,Compliance,Certification Management,20
+Production,Early-Access,Marketing,20
+Production,Early-Access,Planning,20
+Production,Early-Access,Producer,20
+Production,Early-Access,QA,40
+Production,Internal Communications,10
+Production,Launch,Marketing,20
+Production,Launch,Planning,20
+Production,Launch,Producer,20
+Production,Launch,QA,40
+Production,Online Product Management,20
+Production,Producer,80
+Production,Product Manager,20
+Production,Project Closer,10
+Production,Project Management,40
+Production,Release Planning,20

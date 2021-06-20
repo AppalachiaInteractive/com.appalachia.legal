@@ -1,0 +1,73 @@
+title,body,labels,status,milestones
+Animation,Animal,Badger,Animation,3
+Animation,Animal,Badger,Rigging,1
+Animation,Animal,Beaver,Animation,5
+Animation,Animal,Beaver,Rigging,1
+Animation,Animal,Birds,Animation,5
+Animation,Animal,Birds,Rigging,5
+Animation,Animal,Bison,Animation,5
+Animation,Animal,Bison,Rigging,1
+Animation,Animal,Black,Bear,Animation,5
+Animation,Animal,Black,Bear,Rigging,1
+Animation,Animal,Bobcat,Animation,5
+Animation,Animal,Bobcat,Rigging,1
+Animation,Animal,Brown,Bear,Animation,5
+Animation,Animal,Brown,Bear,Rigging,1
+Animation,Animal,Cougar,Animation,5
+Animation,Animal,Cougar,Rigging,1
+Animation,Animal,Coyote,Animation,5
+Animation,Animal,Coyote,Rigging,1
+Animation,Animal,Deer,Animation,5
+Animation,Animal,Deer,Rigging,1
+Animation,Animal,Duck,Animation,3
+Animation,Animal,Duck,Rigging,2
+Animation,Animal,Eagle - Hawk - Falcon,Animation,5
+Animation,Animal,Eagle - Hawk - Falcon,Rigging,5
+Animation,Animal,Elk,Animation,5
+Animation,Animal,Elk,Rigging,1
+Animation,Animal,Fish,Animation,5
+Animation,Animal,Fish,Rigging,2
+Animation,Animal,Fox,Animation,5
+Animation,Animal,Fox,Rigging,1
+Animation,Animal,Moose,Animation,5
+Animation,Animal,Moose,Rigging,1
+Animation,Animal,Opossum,Animation,3
+Animation,Animal,Opossum,Rigging,1
+Animation,Animal,Otter,Animation,5
+Animation,Animal,Otter,Rigging,1
+Animation,Animal,Porcupine,Animation,5
+Animation,Animal,Porcupine,Rigging,1
+Animation,Animal,Rabbit,Animation,3
+Animation,Animal,Rabbit,Rigging,1
+Animation,Animal,Raccoon,Animation,5
+Animation,Animal,Raccoon,Rigging,1
+Animation,Animal,Skunk,Animation,5
+Animation,Animal,Skunk,Rigging,1
+Animation,Animal,Squirrel,Animation,3
+Animation,Animal,Squirrel,Rigging,1
+Animation,Animal,Turkey,Animation,5
+Animation,Animal,Turkey,Rigging,1
+Animation,Animal,Wolf,Animation,5
+Animation,Animal,Wolf,Rigging,1
+Animation,Animal,Wolverine,Animation,5
+Animation,Animal,Wolverine,Rigging,1
+Animation,Camera,Animation,10
+Animation,Camera,Rigging,10
+Animation,Character,Animation,Boating,10
+Animation,Character,Animation,Combat,20
+Animation,Character,Animation,Crafting,20
+Animation,Character,Animation,General,20
+Animation,Character,Animation,Health,20
+Animation,Character,Animation,Movement,20
+Animation,Character,Animation,Tools,20
+Animation,Character,Rigging,13
+Animation,Environment,Animation,20
+Animation,Gameplay,Animation,60
+Animation,Gameplay,Rigging,20
+Animation,General,Cinematics,20
+Animation,General,Scripted Events,20
+Animation,Motion Capture,Data Processing,20
+Animation,Motion Capture,Data Sourcing,5
+Animation,Motion Capture,Editing,20
+Animation,Scripting & Tools,Animation,40
+Animation,Scripting & Tools,Rigging,10
