@@ -1,0 +1,23 @@
+title,body,labels,status,milestones
+[40pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[20pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[20pt] Asset Bundling,
+[90pt] Development Testing,
+[90pt] Functionality Testing,
+[10pt] Pipeline Integration,
+[10pt] Platform-Specific - AMD,
+[10pt] Platform-Specific - Nvidia,
+[10pt] Platform-Specific - PlayStation 4,
+[10pt] Platform-Specific - PlayStation 5,
+[10pt] Platform-Specific - XBox One,
+[10pt] Platform-Specific - XBox Series X,
+[30pt] Release Verification,
+[20pt] Test Coordination,
+[20pt] Tool Development,
+[30pt] Unit Testing,
+[30pt] Localization,
+[5pt] Web Development - Alpha Testing,
+[5pt] Web Development - Beta Testing,
+[20pt] Web Development - Early Access,
+[20pt] Web Development - Launch,
+[10pt] Web Development - Steam Keys,

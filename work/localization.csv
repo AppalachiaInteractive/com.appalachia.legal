@@ -1,56 +1,58 @@
 title,body,labels,status,milestones
-[20pt] Localization Framework,Create a localization design & framework to enable translating KOC into multiple Native languages,task,open,version 0.5
-[8pt] Game Script Content Manager,Create and manage a comprehensive game script for translation purposes,task,open,version 0.5
-[8pt] Localization Direction,Offer direction to localization task assignees and clarify any pending questions,task,open,version 0.5
-[8pt] Translation Project Management,Ultimately drive the completion of the localization effort and communicate about the status clearly and proactively,task,open,version 0.5
-[2pt] Catawba - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Cayuga - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Cherokee - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Chickasaw - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Choctaw - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Delaware - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Huron - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Meherrin - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Miami - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Mohawk - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Mohicans - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Monacan - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Muskogee - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Nanticoke - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Oneida - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Onondaga - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Osage - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Peoria - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Seneca - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[2pt] Shawnee - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] Tuscarora - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] French - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] Italian - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] Spanish - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] German - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] Spanish (Latin America) - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] Portuguese - Booking & Outreach,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
-[3pt] Catawba - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Cayuga - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Cherokee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Chickasaw - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Choctaw - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Delaware - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Huron - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Meherrin - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Miami - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Mohawk - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Mohicans - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Monacan - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Muskogee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Nanticoke - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Oneida - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Onondaga - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Osage - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Peoria - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Seneca - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Shawnee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
-[3pt] Tuscarora - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[10pt] Localization Research,Research localization best practices and available Unity3D tools.,task,open,version 0.3
+[10pt] Localization Design,Create a localization design to enable translating KOC into multiple Native languages,task,open,version 0.4
+[20pt] Localization Framework,Create localization code framework to handle changing language in-game,task,open,version 0.5
+[10pt] Game Script Content Manager,Create and manage a comprehensive game script for translation purposes,task,open,version 0.5
+[20pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.5
+[10pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.6
+[2pt] Catawba - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Cayuga - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Cherokee - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Chickasaw - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Choctaw - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Delaware - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Huron - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Meherrin - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Miami - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Mohawk - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Mohicans - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Monacan - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Muskogee - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Nanticoke - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Oneida - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Onondaga - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Osage - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Peoria - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Seneca - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Shawnee - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Tuscarora - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] French - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Italian - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Spanish - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] German - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[2pt] Spanish (Latin America) - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[3pt] Portuguese - Outreach & Booking,Outreach to find a translator for making KOC available in the relevant language.,task,open,version 0.6
+[5pt] Catawba - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Cayuga - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Cherokee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Chickasaw - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Choctaw - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Delaware - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Huron - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Meherrin - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Miami - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Mohawk - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Mohicans - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Monacan - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Muskogee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Nanticoke - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Oneida - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Onondaga - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Osage - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Peoria - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Seneca - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Shawnee - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
+[5pt] Tuscarora - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
 [3pt] French - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
 [3pt] Italian - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7
 [3pt] Spanish - Translation & Adaptation,Translate the game script into the relevant language,task,open,version 0.7

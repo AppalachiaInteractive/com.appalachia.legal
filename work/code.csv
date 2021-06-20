@@ -1,4 +1,6 @@
 title,body,labels,status,milestones
+[80pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[80pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
 [8pt] Accessibility - Audio,,task,open,version 0.1
 [3pt] Accessibility - Ergonomics,,task,open,version 0.1
 [8pt] Accessibility - Launch & Menu,,task,open,version 0.1

@@ -1,13 +1,15 @@
 title,body,labels,status,milestones
-[2pt] Crash Analytics - Analytics Design,Identify and code the recording of Crash Analytics,task,open,version 0.8
-[2pt] Crash Analytics - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.8
-[3pt] Crash Analytics - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.8
+[20pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[10pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[5pt] Crash Analytics - Analytics Design,Identify and code the recording of Crash Analytics,task,open,version 0.8
+[5pt] Crash Analytics - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.8
+[8pt] Crash Analytics - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.8
 [5pt] Game AI - Analytics Design,Identify and code the recording of Game AI Analytics,task,open,version 0.9
-[3pt] Game AI - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.9
-[3pt] Game AI - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.9
+[5pt] Game AI - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.9
+[8pt] Game AI - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.9
 [5pt] Game Analytics - Analytics Design,Identify and code the recording of Game Analytics,task,open,version 0.9
-[3pt] Game Analytics - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.9
-[3pt] Game Analytics - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.9
+[5pt] Game Analytics - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.9
+[8pt] Game Analytics - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.9
 [10pt] General - Data Architecture,Design a data architecture for capturing and processing meaningful data analytics,task,open,version 0.5
 [20pt] General - Ongoing Data Analysis,Ongoing task to analyze the data coming in and make sure it is in line with expectations,task,open,version 1.0
 [10pt] General - Platform Setup,Setup an analytics platform - cheaper the better,task,open,version 0.5
@@ -15,8 +17,8 @@ title,body,labels,status,milestones
 [10pt] General - Unity Analytics Platform Review,Review Unity's analytics platform to determine if it is suitable,task,open,version 0.4
 [10pt] General - Performance Testing & Optimization,Performance test the analytics tracking framework and get it ready for production performance,task,open,version 0.9
 [5pt] Performance - Analytics Design,Identify and code the recording of Performance Analytics,task,open,version 0.7
-[3pt] Performance - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.7
-[3pt] Performance - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.7
+[5pt] Performance - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.7
+[8pt] Performance - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.7
 [5pt] Player Analytics - Analytics Design,Identify and code the recording of Player Analytics,task,open,version 0.8
-[3pt] Player Analytics - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.8
-[3pt] Player Analytics - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.8
+[5pt] Player Analytics - Analytics Platform Integration,Integrate the analytics data into the platform via the platform API,task,open,version 0.8
+[8pt] Player Analytics - Programming Framework Integration,Invoke analytics tracking during gameplay via the analytics framework.,task,open,version 0.8

@@ -1,73 +1,140 @@
 title,body,labels,status,milestones
-Animation,Animal,Badger,Animation,3
-Animation,Animal,Badger,Rigging,1
-Animation,Animal,Beaver,Animation,5
-Animation,Animal,Beaver,Rigging,1
-Animation,Animal,Birds,Animation,5
-Animation,Animal,Birds,Rigging,5
-Animation,Animal,Bison,Animation,5
-Animation,Animal,Bison,Rigging,1
-Animation,Animal,Black,Bear,Animation,5
-Animation,Animal,Black,Bear,Rigging,1
-Animation,Animal,Bobcat,Animation,5
-Animation,Animal,Bobcat,Rigging,1
-Animation,Animal,Brown,Bear,Animation,5
-Animation,Animal,Brown,Bear,Rigging,1
-Animation,Animal,Cougar,Animation,5
-Animation,Animal,Cougar,Rigging,1
-Animation,Animal,Coyote,Animation,5
-Animation,Animal,Coyote,Rigging,1
-Animation,Animal,Deer,Animation,5
-Animation,Animal,Deer,Rigging,1
-Animation,Animal,Duck,Animation,3
-Animation,Animal,Duck,Rigging,2
-Animation,Animal,Eagle - Hawk - Falcon,Animation,5
-Animation,Animal,Eagle - Hawk - Falcon,Rigging,5
-Animation,Animal,Elk,Animation,5
-Animation,Animal,Elk,Rigging,1
-Animation,Animal,Fish,Animation,5
-Animation,Animal,Fish,Rigging,2
-Animation,Animal,Fox,Animation,5
-Animation,Animal,Fox,Rigging,1
-Animation,Animal,Moose,Animation,5
-Animation,Animal,Moose,Rigging,1
-Animation,Animal,Opossum,Animation,3
-Animation,Animal,Opossum,Rigging,1
-Animation,Animal,Otter,Animation,5
-Animation,Animal,Otter,Rigging,1
-Animation,Animal,Porcupine,Animation,5
-Animation,Animal,Porcupine,Rigging,1
-Animation,Animal,Rabbit,Animation,3
-Animation,Animal,Rabbit,Rigging,1
-Animation,Animal,Raccoon,Animation,5
-Animation,Animal,Raccoon,Rigging,1
-Animation,Animal,Skunk,Animation,5
-Animation,Animal,Skunk,Rigging,1
-Animation,Animal,Squirrel,Animation,3
-Animation,Animal,Squirrel,Rigging,1
-Animation,Animal,Turkey,Animation,5
-Animation,Animal,Turkey,Rigging,1
-Animation,Animal,Wolf,Animation,5
-Animation,Animal,Wolf,Rigging,1
-Animation,Animal,Wolverine,Animation,5
-Animation,Animal,Wolverine,Rigging,1
-Animation,Camera,Animation,10
-Animation,Camera,Rigging,10
-Animation,Character,Animation,Boating,10
-Animation,Character,Animation,Combat,20
-Animation,Character,Animation,Crafting,20
-Animation,Character,Animation,General,20
-Animation,Character,Animation,Health,20
-Animation,Character,Animation,Movement,20
-Animation,Character,Animation,Tools,20
-Animation,Character,Rigging,13
-Animation,Environment,Animation,20
-Animation,Gameplay,Animation,60
-Animation,Gameplay,Rigging,20
-Animation,General,Cinematics,20
-Animation,General,Scripted Events,20
-Animation,Motion Capture,Data Processing,20
-Animation,Motion Capture,Data Sourcing,5
-Animation,Motion Capture,Editing,20
-Animation,Scripting & Tools,Animation,40
-Animation,Scripting & Tools,Rigging,10
+[20pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[10pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[8pt] Animal - Badger Animation,Create all animations for Badger in Blender3D.,task,open,version 0.1
+[1pt] Animal - Badger Rigging,Create the animation rig for Badger in Blender3D.,task,open,version 0.1
+[8pt] Animal - Beaver Animation,Create all animations for Beaver in Blender3D.,task,open,version 0.1
+[1pt] Animal - Beaver Rigging,Create the animation rig for Beaver in Blender3D.,task,open,version 0.1
+[10pt] Animal - Small Birds Animation,Create all animations for Small Birds in Blender3D.,task,open,version 0.1
+[10pt] Animal - Small Birds Rigging,Create the animation rig for Small Birds in Blender3D.,task,open,version 0.1
+[8pt] Animal - Bison Animation,Create all animations for Bison in Blender3D.,task,open,version 0.1
+[1pt] Animal - Bison Rigging,Create the animation rig for Bison in Blender3D.,task,open,version 0.1
+[8pt] Animal - Black Bear Animation,Create all animations for Black Bear  in Blender3D.,task,open,version 0.1
+[1pt] Animal - Black Bear Rigging,Create the animation rig for Black Bear in Blender3D.,task,open,version 0.1
+[8pt] Animal - Bobcat Animation,Create all animations for Bobcat in Blender3D.,task,open,version 0.1
+[1pt] Animal - Bobcat Rigging,Create the animation rig for Bobcat in Blender3D.,task,open,version 0.1
+[8pt] Animal - Brown Bear Animation,Create all animations for Brown Bear  in Blender3D.,task,open,version 0.1
+[1pt] Animal - Brown Bear Rigging,Create the animation rig for Brown Bear in Blender3D.,task,open,version 0.1
+[8pt] Animal - Cougar Animation,Create all animations for Cougar in Blender3D.,task,open,version 0.1
+[1pt] Animal - Cougar Rigging,Create the animation rig for Cougar in Blender3D.,task,open,version 0.1
+[8pt] Animal - Coyote Animation,Create all animations for Coyote in Blender3D.,task,open,version 0.1
+[1pt] Animal - Coyote Rigging,Create the animation rig for Coyote in Blender3D.,task,open,version 0.1
+[8pt] Animal - Deer Animation,Create all animations for Deer in Blender3D.,task,open,version 0.1
+[1pt] Animal - Deer Rigging,Create the animation rig for Deer in Blender3D.,task,open,version 0.1
+[8pt] Animal - Duck Animation,Create all animations for Duck in Blender3D.,task,open,version 0.1
+[2pt] Animal - Duck Rigging,Create the animation rig for Duck in Blender3D.,task,open,version 0.1
+[10pt] Animal - Eagle/Hawk/Falcon Animation,Create all animations for Eagle/Hawk/Falcon in Blender3D.,task,open,version 0.1
+[10pt] Animal - Eagle/Hawk/Falcon Rigging,Create the animation rig for Eagle/Hawk/Falcon in Blender3D.,task,open,version 0.1
+[8pt] Animal - Elk Animation,Create all animations for Elk in Blender3D.,task,open,version 0.1
+[1pt] Animal - Elk Rigging,Create the animation rig for Elk in Blender3D.,task,open,version 0.1
+[8pt] Animal - Fish Animation,Create all animations for Fish in Blender3D.,task,open,version 0.1
+[5pt] Animal - Fish Rigging,Create the animation rig for Fish in Blender3D.,task,open,version 0.1
+[8pt] Animal - Fox Animation,Create all animations for Fox in Blender3D.,task,open,version 0.1
+[1pt] Animal - Fox Rigging,Create the animation rig for Fox in Blender3D.,task,open,version 0.1
+[8pt] Animal - Moose Animation,Create all animations for Moose in Blender3D.,task,open,version 0.1
+[1pt] Animal - Moose Rigging,Create the animation rig for Moose in Blender3D.,task,open,version 0.1
+[8pt] Animal - Opossum Animation,Create all animations for Opossum in Blender3D.,task,open,version 0.1
+[1pt] Animal - Opossum Rigging,Create the animation rig for Opossum in Blender3D.,task,open,version 0.1
+[8pt] Animal - Otter Animation,Create all animations for Otter in Blender3D.,task,open,version 0.1
+[1pt] Animal - Otter Rigging,Create the animation rig for Otter in Blender3D.,task,open,version 0.1
+[8pt] Animal - Porcupine Animation,Create all animations for Porcupine in Blender3D.,task,open,version 0.1
+[1pt] Animal - Porcupine Rigging,Create the animation rig for Porcupine in Blender3D.,task,open,version 0.1
+[8pt] Animal - Rabbit Animation,Create all animations for Rabbit in Blender3D.,task,open,version 0.1
+[1pt] Animal - Rabbit Rigging,Create the animation rig for Rabbit in Blender3D.,task,open,version 0.1
+[8pt] Animal - Raccoon Animation,Create all animations for Raccoon in Blender3D.,task,open,version 0.1
+[1pt] Animal - Raccoon Rigging,Create the animation rig for Raccoon in Blender3D.,task,open,version 0.1
+[8pt] Animal - Skunk Animation,Create all animations for Skunk in Blender3D.,task,open,version 0.1
+[1pt] Animal - Skunk Rigging,Create the animation rig for Skunk in Blender3D.,task,open,version 0.1
+[8pt] Animal - Squirrel Animation,Create all animations for Squirrel in Blender3D.,task,open,version 0.1
+[1pt] Animal - Squirrel Rigging,Create the animation rig for Squirrel in Blender3D.,task,open,version 0.1
+[8pt] Animal - Turkey Animation,Create all animations for Turkey in Blender3D.,task,open,version 0.1
+[1pt] Animal - Turkey Rigging,Create the animation rig for Turkey in Blender3D.,task,open,version 0.1
+[8pt] Animal - Wolf Animation,Create all animations for Wolf in Blender3D.,task,open,version 0.1
+[1pt] Animal - Wolf Rigging,Create the animation rig for Wolf in Blender3D.,task,open,version 0.1
+[8pt] Animal - Wolverine Animation,Create all animations for Wolverine in Blender3D.,task,open,version 0.1
+[1pt] Animal - Wolverine Rigging,Create the animation rig for Wolverine in Blender3D.,task,open,version 0.1
+[10pt] Camera Animation,Create any animation needed to support the camera using Cinemachine,task,open,version 0.1
+[10pt] Camera Rigging,Create any camera rigs needed to support the camera using Cinemachine,task,open,version 0.1
+[10pt] Character Animation - Boating - Paddling,Create animations of the character when Boating - Paddling,task,open,version 0.1
+[10pt] Character Animation - Boating - Enter/Exit,Create animations of the character when Boating - Enter/Exit,task,open,version 0.1
+[10pt] Character Animation - Boating - General,Create animations of the character when Boating - General,task,open,version 0.1
+[10pt] Character Animation - Combat - Unarmed,Create animations of the character when Combat - Unarmed,task,open,version 0.1
+[10pt] Character Animation - Combat - Archery,Create animations of the character when Combat - Archery,task,open,version 0.1
+[10pt] Character Animation - Combat - Knife,Create animations of the character when Combat - Knife,task,open,version 0.1
+[10pt] Character Animation - Combat - Hatchet,Create animations of the character when Combat - Hatchet,task,open,version 0.1
+[10pt] Character Animation - Combat - Spear,Create animations of the character when Combat - Spear,task,open,version 0.1
+[10pt] Character Animation - Combat - Injury,Create animations of the character when Combat - Injury,task,open,version 0.1
+[10pt] Character Animation - Combat - General,Create animations of the character when Combat - General,task,open,version 0.1
+[10pt] Character Animation - Combat - Other,Create animations of the character when Combat - Other,task,open,version 0.1
+[10pt] Character Animation - Cooking - Simple Fire,Create animations of the character when Cooking - Simple Fire,task,open,version 0.1
+[10pt] Character Animation - Cooking - Fire Roasting,Create animations of the character when Cooking - Fire Roasting,task,open,version 0.1
+[10pt] Character Animation - Cooking - Food Cooking Animations,Create animations of the character when Cooking - Food Cooking Animations,task,open,version 0.1
+[10pt] Character Animation - Cooking - Pot On Fire,Create animations of the character when Cooking - Pot On Fire,task,open,version 0.1
+[10pt] Character Animation - Crafting - Boats & Paddles,Create animations of the character when Crafting - Boats & Paddles,task,open,version 0.1
+[10pt] Character Animation - Crafting - Archery,Create animations of the character when Crafting - Archery,task,open,version 0.1
+[10pt] Character Animation - Crafting - Knapping,Create animations of the character when Crafting - Knapping,task,open,version 0.1
+[10pt] Character Animation - Crafting - Woodworking,Create animations of the character when Crafting - Woodworking,task,open,version 0.1
+[10pt] Character Animation - Crafting - Clothing,Create animations of the character when Crafting - Clothing,task,open,version 0.1
+[10pt] Character Animation - Crafting - Jewlery,Create animations of the character when Crafting - Jewlery,task,open,version 0.1
+[20pt] Character Animation - Crafting - Other Items,Create animations of the character when Crafting - Other Items,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Badger,Animate the character creating an Animal Pelt - Badger,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Beaver,Animate the character creating an Animal Pelt - Beaver,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Bison,Animate the character creating an Animal Pelt - Bison,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Black Bear,Animate the character creating an Animal Pelt - Black Bear,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Bobcat,Animate the character creating an Animal Pelt - Bobcat,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Brown Bear,Animate the character creating an Animal Pelt - Brown Bear,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Cougar,Animate the character creating an Animal Pelt - Cougar,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Coyote,Animate the character creating an Animal Pelt - Coyote,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Deer,Animate the character creating an Animal Pelt - Deer,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Elk,Animate the character creating an Animal Pelt - Elk,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Fox,Animate the character creating an Animal Pelt - Fox,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Moose,Animate the character creating an Animal Pelt - Moose,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Opossum,Animate the character creating an Animal Pelt - Opossum,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Otter,Animate the character creating an Animal Pelt - Otter,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Porcupine,Animate the character creating an Animal Pelt - Porcupine,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Rabbit,Animate the character creating an Animal Pelt - Rabbit,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Raccoon,Animate the character creating an Animal Pelt - Raccoon,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Skunk,Animate the character creating an Animal Pelt - Skunk,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Squirrel,Animate the character creating an Animal Pelt - Squirrel,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Wolf,Animate the character creating an Animal Pelt - Wolf,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Pelt - Wolverine,Animate the character creating an Animal Pelt - Wolverine,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Rawhide - Bison,Animate the character creating an Animal Rawhide - Bison,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Rawhide - Deer,Animate the character creating an Animal Rawhide - Deer,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Rawhide - Elk,Animate the character creating an Animal Rawhide - Elk,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Rawhide - Moose,Animate the character creating an Animal Rawhide - Moose,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Rawhide - Small Game,Animate the character creating an Animal Rawhide - Small Game,task,open,version 0.1
+[1pt] Character Animation - Crafting - Animal Rawhide - Strips,Animate the character creating an Animal Rawhide - Strips,task,open,version 0.1
+[20pt] Character Animation - General - Other Animations,Create other animations for the character,task,open,version 0.1
+[10pt] Character Animation - General - Building Fire,Create Building Fire animations for the character,task,open,version 0.1
+[10pt] Character Animation - General - Interacting With Fire,Create Interacting With Fire animations for the character,task,open,version 0.1
+[10pt] Character Animation - General - Cutting Trees,Create Cutting Trees animations for the character,task,open,version 0.1
+[10pt] Character Animation - Health - Leg Wounds,Create Leg Wounds animations for the character,task,open,version 0.1
+[10pt] Character Animation - Health - Arm Wounds,Create Arm Wounds animations for the character,task,open,version 0.1
+[10pt] Character Animation - Health - Torso Wounds,Create Torso Wounds animations for the character,task,open,version 0.1
+[10pt] Character Animation - Health - Head Wounds,Create Head Wounds animations for the character,task,open,version 0.1
+[10pt] Character Animation - Health - Healing,Create Healing animations for the character,task,open,version 0.1
+[10pt] Character Animation - Health - Death,Create Death animations for the character,task,open,version 0.1
+[10pt] Character Animation - Movement - Idling,Create animatinos of the character Idling,task,open,version 0.1
+[10pt] Character Animation - Movement - Sneaking,Create animatinos of the character Sneaking,task,open,version 0.1
+[10pt] Character Animation - Movement - Walking,Create animatinos of the character Walking,task,open,version 0.1
+[10pt] Character Animation - Movement - Jogging,Create animatinos of the character Jogging,task,open,version 0.1
+[10pt] Character Animation - Movement - Running,Create animatinos of the character Running,task,open,version 0.1
+[10pt] Character Animation - Movement - Swimming,Create animatinos of the character Swimming,task,open,version 0.1
+[10pt] Character Animation - Movement - Injured Variations,Create variations of the character movement that are injured.,task,open,version 0.1
+[10pt] Character Animation - Using Tools,Create animations of the character generally using any tools (placeholder),task,open,version 0.1
+[20pt] Character Rigging,Create the animation rig for the character,task,open,version 0.1
+[20pt] Environment Animation,Create any environmental animation that needs to happen,task,open,version 0.1
+[60pt] Gameplay Animation,Placeholder for any gameplay animation that is unknown,task,open,version 0.1
+[20pt] Gameplay Rigging,Placeholder for any rigging to support gameplay,task,open,version 0.1
+[30pt] General - Reference Animation Sourcing,Finding animation references for different animation tasks.,task,open,version 0.1
+[20pt] General - Promotional Cinematics,Creating any promotional specific animations,task,open,version 0.1
+[20pt] General - Scripted Cinematics,Create any animations needed for scripted cinematic scenes (cut-scenes),task,open,version 0.1
+[20pt] General - Scripted In-Game Events,Create any animations needed to support in-game events,task,open,version 0.1
+[20pt] Motion Capture - Data Processing,Data cleanup and organization for raw motion capture data,task,open,version 0.1
+[5pt] Motion Capture - Data Sourcing,Find free motion capture data to use when creating character animations,task,open,version 0.1
+[20pt] Motion Capture - Editing,Editing of motion capture frames into discrete character animations,task,open,version 0.1
+[20pt] Scripting & Tools - Animation Metadata Management,Create a system in Blender3D & python to help categorize and manage all the animations being produced,task,open,version 0.1
+[20pt] Scripting & Tools - Blender/Unity3D Integration,Ensure that rigs and animations are set to transfer automatically between Blender3D and Unity,task,open,version 0.1
+[40pt] Scripting & Tools - Animal Animation Retargeting,Create an animal retargeting system to be able to transfer animations from one animal to another,task,open,version 0.1
+[20pt] Scripting & Tools - Human Animation Retargeting,Create a human animation retargeting system to be able to transfer animations from other models to our character,task,open,version 0.1
+[20pt] Scripting & Tools - Rigging Tools,Create python extensions to improve the Rigify experience in Blender3D,task,open,version 0.1

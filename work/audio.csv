@@ -1,1 +1,54 @@
 title,body,labels,status,milestones
+[20pt] Audio Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[10pt] Audio Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[20pt] Music Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[10pt] Music Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[10pt] Voice Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[10pt] Voice Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[40pt] Audio Editing,Additional editing of any audio and SFX clips that need adjustment
+[20pt] Audio & SFX Sourcing,Finding SFX clips for various elements.
+[40pt] Audio QC Development Testing,Testing of any and all audio and SFX behavior.
+[40pt] Reactive Audio Design & Framework,Create a framework in Unity that allows audio data to be fed back into the C# scripting side
+[40pt] SFX Design - Animals,Audio SFX design for animals
+[20pt] SFX Design - Character,Audio SFX design for character
+[20pt] SFX Design - Environment,Audio SFX design for environment
+[20pt] SFX Design - Crafting,Audio SFX design for crafting
+[20pt] SFX Design - Combat,Audio SFX design for combat
+[20pt] SFX Design - Tools,Audio SFX design for tools
+[20pt] SFX Design - Impacts,Audio SFX design for impacts
+[20pt] SFX Design - Fire,Audio SFX design for fire
+[10pt] SFX Design - UI/UX,Audio SFX design for UI/UX interactions
+[80pt] SFX Design - General,General placeholder for additional SFX design
+[40pt] Audio Synchronization,Synchronization of audio with animation & programming systems.
+[20pt] Audio Mixing,Manage the game's audio mix.
+[8pt] Voice - Audio Editing,Editing of the voice recordings into usable SFX
+[3pt] Voice - Casting,Casting of the voice talent
+[5pt] Voice - Dialect Coach,Dialect coach for the character sound effects recording sessions
+[8pt] Voice - Production,Audio production for the character sound effects
+[8pt] Voice - Recording Engineer,Recording engineer for the character sound effects
+[8pt] Voice - Voice Talent,Voice talent for the character sound effects
+[80pt] Music - Soundtrack - Composition,Composition of music for the soundtrack
+[5pt] Music - Soundtrack - Conducting,Conducting musicians during the recording of the soundtrack
+[1pt] Music - Soundtrack - Contracting,Contracting musicians and staff for the recording of the soundtrack
+[5pt] Music - Soundtrack - Licensing,Licensing of any music materials for the soundtrack
+[5pt] Music - Soundtrack - Mastering,Master the recordings of the soundtrack
+[8pt] Music - Soundtrack - Mixing,Mixing the recordings of the soundtrack
+[1pt] Music - Soundtrack - Music Librarian,Managing the music library for the soundtrack
+[8pt] Music - Soundtrack - Orchestration,Orchestrating the composition to the available musicians for the soundtrack
+[20pt] Music - Soundtrack - Performance,Musical performance of for the recording of the soundtrack
+[20pt] Music - Soundtrack - Production,Production of recording of the soundtrack
+[8pt] Music - Soundtrack - Publishing,Publication of the soundtrack via online stores
+[20pt] Music - Soundtrack - Recording,Recording and engineering the soundtrack
+[8pt] Music - Trailer - Composition,Composition of music for the trailer
+[1pt] Music - Trailer - Conducting,Conducting musicians during the recording of the trailer
+[1pt] Music - Trailer - Contracting,Contracting musicians and staff for the recording of the trailer
+[1pt] Music - Trailer - Licensing,Licensing of any music materials for the trailer
+[1pt] Music - Trailer - Mastering,Master the recordings of the trailer
+[1pt] Music - Trailer - Mixing,Mixing the recordings of the trailer
+[1pt] Music - Trailer - Music Librarian,Managing the music library for the trailer
+[2pt] Music - Trailer - Orchestration,Orchestrating the composition to the available musicians for the trailer
+[6pt] Music - Trailer - Performance,Musical performance for the recording of the trailer
+[3pt] Music - Trailer - Production,Production of recording of the trailer
+[3pt] Music - Trailer - Recording,Recording and engineering the trailer
+[3pt] Music - Trailer - Voice Direction,Voice direction for the trailer
+[3pt] Music - Trailer - Voice Talent,Voice acting for the trailer
