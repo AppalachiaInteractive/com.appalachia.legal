@@ -1,3 +1,4 @@
 title,body,labels,status,milestones
 [40pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
 [30pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[3pt] Dev Environment - Unity LTS, Install Unity 2020 long term stable version,task,open,version 0.1
