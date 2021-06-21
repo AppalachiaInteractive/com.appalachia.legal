@@ -25,6 +25,6 @@ title,body,labels,status,milestones
 [100pt] Beta Testing,Quality assurance Beta Testing,task,open,version 0.1
 [100pt] Early Access,Quality assurance Early Access,task,open,version 0.1
 [100pt] Release Testing,Quality assurance Release Testing,task,open,version 0.1
-[40pt] Support - Early-Access Game Support,Support customer issues in the Early-Access period,task,open,version0.1
-[80pt] Support - Launch Game Support,Support customer issues in the Launch Game period,task,open,version0.1
-[150pt] Support - Post-Launch Game Support,Support customer issues in the Post-Launch period,task,open,version0.1
+[40pt] Support - Early-Access Game Support,Support customer issues in the Early-Access period,task,open,version 0.1
+[80pt] Support - Launch Game Support,Support customer issues in the Launch Game period,task,open,version 0.1
+[150pt] Support - Post-Launch Game Support,Support customer issues in the Post-Launch period,task,open,version 0.1
