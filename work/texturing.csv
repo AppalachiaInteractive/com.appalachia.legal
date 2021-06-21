@@ -1,34 +1,307 @@
 title,body,labels,status,milestones
 [20pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
 [10pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
-
-[3pt] Rocks - Granite - Grey,
-[3pt] Rocks - Granite - Red,
-[3pt] Rocks - Limestone - Buff,
-[3pt] Rocks - Limestone - Grey,
-[3pt] Rocks - Sandstone - Brown,
-[3pt] Rocks - Sandstone - Grey,
-[3pt] Rocks - Shale - Black,
-[3pt] Rocks - Shale - Green,
-[3pt] Rocks - Shale - Mixed,
-[8pt] Terrain - Beech Maple,
-[8pt] Terrain - Dirt,
-[8pt] Terrain - Forest Leaf,
-[8pt] Terrain - Forest Mossy,
-[3pt] Terrain - Granite,
-[8pt] Terrain - Grass,
-[3pt] Terrain - Limestone,
-[8pt] Terrain - Pine Rocky,
-[8pt] Terrain - Riparian,
-[8pt] Terrain - River Bank,
-[3pt] Terrain - Sandstone,
-[8pt] Terrain - Shale Barrens,
-[3pt] Terrain - Shale,
-[5pt] Texturing - Crafting - Copper (Age 0)
-[5pt] Texturing - Crafting - Copper (Age 1)
-[5pt] Texturing - Crafting - Copper (Age 2)
-[5pt] Texturing - Crafting - Copper (Age 3)
-[5pt] Texturing - Crafting - Copper (Age 4)
-[5pt] Texturing - Crafting - Copper (Age 5)
-[5pt] Texturing - Crafting - Copper (Age 6)
-[5pt] Texturing - Crafting - Copper (Age 7)
+[3pt] Rocks - Granite - Grey,Create Texture2D of Rocks - Granite - Grey,task,open,verson 0.1
+[3pt] Rocks - Granite - Red,Create Texture2D of Rocks - Granite - Red,task,open,verson 0.1
+[3pt] Rocks - Limestone - Buff,Create Texture2D of Rocks - Limestone - Buff,task,open,verson 0.1
+[3pt] Rocks - Limestone - Grey,Create Texture2D of Rocks - Limestone - Grey,task,open,verson 0.1
+[3pt] Rocks - Sandstone - Brown,Create Texture2D of Rocks - Sandstone - Brown,task,open,verson 0.1
+[3pt] Rocks - Sandstone - Grey,Create Texture2D of Rocks - Sandstone - Grey,task,open,verson 0.1
+[3pt] Rocks - Shale - Black,Create Texture2D of Rocks - Shale - Black,task,open,verson 0.1
+[3pt] Rocks - Shale - Green,Create Texture2D of Rocks - Shale - Green,task,open,verson 0.1
+[3pt] Rocks - Shale - Mixed,Create Texture2D of Rocks - Shale - Mixed,task,open,verson 0.1
+[8pt] Terrain - Beech Maple,Create HQ Texture2D for Terrain - Beech Maple,task,open,version 0.1
+[8pt] Terrain - Dirt,Create HQ Texture2D for Terrain - Dirt,task,open,version 0.1
+[8pt] Terrain - Forest Leaf,Create HQ Texture2D for Terrain - Forest Leaf,task,open,version 0.1
+[8pt] Terrain - Forest Mossy,Create HQ Texture2D for Terrain - Forest Mossy,task,open,version 0.1
+[3pt] Terrain - Granite,Create HQ Texture2D for Terrain - Granite,task,open,version 0.1
+[8pt] Terrain - Grass,Create HQ Texture2D for Terrain - Grass,task,open,version 0.1
+[3pt] Terrain - Limestone,Create HQ Texture2D for Terrain - Limestone,task,open,version 0.1
+[8pt] Terrain - Pine Rocky,Create HQ Texture2D for Terrain - Pine Rocky,task,open,version 0.1
+[8pt] Terrain - Riparian,Create HQ Texture2D for Terrain - Riparian,task,open,version 0.1
+[8pt] Terrain - River Bank,Create HQ Texture2D for Terrain - River Bank,task,open,version 0.1
+[3pt] Terrain - Sandstone,Create HQ Texture2D for Terrain - Sandstone,task,open,version 0.1
+[8pt] Terrain - Shale Barrens,Create HQ Texture2D for Terrain - Shale Barrens,task,open,version 0.1
+[3pt] Terrain - Shale,Create HQ Texture2D for Terrain - Shale,task,open,version 0.1
+[5pt] Crafting - Copper (Age 0),Create Texture2D for crafting with Copper (Age 0),task,open,version 0.1
+[5pt] Crafting - Copper (Age 1),Create Texture2D for crafting with Copper (Age 1),task,open,version 0.1
+[5pt] Crafting - Copper (Age 2),Create Texture2D for crafting with Copper (Age 2),task,open,version 0.1
+[5pt] Crafting - Copper (Age 3),Create Texture2D for crafting with Copper (Age 3),task,open,version 0.1
+[5pt] Crafting - Copper (Age 4),Create Texture2D for crafting with Copper (Age 4),task,open,version 0.1
+[5pt] Crafting - Copper (Age 5),Create Texture2D for crafting with Copper (Age 5),task,open,version 0.1
+[5pt] Crafting - Copper (Age 6),Create Texture2D for crafting with Copper (Age 6),task,open,version 0.1
+[5pt] Crafting - Copper (Age 7),Create Texture2D for crafting with Copper (Age 7),task,open,version 0.1
+[3pt] Crafting - Wood - American Cherry - Crown Cut,Create a Texture2D of cut Wood - American Cherry - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - American Cherry - Live Cut,Create a Texture2D of cut Wood - American Cherry - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - American Cherry - Plain Cut,Create a Texture2D of cut Wood - American Cherry - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - American Cherry - Rift Cut,Create a Texture2D of cut Wood - American Cherry - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Ash - Crown Cut,Create a Texture2D of cut Wood - Ash - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Ash - Live Cut,Create a Texture2D of cut Wood - Ash - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Ash - Plain Cut,Create a Texture2D of cut Wood - Ash - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Ash - Rift Cut,Create a Texture2D of cut Wood - Ash - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech - Crown Cut,Create a Texture2D of cut Wood - Beech - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech - Live Cut,Create a Texture2D of cut Wood - Beech - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech - Plain Cut,Create a Texture2D of cut Wood - Beech - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech - Rift Cut,Create a Texture2D of cut Wood - Beech - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech Honey Crown Cut,Create a Texture2D of cut Wood - Beech Honey Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech Honey Live Cut,Create a Texture2D of cut Wood - Beech Honey Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech Honey Plain Cut,Create a Texture2D of cut Wood - Beech Honey Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Beech Honey Rift Cut,Create a Texture2D of cut Wood - Beech Honey Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Birch - Crown Cut,Create a Texture2D of cut Wood - Birch - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Birch - Live Cut,Create a Texture2D of cut Wood - Birch - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Birch - Plain Cut,Create a Texture2D of cut Wood - Birch - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Birch - Rift Cut,Create a Texture2D of cut Wood - Birch - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cedar - Crown Cut,Create a Texture2D of cut Wood - Cedar - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cedar - Live Cut,Create a Texture2D of cut Wood - Cedar - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cedar - Plain Cut,Create a Texture2D of cut Wood - Cedar - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cedar - Rift Cut,Create a Texture2D of cut Wood - Cedar - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Chestnut - Crown Cut,Create a Texture2D of cut Wood - Chestnut - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Chestnut - Live Cut,Create a Texture2D of cut Wood - Chestnut - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Chestnut - Plain Cut,Create a Texture2D of cut Wood - Chestnut - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Chestnut - Rift Cut,Create a Texture2D of cut Wood - Chestnut - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cypress - Crown Cut,Create a Texture2D of cut Wood - Cypress - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cypress - Live Cut,Create a Texture2D of cut Wood - Cypress - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cypress - Plain Cut,Create a Texture2D of cut Wood - Cypress - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Cypress - Rift Cut,Create a Texture2D of cut Wood - Cypress - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Elm - Crown Cut,Create a Texture2D of cut Wood - Elm - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Elm - Live Cut,Create a Texture2D of cut Wood - Elm - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Elm - Plain Cut,Create a Texture2D of cut Wood - Elm - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Elm - Rift Cut,Create a Texture2D of cut Wood - Elm - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Hemlock - Crown Cut,Create a Texture2D of cut Wood - Hemlock - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Hemlock - Live Cut,Create a Texture2D of cut Wood - Hemlock - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Hemlock - Plain Cut,Create a Texture2D of cut Wood - Hemlock - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Hemlock - Rift Cut,Create a Texture2D of cut Wood - Hemlock - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Larch - Crown Cut,Create a Texture2D of cut Wood - Larch - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Larch - Live Cut,Create a Texture2D of cut Wood - Larch - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Larch - Plain Cut,Create a Texture2D of cut Wood - Larch - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Larch - Rift Cut,Create a Texture2D of cut Wood - Larch - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Maple - Crown Cut,Create a Texture2D of cut Wood - Maple - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Maple - Live Cut,Create a Texture2D of cut Wood - Maple - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Maple - Plain Cut,Create a Texture2D of cut Wood - Maple - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Maple - Rift Cut,Create a Texture2D of cut Wood - Maple - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Norway Spruce - Crown Cut,Create a Texture2D of cut Wood - Norway Spruce - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Norway Spruce - Live Cut,Create a Texture2D of cut Wood - Norway Spruce - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Norway Spruce - Plain Cut,Create a Texture2D of cut Wood - Norway Spruce - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Norway Spruce - Rift Cut,Create a Texture2D of cut Wood - Norway Spruce - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Oak - Crown Cut,Create a Texture2D of cut Wood - Oak - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Oak - Live Cut,Create a Texture2D of cut Wood - Oak - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Oak - Plain Cut,Create a Texture2D of cut Wood - Oak - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Oak - Rift Cut,Create a Texture2D of cut Wood - Oak - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Pine - Crown Cut,Create a Texture2D of cut Wood - Pine - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Pine - Live Cut,Create a Texture2D of cut Wood - Pine - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Pine - Plain Cut,Create a Texture2D of cut Wood - Pine - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Pine - Rift Cut,Create a Texture2D of cut Wood - Pine - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Poplar - Crown Cut,Create a Texture2D of cut Wood - Poplar - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Poplar - Live Cut,Create a Texture2D of cut Wood - Poplar - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Poplar - Plain Cut,Create a Texture2D of cut Wood - Poplar - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Poplar - Rift Cut,Create a Texture2D of cut Wood - Poplar - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Red Cedar - Crown Cut,Create a Texture2D of cut Wood - Red Cedar - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Red Cedar - Live Cut,Create a Texture2D of cut Wood - Red Cedar - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Red Cedar - Plain Cut,Create a Texture2D of cut Wood - Red Cedar - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Red Cedar - Rift Cut,Create a Texture2D of cut Wood - Red Cedar - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Rhododendron - Crown Cut,Create a Texture2D of cut Wood - Rhododendron - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Rhododendron - Live Cut,Create a Texture2D of cut Wood - Rhododendron - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Rhododendron - Plain Cut,Create a Texture2D of cut Wood - Rhododendron - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Rhododendron - Rift Cut,Create a Texture2D of cut Wood - Rhododendron - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Tulipwood - Crown Cut,Create a Texture2D of cut Wood - Tulipwood - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Tulipwood - Live Cut,Create a Texture2D of cut Wood - Tulipwood - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Tulipwood - Plane Cut,Create a Texture2D of cut Wood - Tulipwood - Plane Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Tulipwood - Rift Cut,Create a Texture2D of cut Wood - Tulipwood - Rift Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Walnut - Crown Cut,Create a Texture2D of cut Wood - Walnut - Crown Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Walnut - Live Cut,Create a Texture2D of cut Wood - Walnut - Live Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Walnut - Plain Cut,Create a Texture2D of cut Wood - Walnut - Plain Cut,task,open,version 0.1
+[3pt] Crafting - Wood - Walnut - Rift Cut,Create a Texture2D of cut Wood - Walnut - Rift Cut,task,open,version 0.1
+[8pt] Crafting - Wood - Tree Cut Wood Rings 1,Create a Texture2D of cut tree/branch - style 1,task,open,version 0.1
+[2pt] Crafting - Wood - Tree Cut Wood Rings 2,Create a Texture2D of cut tree/branch - style 2,task,open,version 0.1
+[2pt] Crafting - Wood - Tree Cut Wood Rings 3,Create a Texture2D of cut tree/branch - style 3,task,open,version 0.1
+[2pt] Crafting - Wood - Tree Cut Wood Rings 4,Create a Texture2D of cut tree/branch - style 4,task,open,version 0.1
+[3pt] Tree Bark - Ash-Black,Create a Texture2D of bark for a tree - Ash-Black,task,open,version 0.1
+[3pt] Tree Bark - Ash-White,Create a Texture2D of bark for a tree - Ash-White,task,open,version 0.1
+[3pt] Tree Bark - Beech,Create a Texture2D of bark for a tree - Beech,task,open,version 0.1
+[3pt] Tree Bark - Birch-Black,Create a Texture2D of bark for a tree - Birch-Black,task,open,version 0.1
+[3pt] Tree Bark - Birch-Paper,Create a Texture2D of bark for a tree - Birch-Paper,task,open,version 0.1
+[3pt] Tree Bark - Birch-Yellow,Create a Texture2D of bark for a tree - Birch-Yellow,task,open,version 0.1
+[3pt] Tree Bark - Buckeye-Yellow,Create a Texture2D of bark for a tree - Buckeye-Yellow,task,open,version 0.1
+[3pt] Tree Bark - Cedar-Eastern-Red-Thuja,Create a Texture2D of bark for a tree - Cedar-Eastern-Red-Thuja,task,open,version 0.1
+[3pt] Tree Bark - Chestnut,Create a Texture2D of bark for a tree - Chestnut,task,open,version 0.1
+[3pt] Tree Bark - Cucumbertree,Create a Texture2D of bark for a tree - Cucumbertree,task,open,version 0.1
+[3pt] Tree Bark - Dogwood-Flowering,Create a Texture2D of bark for a tree - Dogwood-Flowering,task,open,version 0.1
+[3pt] Tree Bark - Elm,Create a Texture2D of bark for a tree - Elm,task,open,version 0.1
+[3pt] Tree Bark - Hemlock-Eastern,Create a Texture2D of bark for a tree - Hemlock-Eastern,task,open,version 0.1
+[3pt] Tree Bark - Hickory-Pecan,Create a Texture2D of bark for a tree - Hickory-Pecan,task,open,version 0.1
+[3pt] Tree Bark - Hickory-Shagbark,Create a Texture2D of bark for a tree - Hickory-Shagbark,task,open,version 0.1
+[3pt] Tree Bark - Juniper-Red-Cedar,Create a Texture2D of bark for a tree - Juniper-Red-Cedar,task,open,version 0.1
+[3pt] Tree Bark - Linden,Create a Texture2D of bark for a tree - Linden,task,open,version 0.1
+[3pt] Tree Bark - Locus-Black,Create a Texture2D of bark for a tree - Locus-Black,task,open,version 0.1
+[3pt] Tree Bark - Locust-Honey,Create a Texture2D of bark for a tree - Locust-Honey,task,open,version 0.1
+[3pt] Tree Bark - Locust-Yellow-Osage-Orange,Create a Texture2D of bark for a tree - Locust-Yellow (Osage Orange),task,open,version 0.1
+[3pt] Tree Bark - Maple-Moosewood,Create a Texture2D of bark for a tree - Maple-Moosewood,task,open,version 0.1
+[3pt] Tree Bark - Maple-Red,Create a Texture2D of bark for a tree - Maple-Red,task,open,version 0.1
+[3pt] Tree Bark - Maple-Silver,Create a Texture2D of bark for a tree - Maple-Silver,task,open,version 0.1
+[3pt] Tree Bark - Maple-Sugar,Create a Texture2D of bark for a tree - Maple-Sugar,task,open,version 0.1
+[3pt] Tree Bark - Oak-Blackjack,Create a Texture2D of bark for a tree - Oak-Blackjack,task,open,version 0.1
+[3pt] Tree Bark - Oak-Red,Create a Texture2D of bark for a tree - Oak-Red,task,open,version 0.1
+[3pt] Tree Bark - Oak-White,Create a Texture2D of bark for a tree - Oak-White,task,open,version 0.1
+[3pt] Tree Bark - Pine-Pitch,Create a Texture2D of bark for a tree - Pine-Pitch,task,open,version 0.1
+[3pt] Tree Bark - Pine-Shortleaf,Create a Texture2D of bark for a tree - Pine-Shortleaf,task,open,version 0.1
+[3pt] Tree Bark - Pine-Table-Mountain,Create a Texture2D of bark for a tree - Pine-Table-Mountain,task,open,version 0.1
+[3pt] Tree Bark - Pine-Virginia,Create a Texture2D of bark for a tree - Pine-Virginia,task,open,version 0.1
+[3pt] Tree Bark - Pine-White,Create a Texture2D of bark for a tree - Pine-White,task,open,version 0.1
+[3pt] Tree Bark - Sassafras,Create a Texture2D of bark for a tree - Sassafras,task,open,version 0.1
+[3pt] Tree Bark - Serviceberry,Create a Texture2D of bark for a tree - Serviceberry,task,open,version 0.1
+[3pt] Tree Bark - Spruce-Black,Create a Texture2D of bark for a tree - Spruce-Black,task,open,version 0.1
+[3pt] Tree Bark - Sumac,Create a Texture2D of bark for a tree - Sumac,task,open,version 0.1
+[3pt] Tree Bark - Sweet-Gum,Create a Texture2D of bark for a tree - Sweet-Gum,task,open,version 0.1
+[3pt] Tree Bark - Sycamore,Create a Texture2D of bark for a tree - Sycamore,task,open,version 0.1
+[3pt] Tree Bark - Tamarack,Create a Texture2D of bark for a tree - Tamarack,task,open,version 0.1
+[3pt] Tree Bark - Tuliptree,Create a Texture2D of bark for a tree - Tuliptree,task,open,version 0.1
+[3pt] Tree Bark - Walnut,Create a Texture2D of bark for a tree - Walnut,task,open,version 0.1
+[3pt] Tree Bark - Willow,Create a Texture2D of bark for a tree - Willow,task,open,version 0.1
+[3pt] Tree Leaves - Ash-Black,Create a Texture2D of leaves for a tree - Ash-Black,task,open,version 0.1
+[3pt] Tree Leaves - Ash-White,Create a Texture2D of leaves for a tree - Ash-White,task,open,version 0.1
+[3pt] Tree Leaves - Beech,Create a Texture2D of leaves for a tree - Beech,task,open,version 0.1
+[3pt] Tree Leaves - Birch-Black,Create a Texture2D of leaves for a tree - Birch-Black,task,open,version 0.1
+[3pt] Tree Leaves - Birch-Paper,Create a Texture2D of leaves for a tree - Birch-Paper,task,open,version 0.1
+[3pt] Tree Leaves - Birch-Yellow,Create a Texture2D of leaves for a tree - Birch-Yellow,task,open,version 0.1
+[3pt] Tree Leaves - Buckeye-Yellow,Create a Texture2D of leaves for a tree - Buckeye-Yellow,task,open,version 0.1
+[3pt] Tree Leaves - Cedar-Eastern-Red-Thuja,Create a Texture2D of leaves for a tree - Cedar-Eastern-Red-Thuja,task,open,version 0.1
+[3pt] Tree Leaves - Chestnut,Create a Texture2D of leaves for a tree - Chestnut,task,open,version 0.1
+[3pt] Tree Leaves - Cucumbertree,Create a Texture2D of leaves for a tree - Cucumbertree,task,open,version 0.1
+[3pt] Tree Leaves - Dogwood-Flowering,Create a Texture2D of leaves for a tree - Dogwood-Flowering,task,open,version 0.1
+[3pt] Tree Leaves - Elm,Create a Texture2D of leaves for a tree - Elm,task,open,version 0.1
+[3pt] Tree Leaves - Hemlock-Eastern,Create a Texture2D of leaves for a tree - Hemlock-Eastern,task,open,version 0.1
+[3pt] Tree Leaves - Hickory-Pecan,Create a Texture2D of leaves for a tree - Hickory-Pecan,task,open,version 0.1
+[3pt] Tree Leaves - Hickory-Shagleaves,Create a Texture2D of leaves for a tree - Hickory-Shagleaves,task,open,version 0.1
+[3pt] Tree Leaves - Juniper-Red-Cedar,Create a Texture2D of leaves for a tree - Juniper-Red-Cedar,task,open,version 0.1
+[3pt] Tree Leaves - Linden,Create a Texture2D of leaves for a tree - Linden,task,open,version 0.1
+[3pt] Tree Leaves - Locus-Black,Create a Texture2D of leaves for a tree - Locus-Black,task,open,version 0.1
+[3pt] Tree Leaves - Locust-Honey,Create a Texture2D of leaves for a tree - Locust-Honey,task,open,version 0.1
+[3pt] Tree Leaves - Locust-Yellow-Osage-Orange,Create a Texture2D of leaves for a tree - Locust-Yellow (Osage Orange),task,open,version 0.1
+[3pt] Tree Leaves - Maple-Moosewood,Create a Texture2D of leaves for a tree - Maple-Moosewood,task,open,version 0.1
+[3pt] Tree Leaves - Maple-Red,Create a Texture2D of leaves for a tree - Maple-Red,task,open,version 0.1
+[3pt] Tree Leaves - Maple-Silver,Create a Texture2D of leaves for a tree - Maple-Silver,task,open,version 0.1
+[3pt] Tree Leaves - Maple-Sugar,Create a Texture2D of leaves for a tree - Maple-Sugar,task,open,version 0.1
+[3pt] Tree Leaves - Oak-Blackjack,Create a Texture2D of leaves for a tree - Oak-Blackjack,task,open,version 0.1
+[3pt] Tree Leaves - Oak-Red,Create a Texture2D of leaves for a tree - Oak-Red,task,open,version 0.1
+[3pt] Tree Leaves - Oak-White,Create a Texture2D of leaves for a tree - Oak-White,task,open,version 0.1
+[3pt] Tree Leaves - Pine-Pitch,Create a Texture2D of leaves for a tree - Pine-Pitch,task,open,version 0.1
+[3pt] Tree Leaves - Pine-Shortleaf,Create a Texture2D of leaves for a tree - Pine-Shortleaf,task,open,version 0.1
+[3pt] Tree Leaves - Pine-Table-Mountain,Create a Texture2D of leaves for a tree - Pine-Table-Mountain,task,open,version 0.1
+[3pt] Tree Leaves - Pine-Virginia,Create a Texture2D of leaves for a tree - Pine-Virginia,task,open,version 0.1
+[3pt] Tree Leaves - Pine-White,Create a Texture2D of leaves for a tree - Pine-White,task,open,version 0.1
+[3pt] Tree Leaves - Sassafras,Create a Texture2D of leaves for a tree - Sassafras,task,open,version 0.1
+[3pt] Tree Leaves - Serviceberry,Create a Texture2D of leaves for a tree - Serviceberry,task,open,version 0.1
+[3pt] Tree Leaves - Spruce-Black,Create a Texture2D of leaves for a tree - Spruce-Black,task,open,version 0.1
+[3pt] Tree Leaves - Sumac,Create a Texture2D of leaves for a tree - Sumac,task,open,version 0.1
+[3pt] Tree Leaves - Sweet-Gum,Create a Texture2D of leaves for a tree - Sweet-Gum,task,open,version 0.1
+[3pt] Tree Leaves - Sycamore,Create a Texture2D of leaves for a tree - Sycamore,task,open,version 0.1
+[3pt] Tree Leaves - Tamarack,Create a Texture2D of leaves for a tree - Tamarack,task,open,version 0.1
+[3pt] Tree Leaves - Tuliptree,Create a Texture2D of leaves for a tree - Tuliptree,task,open,version 0.1
+[3pt] Tree Leaves - Walnut,Create a Texture2D of leaves for a tree - Walnut,task,open,version 0.1
+[3pt] Tree Leaves - Willow,Create a Texture2D of leaves for a tree - Willow,task,open,version 0.1
+[3pt] Bird - American Crow,Create the Texture2Ds needed for a American Crow,task,open,version 0.1
+[3pt] Bird - American Kestral,Create the Texture2Ds needed for a American Kestral,task,open,version 0.1
+[3pt] Bird - Bald Eagle,Create the Texture2Ds needed for a Bald Eagle,task,open,version 0.1
+[3pt] Bird - Baltimore Oriole,Create the Texture2Ds needed for a Baltimore Oriole,task,open,version 0.1
+[3pt] Bird - Barn Owl,Create the Texture2Ds needed for a Barn Owl,task,open,version 0.1
+[3pt] Bird - Blue Jay,Create the Texture2Ds needed for a Blue Jay,task,open,version 0.1
+[3pt] Bird - Blue Winged Teal,Create the Texture2Ds needed for a Blue Winged Teal,task,open,version 0.1
+[3pt] Bird - Canada Goose,Create the Texture2Ds needed for a Canada Goose,task,open,version 0.1
+[3pt] Bird - Common Raven,Create the Texture2Ds needed for a Common Raven,task,open,version 0.1
+[3pt] Bird - Green Winged Teal,Create the Texture2Ds needed for a Green Winged Teal,task,open,version 0.1
+[3pt] Bird - Mourning Dove,Create the Texture2Ds needed for a Mourning Dove,task,open,version 0.1
+[3pt] Bird - Northern Cardinal,Create the Texture2Ds needed for a Northern Cardinal,task,open,version 0.1
+[3pt] Bird - Northern Flicker,Create the Texture2Ds needed for a Northern Flicker,task,open,version 0.1
+[3pt] Bird - Red Shouldered Hawk,Create the Texture2Ds needed for a Red Shouldered Hawk,task,open,version 0.1
+[3pt] Bird - Red Tailed Hawk,Create the Texture2Ds needed for a Red Tailed Hawk,task,open,version 0.1
+[3pt] Bird - Ruffed Grouse,Create the Texture2Ds needed for a Ruffed Grouse,task,open,version 0.1
+[3pt] Bird - Trumpeter Swan,Create the Texture2Ds needed for a Trumpeter Swan,task,open,version 0.1
+[3pt] Bird - Wild Turkey,Create the Texture2Ds needed for a Wild Turkey,task,open,version 0.1
+[3pt] Fish - Bass,Create the Texture2Ds needed for a Bass,task,open,version 0.1
+[3pt] Fish - Perch,Create the Texture2Ds needed for a Perch,task,open,version 0.1
+[3pt] Fish - Pike,Create the Texture2Ds needed for a Pike,task,open,version 0.1
+[3pt] Fish - Trout,Create the Texture2Ds needed for a Trout,task,open,version 0.1
+[3pt] Animal - Badger,Create the Texture2Ds needed for a Badger,task,open,version 0.1
+[3pt] Animal - Beaver,Create the Texture2Ds needed for a Beaver,task,open,version 0.1
+[3pt] Animal - Bison,Create the Texture2Ds needed for a Bison,task,open,version 0.1
+[3pt] Animal - Black Bear,Create the Texture2Ds needed for a Black Bear,task,open,version 0.1
+[3pt] Animal - Bobcat,Create the Texture2Ds needed for a Bobcat,task,open,version 0.1
+[3pt] Animal - Brown Bear,Create the Texture2Ds needed for a Brown Bear,task,open,version 0.1
+[3pt] Animal - Cougar,Create the Texture2Ds needed for a Cougar,task,open,version 0.1
+[3pt] Animal - Coyote,Create the Texture2Ds needed for a Coyote,task,open,version 0.1
+[3pt] Animal - Deer,Create the Texture2Ds needed for a Deer,task,open,version 0.1
+[3pt] Animal - Elk,Create the Texture2Ds needed for a Elk,task,open,version 0.1
+[3pt] Animal - Fox,Create the Texture2Ds needed for a Fox,task,open,version 0.1
+[3pt] Animal - Moose,Create the Texture2Ds needed for a Moose,task,open,version 0.1
+[3pt] Animal - Opossum,Create the Texture2Ds needed for a Opossum,task,open,version 0.1
+[3pt] Animal - Otter,Create the Texture2Ds needed for a Otter,task,open,version 0.1
+[3pt] Animal - Porcupine,Create the Texture2Ds needed for a Porcupine,task,open,version 0.1
+[3pt] Animal - Rabbit,Create the Texture2Ds needed for a Rabbit,task,open,version 0.1
+[3pt] Animal - Raccoon,Create the Texture2Ds needed for a Raccoon,task,open,version 0.1
+[3pt] Animal - Skunk,Create the Texture2Ds needed for a Skunk,task,open,version 0.1
+[3pt] Animal - Squirrel,Create the Texture2Ds needed for a Squirrel,task,open,version 0.1
+[3pt] Animal - Wolf,Create the Texture2Ds needed for a Wolf,task,open,version 0.1
+[3pt] Animal - Wolverine,Create the Texture2Ds needed for a Wolverine,task,open,version 0.1
+[3pt] Clay - Raw,Create a Texture2D for clay - Raw,task,open,version 0.1
+[3pt] Clay - Rough,Create a Texture2D for clay - Rough,task,open,version 0.1
+[3pt] Clay - Smooth,Create a Texture2D for clay - Smooth,Smooth,open,version 0.1
+[3pt] Clay - wet,Create a Texture2D for clay - Wet,task,open,version 0.1
+[3pt] Bone,Create a Texture2D for Bone,task,open,version 0.1
+[3pt] Blood,Create a Texture2D for Blood,task,open,version 0.1
+[3pt] Carved Wood,Create a Texture2D for Carved Wood,task,open,version 0.1
+[3pt] Chipped Rock,Create a Texture2D for Chipped Rock,task,open,version 0.1
+[3pt] Flaked Rock,Create a Texture2D for Flaked Rock,task,open,version 0.1
+[3pt] Rope,Create a Texture2D for Rope,task,open,version 0.1
+[3pt] Sinew,Create a Texture2D for Sinew,task,open,version 0.1
+[3pt] Animal Rawhide - Bison,Create a Texture2D of a rawhide from a Bison,task,open,version 0.1
+[3pt] Animal Rawhide - Deer,Create a Texture2D of a rawhide from a Deer,task,open,version 0.1
+[3pt] Animal Rawhide - Elk,Create a Texture2D of a rawhide from a Elk,task,open,version 0.1
+[3pt] Animal Rawhide - Moose,Create a Texture2D of a rawhide from a Moose,task,open,version 0.1
+[3pt] Animal Rawhide - Small Game,Create a Texture2D of a rawhide from small game,task,open,version 0.1
+[3pt] Animal Rawhide - Strips,Create a Texture2D of a rawhide strips or laces,task,open,version 0.1
+[3pt] Animal Brain Tanned Hide - Bison,Create a Texture2D of a tanned hide from a Bison,task,open,version 0.1
+[3pt] Animal Brain Tanned Hide - Deer,Create a Texture2D of a tanned hide from a Deer,task,open,version 0.1
+[3pt] Animal Brain Tanned Hide - Elk,Create a Texture2D of a tanned hide from a Elk,task,open,version 0.1
+[3pt] Animal Brain Tanned Hide - Moose,Create a Texture2D of a tanned hide from a Moose,task,open,version 0.1
+[3pt] Animal Brain Tanned Hide - Small Game,Create a Texture2D of a tanned hide from small game,task,open,version 0.1
+[3pt] Animal Brain Tanned Hide - Strips,Create a Texture2D of a tanned hide strips or laces,task,open,version 0.1
+[3pt] Animal Tracks - Badger,Create a Texture2D footprint of a Badger,task,open,version 0.1
+[3pt] Animal Tracks - Bear-black,Create a Texture2D footprint of a Bear-black,task,open,version 0.1
+[3pt] Animal Tracks - Bear-brown,Create a Texture2D footprint of a Bear-brown,task,open,version 0.1
+[3pt] Animal Tracks - Beaver,Create a Texture2D footprint of a Beaver,task,open,version 0.1
+[3pt] Animal Tracks - Bison,Create a Texture2D footprint of a Bison,task,open,version 0.1
+[3pt] Animal Tracks - Bobcat,Create a Texture2D footprint of a Bobcat,task,open,version 0.1
+[3pt] Animal Tracks - Caribou,Create a Texture2D footprint of a Caribou,task,open,version 0.1
+[3pt] Animal Tracks - Cat,Create a Texture2D footprint of a Cat,task,open,version 0.1
+[3pt] Animal Tracks - Cougar,Create a Texture2D footprint of a Cougar,task,open,version 0.1
+[3pt] Animal Tracks - Coyote,Create a Texture2D footprint of a Coyote,task,open,version 0.1
+[3pt] Animal Tracks - Deer-mule,Create a Texture2D footprint of a Deer-mule,task,open,version 0.1
+[3pt] Animal Tracks - Deer-whitetail,Create a Texture2D footprint of a Deer-whitetail,task,open,version 0.1
+[3pt] Animal Tracks - Dog,Create a Texture2D footprint of a Dog,task,open,version 0.1
+[3pt] Animal Tracks - Elk,Create a Texture2D footprint of a Elk,task,open,version 0.1
+[3pt] Animal Tracks - Ferret,Create a Texture2D footprint of a Ferret,task,open,version 0.1
+[3pt] Animal Tracks - Fisher,Create a Texture2D footprint of a Fisher,task,open,version 0.1
+[3pt] Animal Tracks - Fox-kit,Create a Texture2D footprint of a Fox-kit,task,open,version 0.1
+[3pt] Animal Tracks - Fox-red,Create a Texture2D footprint of a Fox-red,task,open,version 0.1
+[3pt] Animal Tracks - Jackrabbit,Create a Texture2D footprint of a Jackrabbit,task,open,version 0.1
+[3pt] Animal Tracks - Lynx,Create a Texture2D footprint of a Lynx,task,open,version 0.1
+[3pt] Animal Tracks - Marmot,Create a Texture2D footprint of a Marmot,task,open,version 0.1
+[3pt] Animal Tracks - Marten,Create a Texture2D footprint of a Marten,task,open,version 0.1
+[3pt] Animal Tracks - Mink,Create a Texture2D footprint of a Mink,task,open,version 0.1
+[3pt] Animal Tracks - Moose,Create a Texture2D footprint of a Moose,task,open,version 0.1
+[3pt] Animal Tracks - Ocelot,Create a Texture2D footprint of a Ocelot,task,open,version 0.1
+[3pt] Animal Tracks - Opossum,Create a Texture2D footprint of a Opossum,task,open,version 0.1
+[3pt] Animal Tracks - Otter,Create a Texture2D footprint of a Otter,task,open,version 0.1
+[3pt] Animal Tracks - Pheasant,Create a Texture2D footprint of a Pheasant,task,open,version 0.1
+[3pt] Animal Tracks - Pig,Create a Texture2D footprint of a Pig,task,open,version 0.1
+[3pt] Animal Tracks - Porcupine,Create a Texture2D footprint of a Porcupine,task,open,version 0.1
+[3pt] Animal Tracks - Prairie_dog,Create a Texture2D footprint of a Prairie_dog,task,open,version 0.1
+[3pt] Animal Tracks - Raccoon,Create a Texture2D footprint of a Raccoon,task,open,version 0.1
+[3pt] Animal Tracks - Skunk,Create a Texture2D footprint of a Skunk,task,open,version 0.1
+[3pt] Animal Tracks - Skunk-striped,Create a Texture2D footprint of a Skunk-striped,task,open,version 0.1
+[3pt] Animal Tracks - Skunk_spotted,Create a Texture2D footprint of a Skunk_spotted,task,open,version 0.1
+[3pt] Animal Tracks - Squirrel-gray,Create a Texture2D footprint of a Squirrel-gray,task,open,version 0.1
+[3pt] Animal Tracks - Turkey,Create a Texture2D footprint of a Turkey,task,open,version 0.1
+[3pt] Animal Tracks - Wolf-gray,Create a Texture2D footprint of a Wolf-gray,task,open,version 0.1
+[3pt] Animal Tracks - Wolverine,Create a Texture2D footprint of a Wolverine,task,open,version 0.1
+[3pt] Animal Tracks - Woodchuck,Create a Texture2D footprint of a Woodchuck,task,open,version 0.1
