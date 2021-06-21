@@ -75,6 +75,8 @@ title,body,labels,status,milestones
 [30pt] Gameplay - Environment - Footsteps,,task,open,version 0.1
 [30pt] Gameplay - Environment - Wind,,task,open,version 0.1
 [10pt] Gameplay - Environment - 3D Sound Propogation,,task,open,version 0.1
+[30pt] Gameplay - Environment - Fire,,task,open,version 0.1
+[30pt] Gameplay - Environment - Water,,task,open,version 0.1
 [80pt] Gameplay - Movement - Combat,,task,open,version 0.1
 [40pt] Gameplay - Movement - Interactions,,task,open,version 0.1
 [40pt] Gameplay - Movement - Physics,,task,open,version 0.1

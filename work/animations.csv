@@ -1,6 +1,12 @@
 title,body,labels,status,milestones
 [20pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
 [10pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[8pt] Animal - Marmot Animation,Create all animations for Marmot in Blender3D.,task,open,version 0.1
+[1pt] Animal - Marmot Rigging,Create the animation rig for Marmot in Blender3D.,task,open,version 0.1
+[8pt] Animal - Marten Animation,Create all animations for Marten in Blender3D.,task,open,version 0.1
+[1pt] Animal - Marten Rigging,Create the animation rig for Marten in Blender3D.,task,open,version 0.1
+[8pt] Animal - Fisher Animation,Create all animations for Fisher in Blender3D.,task,open,version 0.1
+[1pt] Animal - Fisher Rigging,Create the animation rig for Fisher in Blender3D.,task,open,version 0.1
 [8pt] Animal - Badger Animation,Create all animations for Badger in Blender3D.,task,open,version 0.1
 [1pt] Animal - Badger Rigging,Create the animation rig for Badger in Blender3D.,task,open,version 0.1
 [8pt] Animal - Beaver Animation,Create all animations for Beaver in Blender3D.,task,open,version 0.1
@@ -114,12 +120,12 @@ title,body,labels,status,milestones
 [10pt] Character Animation - Health - Head Wounds,Create Head Wounds animations for the character,task,open,version 0.1
 [10pt] Character Animation - Health - Healing,Create Healing animations for the character,task,open,version 0.1
 [10pt] Character Animation - Health - Death,Create Death animations for the character,task,open,version 0.1
-[10pt] Character Animation - Movement - Idling,Create animatinos of the character Idling,task,open,version 0.1
-[10pt] Character Animation - Movement - Sneaking,Create animatinos of the character Sneaking,task,open,version 0.1
-[10pt] Character Animation - Movement - Walking,Create animatinos of the character Walking,task,open,version 0.1
-[10pt] Character Animation - Movement - Jogging,Create animatinos of the character Jogging,task,open,version 0.1
-[10pt] Character Animation - Movement - Running,Create animatinos of the character Running,task,open,version 0.1
-[10pt] Character Animation - Movement - Swimming,Create animatinos of the character Swimming,task,open,version 0.1
+[10pt] Character Animation - Movement - Idling,Create animations of the character Idling,task,open,version 0.1
+[10pt] Character Animation - Movement - Sneaking,Create animations of the character Sneaking,task,open,version 0.1
+[10pt] Character Animation - Movement - Walking,Create animations of the character Walking,task,open,version 0.1
+[10pt] Character Animation - Movement - Jogging,Create animations of the character Jogging,task,open,version 0.1
+[10pt] Character Animation - Movement - Running,Create animations of the character Running,task,open,version 0.1
+[10pt] Character Animation - Movement - Swimming,Create animations of the character Swimming,task,open,version 0.1
 [10pt] Character Animation - Movement - Injured Variations,Create variations of the character movement that are injured.,task,open,version 0.1
 [10pt] Character Animation - Using Tools,Create animations of the character generally using any tools (placeholder),task,open,version 0.1
 [20pt] Character Rigging,Create the animation rig for the character,task,open,version 0.1
