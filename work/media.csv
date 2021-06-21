@@ -1,120 +1,40 @@
 title,body,labels,status,milestones
-[20pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
-[20pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
-10,Marketing,Promotional Image 2D Compositing,
-10,Marketing,Promotional Image Scene Setup,
-Brand Management,Brand Art Direction
-Brand Management,Brand Content Manager
-Brand Management,Brand Contest Direction
-Brand Management,Brand Creative Direction
-Brand Management,Brand Direction
-Brand Management,Brand Game Direction
-Brand Management,Brand Historian
-Brand Management,Brand HR Partner
-Brand Management,Brand Product Manager
-Brand Management,Brand Production Direction
-Brand Management,Brand Products Direction
-Brand Management,Brand Project Management
-Brand Management,Brand Technology Direction
-Brand Management,Senior Producer
-Communication,Public Relations,General,20
-Communications,Public Relations,Canada,5
-Communications,Public Relations,First Nations,8
-Communications,Public Relations,Mexico,5
-Communications,Public Relations,Native American Nations,8
-Communications,Public Relations,Native Mexicans,8
-Communications,Public Relations,US,8
-Marketing,2D / 3D Art
-Marketing,2D/3D Art
-Marketing,Acount Manager - Sales
-Marketing,Acount Manager - Sales
-Marketing,Acount Manager - Sales
-Marketing,Associate Brand Manager - Brand Management
-Marketing,Associate Direction - Digital Marketing
-Marketing,Associate Direction - Promotions
-Marketing,Associate Direction - Public Relations
-Marketing,Associate Events Manager
-Marketing,Associate Live Brand Manager - Live Brand Management
-Marketing,Associate Manager - Digital Marketing
-Marketing,Associate Manager - Digital Marketing
-Marketing,Associate Web Producer - Digital Marketing
-Marketing,Brand Direction
-Marketing,Brand Direction
-Marketing,Brand Manager - Brand Management
-Marketing,Brand Manager - Brand Management
-Marketing,Communications
-Marketing,Communications
-Marketing,Communications
-Marketing,Communications
-Marketing,Communications Direction
-Marketing,Communications Manager - Public Relations
-Marketing,Communications Specialist - Public Relations
-Marketing,Content Marketing Manager - Digital Marketing
-Marketing,Digital Marketing Coordinator
-Marketing,Digital Marketing,20
-Marketing,Direction - Brand Management
-Marketing,Direction - Digital Marketing
-Marketing,Direction - Live Brand Management
-Marketing,Direction - Promotions
-Marketing,Direction - Public Relations
-Marketing,Direction - Sales
-Marketing,Direction - Sales Planning and Integration
-Marketing,Editor - Public Relations
-Marketing,EMEA Assistant Brand Manager
-Marketing,EMEA Assistant Brand Manager
-Marketing,EMEA Assistant Brand Manager
-Marketing,EMEA Brand Direction
-Marketing,EMEA Brand Manager Senior
-Marketing,EMEA Brand Manager Senior
-Marketing,EMEA Chief Marketing & Sales Officer
-Marketing,EMEA Communication Tools Purchasing & Manufacturing Coordinator
-Marketing,EMEA Communication Tools Purchasing & Manufacturing Manager
-Marketing,EMEA Digital Influence & Social Media Manager
-Marketing,EMEA Digital Marketing Manager
-Marketing,EMEA Digital Marketing Manager Assistant
-Marketing,EMEA Executive Direction
-Marketing,EMEA Group Brand Manager
-Marketing,EMEA Junior Trade Marketing Coordinator
-Marketing,EMEA Junior Trade Marketing Coordinator
-Marketing,EMEA Live Brand Manager
-Marketing,EMEA Manufacturing Planning Team
-Marketing,EMEA Manufacturing Planning Team
-Marketing,EMEA Media & Analytics Manager
-Marketing,EMEA Media & Engagement Group Manager
-Marketing,EMEA Paparparts Specialist
-Marketing,EMEA Paperparts & Graphic Studio Manager
-Marketing,EMEA Retail Sales Direction
-Marketing,EMEA Social Media Manager
-Marketing,EMEA Trade Marketing Group Manager
-Marketing,EMEA Web Integrator
-Marketing,EMEA Web Integrator
-Marketing,EMEA Webmaster
-Marketing,Events Specialist
-Marketing,International Product Manager
-Marketing,Manager - Public Relations
-Marketing,Manager - Public Relations
-Marketing,Managing Direction
-Marketing,Media Management,20
-Marketing,President & CEO
-Marketing,Product Manager
-Marketing,Product Manager
-Marketing,Product Manager
-Marketing,Product Manager
-Marketing,Projecy Manager - Brand Management
-Marketing,Promotions,20
-Marketing,Sales Planning and Integration Manager - Sales
-Marketing,Sales Planning and Integration Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Brand Manager - Brand Management
-Marketing,Senior Direction - Brand Management
-Marketing,Senior Direction - Sales
-Marketing,Senior Live Brand Manager - Live Brand Management
-Marketing,Senior Manager - Digital Marketing
-Marketing,Senior Manager - Promotions
-Marketing,Senior Manager - Promotions
-Marketing,Senior Manager - Public Relations
-Marketing,Web Content,20
-Marketing,Web Development,20
+[20pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,management,open,version 0.1
+[20pt] Direction,Offer direction to task assignees and clarify any pending questions,management,open,version 0.1
+[30pt] Product Review - Direction & Management,Lead product reviews and provide necessary materials and present feedback to team.,management,open,version 0.1
+[10pt] Product Review - Catawba,Review Keepers Of Creation with the Catawba nation(s).,task,open,version 0.1
+[10pt] Product Review - Cayuga,Review Keepers Of Creation with the Cayuga nation(s).,task,open,version 0.1
+[10pt] Product Review - Cherokee,Review Keepers Of Creation with the Cherokee nation(s).,task,open,version 0.1
+[10pt] Product Review - Chickasaw,Review Keepers Of Creation with the Chickasaw nation(s).,task,open,version 0.1
+[10pt] Product Review - Choctaw,Review Keepers Of Creation with the Choctaw nation(s).,task,open,version 0.1
+[10pt] Product Review - Delaware,Review Keepers Of Creation with the Delaware nation(s).,task,open,version 0.1
+[10pt] Product Review - Huron,Review Keepers Of Creation with the Huron nation(s).,task,open,version 0.1
+[10pt] Product Review - Meherrin,Review Keepers Of Creation with the Meherrin nation(s).,task,open,version 0.1
+[10pt] Product Review - Miami,Review Keepers Of Creation with the Miami nation(s).,task,open,version 0.1
+[10pt] Product Review - Mohawk,Review Keepers Of Creation with the Mohawk nation(s).,task,open,version 0.1
+[10pt] Product Review - Mohican,Review Keepers Of Creation with the Mohican nation(s).,task,open,version 0.1
+[10pt] Product Review - Monacan,Review Keepers Of Creation with the Monacan nation(s).,task,open,version 0.1
+[10pt] Product Review - Muskogee,Review Keepers Of Creation with the Muskogee nation(s).,task,open,version 0.1
+[10pt] Product Review - Nanticoke,Review Keepers Of Creation with the Nanticoke nation(s).,task,open,version 0.1
+[10pt] Product Review - Oneida,Review Keepers Of Creation with the Oneida nation(s).,task,open,version 0.1
+[10pt] Product Review - Onondaga,Review Keepers Of Creation with the Onondaga nation(s).,task,open,version 0.1
+[10pt] Product Review - Osage,Review Keepers Of Creation with the Osage nation(s).,task,open,version 0.1
+[10pt] Product Review - Peoria,Review Keepers Of Creation with the Peoria nation(s).,task,open,version 0.1
+[10pt] Product Review - Seneca,Review Keepers Of Creation with the Seneca nation(s).,task,open,version 0.1
+[10pt] Product Review - Shawnee,Review Keepers Of Creation with the Shawnee nation(s).,task,open,version 0.1
+[10pt] Product Review - Tuscarora,Review Keepers Of Creation with the Tuscarora nation(s).,task,open,version 0.1
+[20pt] Brand & Marketing - Direction,Ultimately drive the game's branding efforts and communicate about the status clearly and proactively,management,open,version 0.1
+[40pt] Brand & Marketing - Public Relations,Manage PR for Keepers Of Creation,task,open,version 0.1
+[40pt] Brand & Marketing - Press Relations,Manage press for Keepers Of Creation,task,open,version 0.1
+[30pt] Brand & Marketing - Promotionas,Manage promotions planning and execution,task,open,version 0.1
+[20pt] Brand & Marketing - Promotional Image 2D Compositing,Create promotional materials for Keepers Of Creation,task,open,version 0.1
+[20pt] Brand & Marketing - Promotional Image Scene Setup,Create Unity/Blender scenes to create content for promotional materials,task,open,version 0.1
+[20pt] Brand & Marketing - App Store Image 2D Compositing,Create app stores materials for Keepers Of Creation,task,open,version 0.1
+[20pt] Brand & Marketing - App Store Image Scene Setup,Create Unity/Blender scenes to create content for app stores,task,open,version 0.1
+[80pt] Brand & Marketing - Marketing Lead,Digital marketing efforts for Keepers Of Creation,task,open,version 0.1
+[40pt] Brand & Marketing - Digital Influence,Outreach and management of YouTube and Streaming efforts,task,open,version 0.1
+[30pt] Brand & Marketing - Social Media Management,Manage the game's social media presence,task,open,version 0.1
+[30pt] Brand & Marketing - Social Media Content Creation,Create content for the game's social media,task,open,version 0.1
+[20pt] Brand & Marketing - Promotional Writing,Writing to help with marketing the game,task,open,version 0.1
+[20pt] Brand & Marketing - Web Development,Web development to help with marketing the game,task,open,version 0.1
+[50pt] Brand & Marketing - Sales Planning and Integration,Plan and analyze game sales,task,open,version 0.1

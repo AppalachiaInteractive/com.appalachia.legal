@@ -1,0 +1,12 @@
+title,body,labels,status,milestones
+[100pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
+[50pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[100pt] Alpha Test Application Buildout,Complete the Alpha Test Application Buildout in Unity3D,task,open,version 0.1
+[100pt] Beta Test Application Buildout,Complete the Beta Test Application Buildout in Unity3D,task,open,version 0.1
+[100pt] Early Access Application Buildout,Complete the Early Access Application Buildout in Unity3D,task,open,version 0.1
+[100pt] Early Access Support Release Application Buildouts,Complete the Early Access Support Release Application Buildouts in Unity3D,task,open,version 0.1
+[200pt] Official Release Application Buildout,Complete the Official Release Application Buildout in Unity3D,task,open,version 0.1
+[50pt] Xbox One Application Buildout,Complete the Xbox One Application Buildout in Unity3D,task,open,version 1.0
+[50pt] Xbox Series X Application Buildout,Complete the Xbox Series X Application Buildout in Unity3D,task,open,version 1.0
+[50pt] PlayStation 4 Application Buildout,Complete the PlayStation 4 Application Buildout in Unity3D,task,open,version 1.0
+[50pt] Playstation 5 Application Buildout,Complete the Playstation 5 Application Buildout in Unity3D,task,open,version 1.0

@@ -1,225 +1,47 @@
 title,body,labels,status,milestones
-[80pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
-[40pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
-
-Art,SFX Art
-Art,SFX Models
-Art,Technical Art
-Art,Technical Art
-Art,Technical Art
-Art,Texture 
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Textures,Environment,Harvestable,10
-Art,Textures,Environment,Plants,10
-Art,Textures,Environment,Rocks & Other,20
-Art,Textures,Environment,Trees,20
-Art,UI,HUD,10
-Art,UI,In-Game,10
-Art,UI,Main Menu,10
-Art,Visual Effects,20
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Graphics
-Design,Lead Game Design
-Design,Lead Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design Technical Direction
-Design,Level Design,Art,30
-Design,Level Design,In-Engine,30
-Design,Level Design,Lead Level Design
-Design,Level Design,Lead Technical Direction Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Technical Direction Level Design
-Design,Level Design,Technical Direction Level Design
-Design,UI Art
-Development,Additional Level Design Direction
-Development,Animation Direction
-Development,Animation Technical Direction
-Development,Animation Technical Direction - Cinematics
-Development,Animation Technical Direction - Gameplay
-Development,Art Direction
-Development,Art Direction
-Development,Art Direction
-Development,Art Direction
-Development,Assistant Animation Direction - Cinematics
-Development,Assistant Animation Direction - Gameplay
-Development,Assistant Animation Direction - Scripted Events
-Development,Assistant Animation Technical Direction
-Development,Assistant Animation Technical Direction - Gameplay
-Development,Assistant Art Direction
-Development,Assistant Art Direction
-Development,Assistant Cinematics Direction
-Development,Assistant Game Direction
-Development,Assistant Graphics Technical Direction
-Development,Assistant Graphics Technical Direction
-Development,Assistant Level Design Direction
-Development,Assistant Level Design Direction - Mission
-Development,Assistant Narrative Direction
-Development,Assistant World Design Technical Direction
-Development,Assistant World Design Technical Direction
-Development,Assistant World Direction
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer - World
-Development,Associate Producer Co-Dev
-Development,Audio Direction
-Development,Audio Technical Direction & Mixer
-Development,Character & Animation Direction
-Development,Character Animation Technical Direction
-Development,Character Technical Direction
-Development,Cinematics Direction
-Development,Game Direction
-Development,Game Direction
-Development,Game Direction
-Development,Game Direction Co-Dev
-Development,Graphics Technical Direction
-Development,Graphics Technical Direction
-Development,Graphics Technical Direction
-Development,Graphics Technical Direction
-Development,Lead Audio
-Development,Lead Game Design
-Development,Lead Game Design
-Development,Lead Gameplay Programming
-Development,Lead Gameplay Programming
-Development,Lead Level Design
-Development,Lead Programming
-Development,Lead Technical Direction
-Development,Lead Technology Programming
-Development,Level Design Direction
-Development,Level Design Direction - Mission
-Development,Level Design Technical Direction
-Development,Level Design Technical Direction
-Development,Level Design Technical Direction
-Development,Level Design Technical Direction
-Development,Narrative Direction
-Development,Narrative Direction
-Development,Presentation Direction
-Development,Presentation Technical Direction
-Development,Producer
-Development,Producer
-Development,Production Coordinator
-Development,Production Coordinator
-Development,Production Coordinator & Historical Researcher
-Development,Production Intern
-Development,Production Manager
-Development,Production Manager
-Development,Production Manager
-Development,Production Manager
-Development,Production Manager - Animation
-Development,Production Manager - Audio
-Development,Production Manager - Cinematics & Characters
-Development,Production Manager - Menus - Interfaces & FX
-Development,Production Manager - Motion Capture
-Development,Production Manager - Scripted Events
-Development,Production Manager - World
-Development,Production Manager - World
-Development,Production Manager - World
-Development,Production Manager - World
-Development,Production Manager Co-Dev
-Development,Production Manager Crowd - Navigation & AI
-Development,Production Manager Missions
-Development,Production Manager Presentation & Audio
-Development,Production Manager Quality Control
-Development,Production Manager World
-Development,Production Manager World
-Development,Project Coordinator
-Development,Project Management - Localization
-Development,Project Management,Associate Producer
-Development,Project Management,Producer
-Development,Project Management,Production Coordinator
-Development,Project Management,Studio Manager
-Development,QC Coordinator Development Testing
-Development,Story by
-Development,Story by
-Development,Story by
-Development,Story by
-Development,Studio Technical Direction
-Development,Technical Architect
-Development,Technical Architect
-Development,Technical Code Direction
-Development,Technical Data Direction
-Development,Technical Direction
-Development,World Design Direction
-Development,World Production Manager
-Development,Worlds Direction
-Development,Worlds Lead
-Direction,Creative Direction,40
-Direction,Game Direction,40
-Direction,Art Direction,20
-Direction,Outsourcing Direction,20
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance Direction
-Finance,Finance Direction 
-Finance,Financial Support 
-Finance,Financial Support 
-Finance,Financial Support 
-
-Production,Compliance,General,10
-Production,Compliance,Microsoft,10
-Production,Compliance,Sony,10
-Production,Finance,Control & Analysis,20
-Production,Launch,Community,20
-Production,Online Stores,Application Specialist,8
-Production,Online Stores,Key Distribution,8
-Production,Online Stores,Tools Programming,8
-Production,Community Manager,100
-Production,Compliance,Certification Management,20
-Production,Early-Access,Marketing,20
-Production,Early-Access,Planning,20
-Production,Early-Access,Producer,20
-Production,Early-Access,QA,40
-Production,Internal Communications,10
-Production,Launch,Marketing,20
-Production,Launch,Planning,20
-Production,Launch,Producer,20
-Production,Launch,QA,40
-Production,Online Product Management,20
-Production,Producer,80
-Production,Product Manager,20
-Production,Project Closer,10
-Production,Project Management,40
-Production,Release Planning,20
+[100pt] Product Management,Ultimately drive the completion of the game and evaluate all direction and management efforts,task,open,version 0.1
+[50pt] Project Management,Ultimately drive the completion of the production effort and communicate about the status clearly and proactively,task,open,version 0.1
+[50pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[25pt] Company Administrative,Administrative company tasks for registering the product and ensuring taxes etc are set,task,open,version 0.1
+[50pt] Associate Production #1,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #2,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #3,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #4,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #5,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #6,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #7,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #8,Associate production responsibilities across multiple projects,task,open,version 0.1
+[50pt] Associate Production #9,Associate production responsibilities across multiple projects,task,open,version 0.1
+[20pt] Compliance - General,Ensure we meet all certification & rating requirements for launch,task,open,version 0.1
+[20pt] Compliance - Steam,Ensure we meet all certification & rating requirements for launch on Steam,task,open,version 0.1
+[20pt] Compliance - Microsoft,Ensure we meet all certification & rating requirements for launch on XB,task,open,version 0.1
+[20pt] Compliance - Sony,Ensure we meet all certification & rating requirements for launch on PS4/PS5,task,open,version 0.1
+[20pt] Compliance - Certification Management,Ensure we meet all certification requirements for launch,task,open,version 0.1
+[20pt] Compliance - Ratings,Ensure we meet all rating requirements for launch,task,open,version 0.1
+[40pt] Finance - Accounting,Keep track of expenses,task,open,version 0.1
+[20pt] Finance - Control & Analysis,Ensure budget is allocated appropriately and forcasted accurately,task,open,version 0.1
+[20pt] Finance - Profit Sharing,Evaluate and record profit sharing information,task,open,version 0.1
+[20pt] Finance - Financial Reports,Financial reporting for profit shares,task,open,version 0.1
+[10pt] Online Stores - Integration,Integrate our builds with online stores and fill out necessary forms,task,open,version 0.1
+[10pt] Online Stores - Key Distribution,Key distribution for Native peoples,task,open,version 0.1
+[10pt] Online Stores - Tools Programming,Tools for publishing the game in app stores,task,open,version 0.1
+[100pt] Community Manager,Manage the community communication via reddit & discord etc,task,open,version 0.1
+[50pt] Community Manager Assistant - Launch,Extra community management help for the launch,task,open,version 0.1
+[25pt] Community Manager Assistant - Early Access,Extra community management help for the early access release,task,open,version 0.1
+[50pt] Early-Access - Planning,Plan everything about the early-access launch,task,open,version 0.1
+[50pt] Early-Access - Producer,Produce the early-access launch,task,open,version 0.1
+[50pt] Launch - Planning,Plan everything about the official launch,task,open,version 0.1
+[50pt] Launch - Producer,Produce the official launch,task,open,version 0.1
+[20pt] Online Product Management,Manage the product online,task,open,version 0.1
+[20pt] Online Sales Analytics,Manage the product sales analytics,task,open,version 0.1
+[50pt] Project Closer,Turn the lights off,task,open,version 0.1
+[20pt] Release Planning 0.1,Plan and track release 0.1,task,open,version 0.1
+[20pt] Release Planning 0.2,Plan and track release 0.2,task,open,version 0.1
+[20pt] Release Planning 0.3,Plan and track release 0.3,task,open,version 0.1
+[20pt] Release Planning 0.4,Plan and track release 0.4,task,open,version 0.1
+[20pt] Release Planning 0.5,Plan and track release 0.5,task,open,version 0.1
+[20pt] Release Planning 0.6,Plan and track release 0.6,task,open,version 0.1
+[20pt] Release Planning 0.7,Plan and track release 0.7,task,open,version 0.1
+[20pt] Release Planning 0.8,Plan and track release 0.8,task,open,version 0.1
+[20pt] Release Planning 0.9,Plan and track release 0.9,task,open,version 0.1
+[40pt] Release Planning 1.0,Plan and track release 1.0,task,open,version 0.1

@@ -9,9 +9,60 @@ title,body,labels,status,milestones
 [20pt] Audio & SFX Sourcing,Finding SFX clips for various elements.,task,open,version 0.1
 [40pt] Audio QC Development Testing,Testing of any and all audio and SFX behavior.,task,open,version 0.1
 [40pt] Reactive Audio Design & Framework,Create a framework in Unity that allows audio data to be fed back into the C# scripting side,task,open,version 0.1
-[40pt] SFX Design - Animals,Audio SFX design for animals,task,open,version 0.1
-[20pt] SFX Design - Character,Audio SFX design for character,task,open,version 0.1
+[2pt] SFX Design - Bird - American Crow,Create a 3D model of a American Crow,task,open,version 0.1
+[2pt] SFX Design - Bird - American Kestral,Create a 3D model of a American Kestral,task,open,version 0.1
+[2pt] SFX Design - Bird - Bald Eagle,Create a 3D model of a Bald Eagle,task,open,version 0.1
+[2pt] SFX Design - Bird - Baltimore Oriole,Create a 3D model of a Baltimore Oriole,task,open,version 0.1
+[2pt] SFX Design - Bird - Barn Owl,Create a 3D model of a Barn Owl,task,open,version 0.1
+[2pt] SFX Design - Bird - Blue Jay,Create a 3D model of a Blue Jay,task,open,version 0.1
+[2pt] SFX Design - Bird - Blue Winged Teal,Create a 3D model of a Blue Winged Teal,task,open,version 0.1
+[2pt] SFX Design - Bird - Canada Goose,Create a 3D model of a Canada Goose,task,open,version 0.1
+[2pt] SFX Design - Bird - Common Raven,Create a 3D model of a Common Raven,task,open,version 0.1
+[2pt] SFX Design - Bird - Green Winged Teal,Create a 3D model of a Green Winged Teal,task,open,version 0.1
+[2pt] SFX Design - Bird - Mourning Dove,Create a 3D model of a Mourning Dove,task,open,version 0.1
+[2pt] SFX Design - Bird - Northern Cardinal,Create a 3D model of a Northern Cardinal,task,open,version 0.1
+[2pt] SFX Design - Bird - Northern Flicker,Create a 3D model of a Northern Flicker,task,open,version 0.1
+[2pt] SFX Design - Bird - Red Shouldered Hawk,Create a 3D model of a Red Shouldered Hawk,task,open,version 0.1
+[2pt] SFX Design - Bird - Red Tailed Hawk,Create a 3D model of a Red Tailed Hawk,task,open,version 0.1
+[2pt] SFX Design - Bird - Ruffed Grouse,Create a 3D model of a Ruffed Grouse,task,open,version 0.1
+[2pt] SFX Design - Bird - Trumpeter Swan,Create a 3D model of a Trumpeter Swan,task,open,version 0.1
+[2pt] SFX Design - Bird - Wild Turkey,Create a 3D model of a Wild Turkey,task,open,version 0.1
+[2pt] SFX Design - Fish - Bass,Create a 3D model of a Bass,task,open,version 0.1
+[2pt] SFX Design - Fish - Perch,Create a 3D model of a Perch,task,open,version 0.1
+[2pt] SFX Design - Fish - Pike,Create a 3D model of a Pike,task,open,version 0.1
+[2pt] SFX Design - Fish - Trout,Create a 3D model of a Trout,task,open,version 0.1
+[2pt] SFX Design - Animal - Marmot,Create a 3D model of a Marmot,task,open,version 0.1
+[2pt] SFX Design - Animal - Marten,Create a 3D model of a Marten,task,open,version 0.1
+[2pt] SFX Design - Animal - Fisher,Create a 3D model of a Fisher,task,open,version 0.1
+[2pt] SFX Design - Animal - Badger,Create a 3D model of a Badger,task,open,version 0.1
+[2pt] SFX Design - Animal - Beaver,Create a 3D model of a Beaver,task,open,version 0.1
+[2pt] SFX Design - Animal - Bison,Create a 3D model of a Bison,task,open,version 0.1
+[5pt] SFX Design - Animal - Black Bear,Create a 3D model of a Black Bear,task,open,version 0.1
+[2pt] SFX Design - Animal - Bobcat,Create a 3D model of a Bobcat,task,open,version 0.1
+[5pt] SFX Design - Animal - Brown Bear,Create a 3D model of a Brown Bear,task,open,version 0.1
+[5pt] SFX Design - Animal - Cougar,Create a 3D model of a Cougar,task,open,version 0.1
+[2pt] SFX Design - Animal - Coyote,Create a 3D model of a Coyote,task,open,version 0.1
+[2pt] SFX Design - Animal - Deer,Create a 3D model of a Deer,task,open,version 0.1
+[2pt] SFX Design - Animal - Elk,Create a 3D model of a Elk,task,open,version 0.1
+[2pt] SFX Design - Animal - Fox,Create a 3D model of a Fox,task,open,version 0.1
+[2pt] SFX Design - Animal - Moose,Create a 3D model of a Moose,task,open,version 0.1
+[2pt] SFX Design - Animal - Opossum,Create a 3D model of a Opossum,task,open,version 0.1
+[2pt] SFX Design - Animal - Otter,Create a 3D model of a Otter,task,open,version 0.1
+[2pt] SFX Design - Animal - Porcupine,Create a 3D model of a Porcupine,task,open,version 0.1
+[2pt] SFX Design - Animal - Rabbit,Create a 3D model of a Rabbit,task,open,version 0.1
+[2pt] SFX Design - Animal - Raccoon,Create a 3D model of a Raccoon,task,open,version 0.1
+[2pt] SFX Design - Animal - Skunk,Create a 3D model of a Skunk,task,open,version 0.1
+[2pt] SFX Design - Animal - Squirrel,Create a 3D model of a Squirrel,task,open,version 0.1
+[5pt] SFX Design - Animal - Wolf,Create a 3D model of a Wolf,task,open,version 0.1
+[2pt] SFX Design - Animal - Wolverine,Create a 3D model of a Wolverine,task,open,version 0.1
+[20pt] SFX Design - Character - Vocalizations,Audio SFX design for character,task,open,version 0.1
+[10pt] SFX Design - Character - Footsteps,Audio SFX design for character,task,open,version 0.1
 [20pt] SFX Design - Environment,Audio SFX design for environment,task,open,version 0.1
+[20pt] SFX Design - Wind,Audio SFX design for wind,task,open,version 0.1
+[20pt] SFX Design - Weather,Audio SFX design for weather,task,open,version 0.1
+[20pt] SFX Design - Rivers,Audio SFX design for rivers,task,open,version 0.1
+[20pt] SFX Design - Lakes,Audio SFX design for lakes,task,open,version 0.1
+[20pt] SFX Design - Waterfalls,Audio SFX design for waterfalls,task,open,version 0.1
 [20pt] SFX Design - Crafting,Audio SFX design for crafting,task,open,version 0.1
 [20pt] SFX Design - Combat,Audio SFX design for combat,task,open,version 0.1
 [20pt] SFX Design - Tools,Audio SFX design for tools,task,open,version 0.1

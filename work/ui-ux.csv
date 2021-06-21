@@ -7,25 +7,38 @@ title,body,labels,status,milestones
 [1pt] Dev Environment - Unity UI Toolbox - Demo,Explore Unity UI Toolbox demo project and get acclimated,task,open,version 0.1
 [20pt] Research - UI/UX,Spend time researching UX design principles and game UI design inspiration,task,open,version 0.1
 [13pt] Research - Accessibility,Spend time researching how to design for accessibility,task,open,version 0.1
-[5pt] Research - Controller Input,Spend time researching how to translate input from various types of controllers,task,open,version 0.1
-[8pt] UI - Design - Start Page,Design and build a game start page,task,open,version 0.1
-[8pt] UI - Design - Loading Screen,Design and build a game loading screen,task,open,version 0.1
-[8pt] UI - Design - Credits Screen,Design and build a game credits page,task,open,version 0.1
-[8pt] UI - Design - Death Screen,Design and build a death screen,task,open,version 0.1
-[8pt] UI - Design - Skills Screen,Design and build a screen to track skills and progress,task,open,version 0.1
-[8pt] UI - Design - Map Screen,Design and build a game map,task,open,version 0.1
-[8pt] UI - Design - Tutorial Screen,Design and build a game-play tutorial,task,open,version 0.1
-[8pt] UI - Design - In-Game - Visual Elements - Health,Design and build in-game health visual component,task,open,version 0.1
-[8pt] UI - Design - In-Game - Visual Elements - Navigation,Design and build in-game navigation visual component,task,open,version 0.1
-[8pt] UI - Design - In-Game - Visual Elements - Action,Design and build in-game visual component to choose what your character does,task,open,version 0.1
-[8pt] UI - Design - In-Game - Visual Elements - Feedback,Design and build in-game visual component to display running list of damage to character,task,open,version 0.1
-[8pt] UI - Design - In-Game - Visual Elements - Weapons and Tool Selector,Design and build in-game visual component to display a dynamic visual representation of your tools and weapons,task,open,version 0.1
-[5pt] UI - Design - Pop-Up - Exit Game,Design and build an exit game pop-up,task,open,version 0.1
-[5pt] UI - Design - Pop-Up - Save Game,Design and build a save game pop-up,task,open,version 0.1
+[20pt] Research - Localization,Understand options for UI localization in Unity3D,task,open,version 0.1
+[8pt] Research - Controller Input,Spend time researching how to translate input from various types of controllers,task,open,version 0.1
+[20pt] UI - Design - Opening Credits,Design and build the opening credits sequence,task,open,version 0.1
+[20pt] UI - Design - Start Page,Design and build a game start page,task,open,version 0.1
+[20pt] UI - Design - Loading Screen,Design and build a game loading screen,task,open,version 0.1
+[13pt] UI - Design - Credits Screen,Design and build a game credits page,task,open,version 0.1
+[13pt] UI - Design - Death Screen,Design and build a death screen,task,open,version 0.1
+[13pt] UI - Design - Skills Screen,Design and build a screen to track skills and progress,task,open,version 0.1
+[13pt] UI - Design - Map Screen,Design and build a game map,task,open,version 0.1
+[20pt] UI - Design - Tutorial Screen,Design and build a game-play tutorial,task,open,version 0.1
+[13pt] UI - Design - In-Game - Visual Elements - Health,Design and build in-game health visual component,task,open,version 0.1
+[13pt] UI - Design - In-Game - Visual Elements - Navigation,Design and build in-game navigation visual component,task,open,version 0.1
+[13pt] UI - Design - In-Game - Visual Elements - Action,Design and build in-game visual component to choose what your character does,task,open,version 0.1
+[13pt] UI - Design - In-Game - Visual Elements - Feedback,Design and build in-game visual component to display running list of damage to character,task,open,version 0.1
+[13pt] UI - Design - In-Game - Visual Elements - Weapons and Tool Selector,Design and build in-game visual component to display a dynamic visual representation of your tools and weapons,task,open,version 0.1
+[8pt] UI - Design - Pop-Up - Exit Game,Design and build an exit game pop-up,task,open,version 0.1
+[8pt] UI - Design - Pop-Up - Save Game,Design and build a save game pop-up,task,open,version 0.1
 [40pt] System Design - Inventory,Design and build inventory main screen and subscreens for cataloguing and managing inventory,task,open,version 0.1
 [40pt] System Design - Crafting,Design and build an interactive crafting system with main screen and subscreens for cataloguing and engaging in crafting,task,open,version 0.1
+[40pt] System Design - Cooking,Design and build an interactive cooking system with main screen and subscreens for combining ingredients,task,open,version 0.1
+[40pt] System Design - Health,Design and build an interactive health & medecine system with main screen and subscreens for creating remedies,task,open,version 0.1
+[40pt] System Design - Skills,Design and build an skills progression system with main screen,task,open,version 0.1
 [5pt] UI - Art - Start Screen Background Image,Design a background image for start page,task,open,version 0.1
-[5pt] UI - Art - Loading Screen Background Image,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 1,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 2,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 3,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 4,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 5,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 6,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 7,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 8,Design a background image for loading screen,task,open,version 0.1
+[3pt] UI - Art - Loading Screen Background Image 9,Design a background image for loading screen,task,open,version 0.1
 [5pt] UI - Art - Credits Screen Background Image,Design a background image for game credits page,task,open,version 0.1
 [5pt] UI - Art - Death Screen Background Image,Design a background image for death screen,task,open,version 0.1
 [5pt] UI - Art - Skills Screen Background Image,Design a background image for skills and progress screen,task,open,version 0.1
@@ -37,16 +50,13 @@ title,body,labels,status,milestones
 [13pt] UI - Art - Inventory Items - Uncollected,Create renderings of all inventory elements not yet in player possession,task,open,version 0.1
 [13pt] UI - Art - Crafting Items - Uncollected,Create renderings of all crafting elements not yet in player possession,task,open,version 0.1
 [13pt] UI - Art - Crafting Items - Combined,Create renderings of all finished crafts,task,open,version 0.1
-[13pt] UI - Art - Character,Create renderings of the character wearing all combinations of gear,task,open,version 0.1
+[20pt] UI - Art - Character,Create scene of player wearing changeable/selected gear,task,open,version 0.1
 [2pt] UI - Art - Buttons,Create buttons for menu and screen navigation,task,open,version 0.1
 [1pt] UI - Art - Color Palette,Choose color palette for UI,task,open,version 0.1
 [1pt] UI - Art - Font,Choose a font for UI,task,open,version 0.1
 [13pt] UI - Text - Descriptions - Inventory,Write descriptions of items in inventory,task,open,version 0.1
 [13pt] UI - Text - Descriptions - Crafting,Write descriptions of items in crafting system,task,open,version 0.1
-[13pt] UI - Text - On-Screen Messages,Write on-screen messages to assist players in-game,task,open,version 0.1
-[20pt] UI - Authenticity Consulting - Crafting,Provide expertise on crafting and descriptions,task,open,version 0.1
-[20pt] UI - Authenticity Consulting - Inventory,Provide expertise on inventory and descriptions,task,open,version 0.1
-[20pt] UI - Authenticity Consulting - Language,Provide expertise on any native languages used across UI,task,open,version 0.1
+[20pt] UI - Text - On-Screen Messages,Write on-screen messages to assist players in-game,task,open,version 0.1
 [13pt] Code - USS,Write style sheets for screens and visual elements,task,open,version 0.1
 [20pt] Code - C# - Health Feedback,Write scripts to reflect physical damage and player choices on the in-game health component,task,open,version 0.1
 [20pt] Code - C# - Directionality,Write scripts to reflect the current location and direction of the character within the game environment,task,open,version 0.1

@@ -306,24 +306,10 @@ title,body,labels,status,milestones
 [3pt] Jewelry Pieces - Feather,Create a 3D model of feathers to make jewelry with,task,open,version 0.1
 [3pt] Jewelry Pieces - Claw,Create a 3D model of a claw to make jewelry with,task,open,version 0.1
 [3pt] Jewelry Pieces - Teeth,Create a 3D model of Animal Teeth to make jewelry with,task,open,version 0.1
-[3pt] Bird Feathers - American Crow,Create a 3D model of a American Crow,task,open,version 0.1
-[5pt] Bird Feathers - American Kestral,Create a 3D model of a American Kestral,task,open,version 0.1
-[8pt] Bird Feathers - Bald Eagle,Create a 3D model of a Bald Eagle,task,open,version 0.1
-[3pt] Bird Feathers - Baltimore Oriole,Create a 3D model of a Baltimore Oriole,task,open,version 0.1
-[3pt] Bird Feathers - Barn Owl,Create a 3D model of a Barn Owl,task,open,version 0.1
-[3pt] Bird Feathers - Blue Jay,Create a 3D model of a Blue Jay,task,open,version 0.1
-[3pt] Bird Feathers - Blue Winged Teal,Create a 3D model of a Blue Winged Teal,task,open,version 0.1
-[3pt] Bird Feathers - Canada Goose,Create a 3D model of a Canada Goose,task,open,version 0.1
-[3pt] Bird Feathers - Common Raven,Create a 3D model of a Common Raven,task,open,version 0.1
-[3pt] Bird Feathers - Green Winged Teal,Create a 3D model of a Green Winged Teal,task,open,version 0.1
-[3pt] Bird Feathers - Mourning Dove,Create a 3D model of a Mourning Dove,task,open,version 0.1
-[3pt] Bird Feathers - Northern Cardinal,Create a 3D model of a Northern Cardinal,task,open,version 0.1
-[3pt] Bird Feathers - Northern Flicker,Create a 3D model of a Northern Flicker,task,open,version 0.1
-[5pt] Bird Feathers - Red Shouldered Hawk,Create a 3D model of a Red Shouldered Hawk,task,open,version 0.1
-[5pt] Bird Feathers - Red Tailed Hawk,Create a 3D model of a Red Tailed Hawk,task,open,version 0.1
-[5pt] Bird Feathers - Ruffed Grouse,Create a 3D model of a Ruffed Grouse,task,open,version 0.1
-[3pt] Bird Feathers - Trumpeter Swan,Create a 3D model of a Trumpeter Swan,task,open,version 0.1
-[8pt] Bird Feathers - Wild Turkey,Create a 3D model of a Wild Turkey,task,open,version 0.1
+[3pt] Bird Feathers - Tail Feathers,Create a generic set of bird tail feathers,task,open,version 0.1
+[3pt] Bird Feathers - Flight Feathers,Create a generic set of bird primary flight feathers,task,open,version 0.1
+[3pt] Bird Feathers - Secondary Feathers,Create a generic set of bird secondary flight feathers,task,open,version 0.1
+[3pt] Bird Feathers - Body Feathers,Create a generic set of bird body feathers,task,open,version 0.1
 [8pt] Technology - Arrows,Create a 3D model of Arrows,task,open,version 0.1
 [8pt] Technology - Atlatl,Create a 3D model of Atlatl,task,open,version 0.1
 [8pt] Technology - Bags,Create a 3D model of Bags,task,open,version 0.1
@@ -352,3 +338,5 @@ title,body,labels,status,milestones
 [20pt] Water - Waterfalls,Create particle effects for waterfalls,task,open,version 0.1
 [20pt] Particles - Falling Leaves,Create particle effects for leaves,task,open,version 0.1
 [8pt] Particles - Floaties & Dust,Create particle effects for catching light in front of the camera,task,open,version 0.1
+[40pt] Caves,Create 3D models of caves,task,open,version 0.1
+[10pt] Caves-Terrain Intersections,Create blendable areas for terrains to meet caves,task,open,version 0.1

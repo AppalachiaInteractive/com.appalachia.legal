@@ -1,582 +1,172 @@
 title,body,labels,status,milestones
 [40pt] Project Management,Ultimately drive the completion of the effort and communicate about the status clearly and proactively,task,open,version 0.1
 [40pt] Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
-10,Marketing,Promotional Image 2D Compositing,
-10,Marketing,Promotional Image Scene Setup,
-Art,SFX Art
-Art,SFX Models
-Art,Technical Art
-Art,Technical Art
-Art,Technical Art
-Art,Texture 
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Texture Art
-Art,Textures,Environment,Harvestable,10
-Art,Textures,Environment,Plants,10
-Art,Textures,Environment,Rocks & Other,20
-Art,Textures,Environment,Trees,20
-Art,UI,HUD,10
-Art,UI,In-Game,10
-Art,UI,Main Menu,10
-Art,Visual Effects,20
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Game Design
-Design,Graphics
-Design,Lead Game Design
-Design,Lead Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design
-Design,Level Design Technical Direction
-Design,Level Design,Art,30
-Design,Level Design,In-Engine,30
-Design,Level Design,Lead Level Design
-Design,Level Design,Lead Technical Direction Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Level Design
-Design,Level Design,Technical Direction Level Design
-Design,Level Design,Technical Direction Level Design
-Design,UI Art
-Development,Additional Level Design Direction
-Development,Animation Direction
-Development,Animation Technical Direction
-Development,Animation Technical Direction - Cinematics
-Development,Animation Technical Direction - Gameplay
-Development,Art Direction
-Development,Art Direction
-Development,Art Direction
-Development,Art Direction
-Development,Assistant Animation Direction - Cinematics
-Development,Assistant Animation Direction - Gameplay
-Development,Assistant Animation Direction - Scripted Events
-Development,Assistant Animation Technical Direction
-Development,Assistant Animation Technical Direction - Gameplay
-Development,Assistant Art Direction
-Development,Assistant Art Direction
-Development,Assistant Cinematics Direction
-Development,Assistant Game Direction
-Development,Assistant Graphics Technical Direction
-Development,Assistant Graphics Technical Direction
-Development,Assistant Level Design Direction
-Development,Assistant Level Design Direction - Mission
-Development,Assistant Narrative Direction
-Development,Assistant World Design Technical Direction
-Development,Assistant World Design Technical Direction
-Development,Assistant World Direction
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer
-Development,Associate Producer - World
-Development,Associate Producer Co-Dev
-Development,Audio Direction
-Development,Audio Technical Direction & Mixer
-Development,Character & Animation Direction
-Development,Character Animation Technical Direction
-Development,Character Technical Direction
-Development,Cinematics Direction
-Development,Game Direction
-Development,Game Direction
-Development,Game Direction
-Development,Game Direction Co-Dev
-Development,Graphics Technical Direction
-Development,Graphics Technical Direction
-Development,Graphics Technical Direction
-Development,Graphics Technical Direction
-Development,Lead Audio
-Development,Lead Game Design
-Development,Lead Game Design
-Development,Lead Gameplay Programming
-Development,Lead Gameplay Programming
-Development,Lead Level Design
-Development,Lead Programming
-Development,Lead Technical Direction
-Development,Lead Technology Programming
-Development,Level Design Direction
-Development,Level Design Direction - Mission
-Development,Level Design Technical Direction
-Development,Level Design Technical Direction
-Development,Level Design Technical Direction
-Development,Level Design Technical Direction
-Development,Narrative Direction
-Development,Narrative Direction
-Development,Presentation Direction
-Development,Presentation Technical Direction
-Development,Producer
-Development,Producer
-Development,Production Coordinator
-Development,Production Coordinator
-Development,Production Coordinator & Historical Researcher
-Development,Production Intern
-Development,Production Manager
-Development,Production Manager
-Development,Production Manager
-Development,Production Manager
-Development,Production Manager - Animation
-Development,Production Manager - Audio
-Development,Production Manager - Cinematics & Characters
-Development,Production Manager - Menus - Interfaces & FX
-Development,Production Manager - Motion Capture
-Development,Production Manager - Scripted Events
-Development,Production Manager - World
-Development,Production Manager - World
-Development,Production Manager - World
-Development,Production Manager - World
-Development,Production Manager Co-Dev
-Development,Production Manager Crowd - Navigation & AI
-Development,Production Manager Missions
-Development,Production Manager Presentation & Audio
-Development,Production Manager Quality Control
-Development,Production Manager World
-Development,Production Manager World
-Development,Project Coordinator
-Development,Project Management - Localization
-Development,Project Management,Associate Producer
-Development,Project Management,Producer
-Development,Project Management,Production Coordinator
-Development,Project Management,Studio Manager
-Development,QC Coordinator Development Testing
-Development,Story by
-Development,Story by
-Development,Story by
-Development,Story by
-Development,Studio Technical Direction
-Development,Technical Architect
-Development,Technical Architect
-Development,Technical Code Direction
-Development,Technical Data Direction
-Development,Technical Direction
-Development,World Design Direction
-Development,World Production Manager
-Development,Worlds Direction
-Development,Worlds Lead
-Direction,Creative Direction,40
-Direction,Game Direction,40
-Direction,Animation Direction,20
-Direction,Art Direction,20
-Direction,Development Direction,40
-Direction,Outsourcing Direction,20
-Direction,Technical Direction,Animation
-Facebuilder/Mocam Team/Reflex,
-Facebuilder/Mocam Team/Reflex,Animation Technical Direction
-Facebuilder/Mocam Team/Reflex,Mocam Creator
-Facebuilder/Mocam Team/Reflex,Programming
-Facebuilder/Mocam Team/Reflex,Programming
-Facebuilder/Mocam Team/Reflex,Reflex Concept Design
-Facebuilder/Mocam Team/Reflex,Tools Product Specialist
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance
-Finance,Finance Direction
-Finance,Finance Direction 
-Finance,Financial Support 
-Finance,Financial Support 
-Finance,Financial Support 
-Game and Level Design,Additional Mission Direction
-Game and Level Design,Assistant Level Design Direction
-Game and Level Design,Assistant Level Design Direction
-Game and Level Design,Game Design
-Game and Level Design,Game Design
-Game and Level Design,Game Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission Design
-Game and Level Design,Mission QC Development Testing
-Game and Level Design,Mission QC Development Testing
-Game and Level Design,Mission QC Development Testing
-Game and Level Design,Mission QC Development Testing
-Game and Level Design,Mission Technical Direction
-Game and Level Design,World Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Level Design
-Game and Level Design,World Technical Direction
-Game and Level Design,World Technical Direction
-Game and Level Design,World Technical Direction
-Game Design,Additional Senior Writer
-Game Design,Additional Writing
-Game Design,Additional Writing
-Game Design,Additional Writing
-Game Design,Additional Writing
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design
-Game Design,Game Design Assistant
-Game Design,Game Design,20
-Game Design,Gameplay Programming
-Game Design,Level Design,20
-Game Design,Mission Design,20
-Game Design,Mission QC Development Testing,8
-Game Design,Scriptwriter,8
-Game Design,World Level Design,10
-Marketing,2D / 3D Art
-Marketing,2D/3D Art
-Marketing,Acount Manager - Sales
-Marketing,Acount Manager - Sales
-Marketing,Acount Manager - Sales
-Marketing,Associate Brand Manager - Brand Management
-Marketing,Associate Direction - Digital Marketing
-Marketing,Associate Direction - Promotions
-Marketing,Associate Direction - Public Relations
-Marketing,Associate Events Manager
-Marketing,Associate Live Brand Manager - Live Brand Management
-Marketing,Associate Manager - Digital Marketing
-Marketing,Associate Manager - Digital Marketing
-Marketing,Associate Web Producer - Digital Marketing
-Marketing,Brand Direction
-Marketing,Brand Direction
-Marketing,Brand Manager - Brand Management
-Marketing,Brand Manager - Brand Management
-Marketing,Communications
-Marketing,Communications
-Marketing,Communications
-Marketing,Communications
-Marketing,Communications Direction
-Marketing,Communications Manager - Public Relations
-Marketing,Communications Specialist - Public Relations
-Marketing,Content Marketing Manager - Digital Marketing
-Marketing,Digital Marketing Coordinator
-Marketing,Digital Marketing,20
-Marketing,Direction - Brand Management
-Marketing,Direction - Digital Marketing
-Marketing,Direction - Live Brand Management
-Marketing,Direction - Promotions
-Marketing,Direction - Public Relations
-Marketing,Direction - Sales
-Marketing,Direction - Sales Planning and Integration
-Marketing,Editor - Public Relations
-Marketing,EMEA Assistant Brand Manager
-Marketing,EMEA Assistant Brand Manager
-Marketing,EMEA Assistant Brand Manager
-Marketing,EMEA Brand Direction
-Marketing,EMEA Brand Manager Senior
-Marketing,EMEA Brand Manager Senior
-Marketing,EMEA Chief Marketing & Sales Officer
-Marketing,EMEA Communication Tools Purchasing & Manufacturing Coordinator
-Marketing,EMEA Communication Tools Purchasing & Manufacturing Manager
-Marketing,EMEA Digital Influence & Social Media Manager
-Marketing,EMEA Digital Marketing Manager
-Marketing,EMEA Digital Marketing Manager Assistant
-Marketing,EMEA Executive Direction
-Marketing,EMEA Group Brand Manager
-Marketing,EMEA Junior Trade Marketing Coordinator
-Marketing,EMEA Junior Trade Marketing Coordinator
-Marketing,EMEA Live Brand Manager
-Marketing,EMEA Manufacturing Planning Team
-Marketing,EMEA Manufacturing Planning Team
-Marketing,EMEA Media & Analytics Manager
-Marketing,EMEA Media & Engagement Group Manager
-Marketing,EMEA Paparparts Specialist
-Marketing,EMEA Paperparts & Graphic Studio Manager
-Marketing,EMEA Retail Sales Direction
-Marketing,EMEA Social Media Manager
-Marketing,EMEA Trade Marketing Group Manager
-Marketing,EMEA Web Integrator
-Marketing,EMEA Web Integrator
-Marketing,EMEA Webmaster
-Marketing,Events Specialist
-Marketing,International Product Manager
-Marketing,Manager - Public Relations
-Marketing,Manager - Public Relations
-Marketing,Managing Direction
-Marketing,Media Management,20
-Marketing,President & CEO
-Marketing,Product Manager
-Marketing,Product Manager
-Marketing,Product Manager
-Marketing,Product Manager
-Marketing,Projecy Manager - Brand Management
-Marketing,Promotions,20
-Marketing,Sales Planning and Integration Manager - Sales
-Marketing,Sales Planning and Integration Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Account Manager - Sales
-Marketing,Senior Brand Manager - Brand Management
-Marketing,Senior Direction - Brand Management
-Marketing,Senior Direction - Sales
-Marketing,Senior Live Brand Manager - Live Brand Management
-Marketing,Senior Manager - Digital Marketing
-Marketing,Senior Manager - Promotions
-Marketing,Senior Manager - Promotions
-Marketing,Senior Manager - Public Relations
-Marketing,Web Content,20
-Marketing,Web Development,20
-Music,Soundtrack,Composition,20
-Music,Soundtrack,Conducting,5
-Music,Soundtrack,Contracting,1
-Music,Soundtrack,Licensing,5
-Music,Soundtrack,Mastering,5
-Music,Soundtrack,Mixing,5
-Music,Soundtrack,Music Librarian,1
-Music,Soundtrack,Orchestration,8
-Music,Soundtrack,Performance,20
-Music,Soundtrack,Production,13
-Music,Soundtrack,Publishing,5
-Music,Soundtrack,Recording,13
-Music,Trailer,Composition,8
-Music,Trailer,Conducting,1
-Music,Trailer,Contracting,1
-Music,Trailer,Licensing,1
-Music,Trailer,Mastering,1
-Music,Trailer,Mixing,1
-Music,Trailer,Music Librarian,1
-Music,Trailer,Orchestration,2
-Music,Trailer,Performance,5
-Music,Trailer,Production,2
-Music,Trailer,Recording,2
-Music,Trailer,Voice Direction,3
-Music,Trailer,Voice Talent,3
-Production,Compliance,General,10
-Production,Compliance,Microsoft,10
-Production,Compliance,Sony,10
-Production,Finance,Control & Analysis,20
-Production,Launch,Community,20
-Production,Online Stores,Application Specialist,8
-Production,Online Stores,Key Distribution,8
-Production,Online Stores,Tools Programming,8
-Production,Community Manager,100
-Production,Compliance,Certification Management,20
-Production,Early-Access,Marketing,20
-Production,Early-Access,Planning,20
-Production,Early-Access,Producer,20
-Production,Early-Access,QA,40
-Production,Internal Communications,10
-Production,Launch,Marketing,20
-Production,Launch,Planning,20
-Production,Launch,Producer,20
-Production,Launch,QA,40
-Production,Online Product Management,20
-Production,Producer,80
-Production,Product Manager,20
-Production,Project Closer,10
-Production,Project Management,40
-Production,Release Planning,20
-Programming,Gameplay,Character,Tracking System,40
-Programming,Accessibility,Audio,8
-Programming,Accessibility,Ergonomics,3
-Programming,Accessibility,Launch & Menu,8
-Programming,Accessibility,Physical,8
-Programming,Accessibility,Settings,8
-Programming,Accessibility,Visual,8
-Programming,Architecture,Application Architecture,40
-Programming,Architecture,Asset Bundle Architecture,10
-Programming,Architecture,Asset Pipeline Architecture,20
-Programming,Architecture,Gameplay Architecture,20
-Programming,Architecture,Input Architecture,20
-Programming,Architecture,Middleware Integration Architecture,20
-Programming,Architecture,Release Pipeline Architecture,20
-Programming,Architecture,Rendering Architecture,30
-Programming,Architecture,Sound Architecture,20
-Programming,Asset Management,Asset Bundle Delivery,20
-Programming,Asset Management,Asset Bundle Design,10
-Programming,Framework,Camera & Visual,30
-Programming,Framework,Character,40
-Programming,Framework,Combat,40
-Programming,Framework,Crafting,40
-Programming,Framework,Events,30
-Programming,Framework,Gameplay,40
-Programming,Framework,Input Framework,30
-Programming,Framework,Localization,40
-Programming,Framework,Sound Framework,40
-Programming,Framework,Time Of Day,20
-Programming,Framework,UI,20
-Programming,Framework,Unity Engine,40
-Programming,Framework,Weather,20
-Programming,Framework,Animal AI,80
-Programming,Framework,Character Anatomy,80
-Programming,Framework,Navigation System,40
-Programming,Gameplay,Animals,Animal Tracks,10
-Programming,Gameplay,Animals,Bird AI,20
-Programming,Gameplay,Animals,Fish AI,10
-Programming,Gameplay,Animals,Herd Behavior,40
-Programming,Gameplay,Animals,Predator AI,40
-Programming,Gameplay,Animals,Prey AI,40
-Programming,Gameplay,Animation,AI Animal Integration,20
-Programming,Gameplay,Animation,Character Integration,10
-Programming,Gameplay,Animation,State Machines,20
-Programming,Gameplay,Animation,Tools Programming,10
-Programming,Gameplay,Camera,Auto Focus,10
-Programming,Gameplay,Camera,First-Person,30
-Programming,Gameplay,Camera,Movement,10
-Programming,Gameplay,Camera,Post-Processing,20
-Programming,Gameplay,Character,Anatomy Visualization,20
-Programming,Gameplay,Character,Awareness System,10
-Programming,Gameplay,Character,Awareness Visualization,10
-Programming,Gameplay,Character,Injury System,40
-Programming,Gameplay,Character,Injury Visualization,20
-Programming,Gameplay,Character,Mental System,40
-Programming,Gameplay,Character,Mental Visualization,20
-Programming,Gameplay,Character,Rest System,20
-Programming,Gameplay,Character,Rest Visualization,20
-Programming,Gameplay,Character,Sensory System,40
-Programming,Gameplay,Character,Sensory Visualization,20
-Programming,Gameplay,Character,Sound System,40
-Programming,Gameplay,Character,Tracking Visualization,20
-Programming,Gameplay,Character,Tracking Visualization,20
-Programming,Gameplay,Environment,Bendable Plants & Grass,30
-Programming,Gameplay,Environment,Footsteps,30
-Programming,Gameplay,Environment,Wind,30
-Programming,Gameplay,Movement,Combat,80
-Programming,Gameplay,Movement,Interactions,40
-Programming,Gameplay,Movement,Physics,40
-Programming,Gameplay,Projectiles,Combat,20
-Programming,Gameplay,Projectiles,Firing,20
-Programming,Gameplay,Projectiles,Interactions,40
-Programming,Gameplay,Projectiles,Physics,40
-Programming,Gameplay,Scripted Events,60
-Programming,Gameplay,Tools,Crafting Visualization,20
-Programming,Gameplay,Tools,Crafting,80
-Programming,Gameplay,Tools,Harvesting Animals,40
-Programming,Gameplay,Tools,Harvesting Plants,20
-Programming,Gameplay,Tools,Tree Cutting,20
-Programming,Gameplay,Water,Boating,40
-Programming,Gameplay,Water,Fishing,40
-Programming,Gameplay,Water,Physics,80
-Programming,Gameplay,Water,Swimming,20
-Programming,Gameplay,Water,Swimming,40
-Programming,Gameplay,Weapons,Combat,40
-Programming,Gameplay,Weapons,Interactions,40
-Programming,Gameplay,Weapons,Physics,20
-Programming,General,Rendering Programming,20
-Programming,General,Sound Programming,30
-Programming,General,Systems Programming,40
-Programming,General,Tools Programming,40
-Programming,Middleware,A* Pathfinding,20
-Programming,Middleware,Beautify Post-Processing,20
-Programming,Middleware,Enviro Sky & Weather,20
-Programming,Middleware,FMOD,40
-Programming,Middleware,GPU Instancer,20
-Programming,Middleware,Input Manager & Controllers,20
-Programming,Middleware,Unity Physics,20
-Programming,Middleware,Vegetation Studio Pro,20
-Programming,Navigation & Pathfinding,20
-Programming,Networking,Network Programming,20
-Programming,Platform-Specific,AMD Programming,20
-Programming,Platform-Specific,Nvidia Programming,20
-Programming,Platform-Specific,PlayStation 4 Programming,20
-Programming,Platform-Specific,PlayStation 5 Programming,20
-Programming,Platform-Specific,XBox One Programming,20
-Programming,Platform-Specific,XBox Series X Programming,10
-Programming,UI,Direction,20
-Programming,UI,HUD,Design,40
-Programming,UI,HUD,Direction,20
-Programming,UI,HUD,Programming,40
-Programming,UI,In-Game,Design,40
-Programming,UI,In-Game,Direction,20
-Programming,UI,In-Game,Programming,40
-Programming,UI,Main Menu,Design,20
-Programming,UI,Main Menu,Direction,10
-Programming,UI,Main Menu,Programming,20
-Programming,User Experience,General,20
-Programming,Web Development,20
-Programming,Web Services Integration,5
-Research,Accessibility,Audio,5
-Research,Accessibility,Ergonomics,2
-Research,Accessibility,General,5
-Research,Accessibility,General,5
-Research,Accessibility,Physical,5
-Research,Accessibility,Visual,5
-Research,Authenticity,Appalachian Clothing,10
-Research,Authenticity,Appalachian Shelter,10
-Research,Authenticity,Appalachian Tools,30
-Research,Authenticity,Authenticity Consultant - Catawba,3
-Research,Authenticity,Authenticity Consultant - Cayuga,3
-Research,Authenticity,Authenticity Consultant - Cherokee,3
-Research,Authenticity,Authenticity Consultant - Chickasaw,3
-Research,Authenticity,Authenticity Consultant - Choctaw,3
-Research,Authenticity,Authenticity Consultant - Delaware,3
-Research,Authenticity,Authenticity Consultant - Huron,3
-Research,Authenticity,Authenticity Consultant - Meherrin,3
-Research,Authenticity,Authenticity Consultant - Miami,3
-Research,Authenticity,Authenticity Consultant - Mohawk,3
-Research,Authenticity,Authenticity Consultant - Mohicans,3
-Research,Authenticity,Authenticity Consultant - Monacan,3
-Research,Authenticity,Authenticity Consultant - Muskogee,3
-Research,Authenticity,Authenticity Consultant - Nanticoke,3
-Research,Authenticity,Authenticity Consultant - Oneida,3
-Research,Authenticity,Authenticity Consultant - Onondaga,3
-Research,Authenticity,Authenticity Consultant - Osage,3
-Research,Authenticity,Authenticity Consultant - Peoria,3
-Research,Authenticity,Authenticity Consultant - Seneca,3
-Research,Authenticity,Authenticity Consultant - Shawnee,3
-Research,Authenticity,Authenticity Consultant - Tuscarora,3
-Research,Authenticity,Jewelry Consultant x10,10
-Support,Early-Access Game Support,40
-Support,Launch Game Support,80
-Support,Post-Launch Game Support,150
-Technology,Automated Release Tools,20
-Technology,Build Tools,20
-Technology,Data Backups,10
-Technology,Data Management,3
-Technology,General Architecture,8
-Technology,General DevOps,20
-Technology,General,8
-Technology,Internal Automation,20
-Technology,Internal Tooling,20
-Technology,Online Systems Administration,8
-Technology,Security Review and Analysis,8
-Technology,Server Maintenance,10
-Technology,Source Control,10
+[60pt] Game Design,Placeholder for general game design tasks,task,open,version 0.1
+[40pt] Gameplay Input,Design how the input system achieves all of the gameplay mechanics,task,open,version 0.1
+[40pt] Trailer Design,Design the launch trailer,task,open,version 0.1
+[80pt] Feature Design - Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[30pt] Feature Design - Combat,Design and document the feature for development,task,open,version 0.1
+[20pt] Feature Design - Tree Cutting,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Health,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Archery,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Crafting,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Clothing,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Skills Progression,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Exploration & Navigation,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Animal Engagements,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Hunting & Tracking,Design and document the feature for development,task,open,version 0.1
+[10pt] Feature Design - Animal Processing,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Weather,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Swimming,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Boating,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Caves,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Night & Day,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Character Vision,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Character Sensory,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Character Experience,Design and document the feature for development,task,open,version 0.1
+[30pt] Feature Design - Camera POV,Design and document the feature for development,task,open,version 0.1
+[10pt] World Design - Direction,Offer direction to task assignees and clarify any pending questions,task,open,version 0.1
+[10pt] World Design - Ponds (Research),Research the environment assets needed for the Ponds,task,open,version 0.1
+[10pt] World Design - Ponds (In-Engine),Setup in Unity3D the environment assets needed for the Ponds,task,open,version 0.1
+[20pt] World Design - Ponds (System Integration),Integrate the environment assets needed for the Ponds with the rest of the system,task,open,version 0.1
+[10pt] World Design - Rivers & Streams (Research),Research the environment assets needed for the Rivers & Streams,task,open,version 0.1
+[20pt] World Design - Rivers & Streams (In-Engine),Setup in Unity3D the environment assets needed for the Rivers & Streams,task,open,version 0.1
+[20pt] World Design - Rivers & Streams (System Integration),Integrate the environment assets needed for the Rivers & Streams with the rest of the system,task,open,version 0.1
+[10pt] World Design - Cove Forest (Research),Research the environment assets needed for the Cove Forest,task,open,version 0.1
+[10pt] World Design - Cove Forest (In-Engine),Setup in Unity3D the environment assets needed for the Cove Forest,task,open,version 0.1
+[5pt] World Design - Cove Forest (System Integration),Integrate the environment assets needed for the Cove Forest with the rest of the system,task,open,version 0.1
+[10pt] World Design - Beech-Maple Forest (Research),Research the environment assets needed for the Beech-Maple Forest,task,open,version 0.1
+[10pt] World Design - Beech-Maple Forest (In-Engine),Setup in Unity3D the environment assets needed for the Beech-Maple Forest,task,open,version 0.1
+[5pt] World Design - Beech-Maple Forest (System Integration),Integrate the environment assets needed for the Beech-Maple Forest with the rest of the system,task,open,version 0.1
+[10pt] World Design - Rocky Pine-Oak Forest (Research),Research the environment assets needed for the Rocky Pine-Oak Forest,task,open,version 0.1
+[10pt] World Design - Rocky Pine-Oak Forest (In-Engine),Setup in Unity3D the environment assets needed for the Rocky Pine-Oak Forest,task,open,version 0.1
+[5pt] World Design - Rocky Pine-Oak Forest (System Integration),Integrate the environment assets needed for the Rocky Pine-Oak Forest with the rest of the system,task,open,version 0.1
+[10pt] World Design - Low-Elevation Pine Forest (Research),Research the environment assets needed for the Low-Elevation Pine Forest,task,open,version 0.1
+[10pt] World Design - Low-Elevation Pine Forest (In-Engine),Setup in Unity3D the environment assets needed for the Low-Elevation Pine Forest,task,open,version 0.1
+[5pt] World Design - Low-Elevation Pine Forest (System Integration),Integrate the environment assets needed for the Low-Elevation Pine Forest with the rest of the system,task,open,version 0.1
+[10pt] World Design - Northern Hardwood Forest (Research),Research the environment assets needed for the Northern Hardwood Forest,task,open,version 0.1
+[10pt] World Design - Northern Hardwood Forest (In-Engine),Setup in Unity3D the environment assets needed for the Northern Hardwood Forest,task,open,version 0.1
+[5pt] World Design - Northern Hardwood Forest (System Integration),Integrate the environment assets needed for the Northern Hardwood Forest with the rest of the system,task,open,version 0.1
+[10pt] World Design - Spruce Fir Forest (Research),Research the environment assets needed for the Spruce Fir Forest,task,open,version 0.1
+[10pt] World Design - Spruce Fir Forest (In-Engine),Setup in Unity3D the environment assets needed for the Spruce Fir Forest,task,open,version 0.1
+[5pt] World Design - Spruce Fir Forest (System Integration),Integrate the environment assets needed for the Spruce Fir Forest with the rest of the system,task,open,version 0.1
+[10pt] World Design - Oak Forest (Research),Research the environment assets needed for the Oak Forest,task,open,version 0.1
+[10pt] World Design - Oak Forest (In-Engine),Setup in Unity3D the environment assets needed for the Oak Forest,task,open,version 0.1
+[5pt] World Design - Oak Forest (System Integration),Integrate the environment assets needed for the Oak Forest with the rest of the system,task,open,version 0.1
+[10pt] World Design - Shale Barrens (Research),Research the environment assets needed for the Shale Barrens,task,open,version 0.1
+[10pt] World Design - Shale Barrens (In-Engine),Setup in Unity3D the environment assets needed for the Shale Barrens,task,open,version 0.1
+[5pt] World Design - Shale Barrens (System Integration),Integrate the environment assets needed for the Shale Barrens with the rest of the system,task,open,version 0.1
+[10pt] World Design - Appalachian Bald (Research),Research the environment assets needed for the Appalachian Bald,task,open,version 0.1
+[10pt] World Design - Appalachian Bald (In-Engine),Setup in Unity3D the environment assets needed for the Appalachian Bald,task,open,version 0.1
+[5pt] World Design - Appalachian Bald (System Integration),Integrate the environment assets needed for the Appalachian Bald with the rest of the system,task,open,version 0.1
+[10pt] World Design - Caves (Research),Research the environment assets needed for the Caves,task,open,version 0.1
+[10pt] World Design - Caves (In-Engine),Setup in Unity3D the environment assets needed for the Caves,task,open,version 0.1
+[5pt] World Design - Caves (System Integration),Integrate the environment assets needed for the Caves with the rest of the system,task,open,version 0.1
+[20pt] World Design - Environment Sound,Create a general environment soundscape to start levels from,task,open,version 0.1
+[20pt] World Design - Weather Patterns,Define the base weather patterns for the world,task,open,version 0.1
+[20pt] World Design - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 0.1
+[40pt] Level Design - Plateau (In-Engine),Placeholder for reviews and extra tasks for designing the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Terrain (In-Engine),Design the Terrain in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Ponds (In-Engine),Design the Ponds in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Rivers & Streams (In-Engine),Design the Rivers & Streams in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Caves (In-Engine),Design the Caves in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Forests (In-Engine),Design the Forests in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Flora (In-Engine),Design the Flora in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Fauna (In-Engine),Design the Fauna in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Materials (In-Engine),Design the Materials in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - State (In-Engine),Design the State in Unity3D for the Level,task,open,version 0.1
+[10pt] Level Design - Plateau - Map Connections (In-Engine),Design the Map Connections in Unity3D for the Level,task,open,version 0.1
+[20pt] Level Design - Plateau - System Integration,Integrate the Level with the rest of the game.,task,open,version 0.1
+[10pt] Level Design - Plateau - Environment Sound,Create the soundscape for the level,task,open,version 0.1
+[5pt] Level Design - Plateau - Weather Patterns,Define the weather patterns for the level,task,open,version 0.1
+[5pt] Level Design - Plateau - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 0.1
+[40pt] Level Design - Lakes (In-Engine),Placeholder for reviews and extra tasks for designing the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Terrain (In-Engine),Design the Terrain in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Ponds (In-Engine),Design the Ponds in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Rivers & Streams (In-Engine),Design the Rivers & Streams in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Caves (In-Engine),Design the Caves in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Forests (In-Engine),Design the Forests in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Flora (In-Engine),Design the Flora in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Fauna (In-Engine),Design the Fauna in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Materials (In-Engine),Design the Materials in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - State (In-Engine),Design the State in Unity3D for the Level,task,open,version 0.5
+[10pt] Level Design - Lakes - Map Connections (In-Engine),Design the Map Connections in Unity3D for the Level,task,open,version 0.5
+[20pt] Level Design - Lakes - System Integration,Integrate the Level with the rest of the game.,task,open,version 0.5
+[10pt] Level Design - Lakes - Environment Sound,Create the soundscape for the level,task,open,version 0.5
+[5pt] Level Design - Lakes - Weather Patterns,Define the weather patterns for the level,task,open,version 0.5
+[5pt] Level Design - Lakes - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 0.5
+[40pt] Level Design - Ohio (In-Engine),Placeholder for reviews and extra tasks for designing the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Terrain (In-Engine),Design the Terrain in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Ponds (In-Engine),Design the Ponds in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Rivers & Streams (In-Engine),Design the Rivers & Streams in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Caves (In-Engine),Design the Caves in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Forests (In-Engine),Design the Forests in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Flora (In-Engine),Design the Flora in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Fauna (In-Engine),Design the Fauna in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Materials (In-Engine),Design the Materials in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - State (In-Engine),Design the State in Unity3D for the Level,task,open,version 0.9
+[10pt] Level Design - Ohio - Map Connections (In-Engine),Design the Map Connections in Unity3D for the Level,task,open,version 0.9
+[20pt] Level Design - Ohio - System Integration,Integrate the Level with the rest of the game.,task,open,version 0.9
+[10pt] Level Design - Ohio - Environment Sound,Create the soundscape for the level,task,open,version 0.9
+[5pt] Level Design - Ohio - Weather Patterns,Define the weather patterns for the level,task,open,version 0.9
+[5pt] Level Design - Ohio - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 0.9
+[40pt] Level Design - Ridge (In-Engine),Placeholder for reviews and extra tasks for designing the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Terrain (In-Engine),Design the Terrain in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Ponds (In-Engine),Design the Ponds in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Rivers & Streams (In-Engine),Design the Rivers & Streams in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Caves (In-Engine),Design the Caves in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Forests (In-Engine),Design the Forests in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Flora (In-Engine),Design the Flora in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Fauna (In-Engine),Design the Fauna in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Materials (In-Engine),Design the Materials in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - State (In-Engine),Design the State in Unity3D for the Level,task,open,version 1.0
+[10pt] Level Design - Ridge - Map Connections (In-Engine),Design the Map Connections in Unity3D for the Level,task,open,version 1.0
+[20pt] Level Design - Ridge - System Integration,Integrate the Level with the rest of the game.,task,open,version 1.0
+[10pt] Level Design - Ridge - Environment Sound,Create the soundscape for the level,task,open,version 1.0
+[5pt] Level Design - Ridge - Weather Patterns,Define the weather patterns for the level,task,open,version 1.0
+[5pt] Level Design - Ridge - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 1.0
+[40pt] Level Design - Interior (In-Engine),Placeholder for reviews and extra tasks for designing the level,task,open,version 1.0
+[10pt] Level Design - Interior - Terrain (In-Engine),Design the Terrain in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Ponds (In-Engine),Design the Ponds in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Rivers & Streams (In-Engine),Design the Rivers & Streams in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Caves (In-Engine),Design the Caves in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Forests (In-Engine),Design the Forests in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Flora (In-Engine),Design the Flora in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Fauna (In-Engine),Design the Fauna in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Materials (In-Engine),Design the Materials in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - State (In-Engine),Design the State in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Interior - Map Connections (In-Engine),Design the Map Connections in Unity3D for the level,task,open,version 1.0
+[20pt] Level Design - Interior - System Integration,Integrate the level with the rest of the game.,task,open,version 1.0
+[10pt] Level Design - Interior - Environment Sound,Create the soundscape for the level,task,open,version 1.0
+[5pt] Level Design - Interior - Weather Patterns,Define the weather patterns for the level,task,open,version 1.0
+[5pt] Level Design - Interior - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 1.0
+[40pt] Level Design - Highlands (In-Engine),Placeholder for reviews and extra tasks for designing the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Terrain (In-Engine),Design the Terrain in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Ponds (In-Engine),Design the Ponds in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Rivers & Streams (In-Engine),Design the Rivers & Streams in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Caves (In-Engine),Design the Caves in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Forests (In-Engine),Design the Forests in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Flora (In-Engine),Design the Flora in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Fauna (In-Engine),Design the Fauna in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Materials (In-Engine),Design the Materials in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - State (In-Engine),Design the State in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Highlands - Map Connections (In-Engine),Design the Map Connections in Unity3D for the level,task,open,version 1.0
+[20pt] Level Design - Highlands - System Integration,Integrate the level with the rest of the game.,task,open,version 1.0
+[10pt] Level Design - Highlands - Environment Sound,Create the soundscape for the level,task,open,version 1.0
+[5pt] Level Design - Highlands - Weather Patterns,Define the weather patterns for the level,task,open,version 1.0
+[5pt] Level Design - Highlands - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 1.0
+[40pt] Level Design - Piedmont (In-Engine),Placeholder for reviews and extra tasks for designing the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Terrain (In-Engine),Design the Terrain in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Ponds (In-Engine),Design the Ponds in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Rivers & Streams (In-Engine),Design the Rivers & Streams in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Caves (In-Engine),Design the Caves in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Forests (In-Engine),Design the Forests in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Flora (In-Engine),Design the Flora in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Fauna (In-Engine),Design the Fauna in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Materials (In-Engine),Design the Materials in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - State (In-Engine),Design the State in Unity3D for the level,task,open,version 1.0
+[10pt] Level Design - Piedmont - Map Connections (In-Engine),Design the Map Connections in Unity3D for the level,task,open,version 1.0
+[20pt] Level Design - Piedmont - System Integration,Integrate the level with the rest of the game.,task,open,version 1.0
+[10pt] Level Design - Piedmont - Environment Sound,Create the soundscape for the level,task,open,version 1.0
+[5pt] Level Design - Piedmont - Weather Patterns,Define the weather patterns for the level,task,open,version 1.0
+[5pt] Level Design - Piedmont - Astronomical,Create the base day/night/moon position/stars position for the world,task,open,version 1.0
