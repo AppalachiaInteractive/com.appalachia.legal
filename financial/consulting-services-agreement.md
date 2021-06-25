@@ -19,15 +19,15 @@ The `Agreement` is made effective, by and between `%consultant%` (the `Consultan
 
 ## Background
 
-- `Appalachia Interactive` is of the opinion that the `Consultant` has the necessary qualifications, experience and abilities to provide consulting `Services` to `Appalachia Interactive`.
+- `Appalachia Interactive` is of the opinion that the `Consultant` has the necessary qualifications, experience and abilities to provide consulting services (the `Services`) to `Appalachia Interactive`.
 
-- The `Consultant` is agreeable to providing such consulting `Services` to `Appalachia Interactive` on the terms and conditions set out in this `Agreement`.
+- The `Consultant` is agreeable to providing the `Services` to `Appalachia Interactive` on the terms and conditions set out in this `Agreement`.
 
 - In consideration of the matters described above and of the mutual benefits and obligations set forth in this `Agreement`, the receipt and sufficiency of which consideration is hereby acknowledged, `Appalachia Interactive` and the `Consultant` agree as follows:
 
 ## Scope of Services
 
-- The `Consultant` will provide `Appalachia Interactive` with consulting `Services`(the `Services`) as mutually agreed upon and described in the attached `Statement(s) of Work`.  The `Parties` may use this `Agreement` for multiple `Statements of Work`. Each `Statement of Work` must reference this `Agreement`.
+- The `Consultant` will provide `Appalachia Interactive` with the `Services` as mutually agreed upon and described in the attached `Statement(s) of Work`.  The `Parties` may use this `Agreement` to engage in multiple `Statements of Work`.  Each `Statement of Work` must reference this `Agreement`.
 
 - `Statement(s) of Work` will be written documents setting forth at a minimum:
     - A complete, sufficiently-detailed description of the types of `Service` to be rendered;
@@ -108,13 +108,14 @@ IN WITNESS WHEROF, the `Parties` hereto have caused this `Agreement` to be execu
 
 ### Appalachia Interactive
 
-701 Brunot Street, Studio B
-Verona, Pennsylvania
-United States of America
+701 Brunot Street, Studio B  
+Verona, Pennsylvania  
+United States of America  
 
 Name  
+Christopher Schubert
 ___
-Signature
+Signature  
 ___
 
 ### %consultant%

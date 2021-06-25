@@ -8,8 +8,8 @@ Don't hesitate to reach out to us!  Here's a few ways:
 - [Youtube](https://appa.la/youtube)
 - [Discord](https://appa.la/discord)
 - [Github](https://appa.la/github)
-- [Tweet](https://appa.la/tweet)
-- [Insta](https://appa.la/insta)
+- [Twitter](https://appa.la/tweet)
+- [Instagram](https://appa.la/insta)
 - [Twitch](https://appa.la/twitch)
 
 ## Email

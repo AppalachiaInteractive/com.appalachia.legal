@@ -43,13 +43,14 @@ Time estimated: %servicetime%
 
 ### Appalachia Interactive
 
-701 Brunot Street, Studio B
-Verona, Pennsylvania
-United States of America
+701 Brunot Street, Studio B  
+Verona, Pennsylvania  
+United States of America  
 
 Name  
+Christopher Schubert
 ___
-Signature
+Signature  
 ___
 
 ### %consultant%
