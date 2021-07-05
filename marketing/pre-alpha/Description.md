@@ -1,4 +1,4 @@
-Keepers Of Creation is an immersive single-player exploration-survival experience set in the ancient and mysterious forests of Appalachia.
+Keepers of Creation is an immersive single-player exploration-survival experience set in the ancient and mysterious forests of Appalachia.
 
 Alone in the woods, players are invited to explore the old-growth rocky pine forests, jagged shale barrens, and lush cove forests while being challenged to survive using the strategies of those who lived there, and to learn to live in a land with a mind of its own.
 
@@ -10,4 +10,4 @@ And when you're there, if you listen close, you might hear the whispers on the w
 
 Get Early Access on [Steam](https://store.steampowered.com/dev/appalachia) in 2022.
 
-*Keepers Of Creation will always be offered as choose-your-own-price (from $0.00 to full retail price) for all members of internationally-, nationally-, state- and province-recognized Indigenous nations from around the world.*
+*Keepers of Creation will always be offered as choose-your-own-price (from $0.00 to full retail price) for all members of internationally-, nationally-, state- and province-recognized Indigenous nations from around the world.*

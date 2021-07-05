@@ -16,4 +16,4 @@
 
 ### Releases
 
-[Keepers Of Creation](https://keepersofcreation.com) (Coming Soon)
+[Keepers of Creation](https://keepersofcreation.com) (Coming Soon)
