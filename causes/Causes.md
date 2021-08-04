@@ -18,6 +18,10 @@ We've split the causes that we're supporting today up by category.  You can foll
 
 ### [Native Peoples](https://appalachiainteractive.com/causes/native-peoples)
 
+### [Black, Indigenous, and Other People of Color](https://appalachiainteractive.com/causes/bipoc/)
+
+### Sexual and Gender Minorities (coming soon!)
+
 ### [Environmental Conservation](https://appalachiainteractive.com/causes/environment)
 
 ### [Animal Rights](https://appalachiainteractive.com/causes/animal-rights)
