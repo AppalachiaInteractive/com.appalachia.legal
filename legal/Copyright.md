@@ -1,4 +1,4 @@
-### Copyright © 2021 Appalachia Interactive​
+### Copyright © 2018-2022 Appalachia Interactive​
 
 APPALACHIA INTERACTIVE, the APPALACHIA INTERACTIVE Squirrel Logo design, the APPALACHIA INTERACTIVE Squirrel Icon design, the APPALACHIA INTERACTIVE Squirrel Block Logo design, and the APPALACHIA INTERACTIVE Squirrel Narrow Logo design are trademarks, exclusive trademarks or registered trademarks of Appalachia Interactive in the U.S. and elsewhere.
 

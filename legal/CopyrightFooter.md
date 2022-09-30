@@ -1,4 +1,4 @@
-### Copyright © 2021 Appalachia Interactive​
+### Copyright © 2018-2022 Appalachia Interactive​
 
 APPALACHIA INTERACTIVE and the APPALACHIA INTERACTIVE [designs and logos](https://appalachiainteractive.com/about/brand-assets) are trademarks, exclusive trademarks or registered trademarks of Appalachia Interactive in the U.S. and elsewhere.
 
